@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LOCI COMMUNES SENTENTIARUM</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>CoMByN Project</authority>
+            <date>2026-</date>
+            <availability>
+               <p>Not to ricirculate. Contact the CoMByN Project researchers for more information.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            
+            <!-- ##########  Editio Princeps Gesner ##########-->
+            <bibl>
+               <title>
+                  Apomnemonēumatōn, Ek Diaphorōn Tōn Te Kath Hemas, kai tōn thyrathen bibliōn tomoi treis : = Sententiarvm Sive Capitvm, Theologicorvm Praecipve, ex sacris <choice><sic>&amp;</sic><reg>et</reg></choice>amp;amp; profanis libris, Tomi tres
+               </title>
+               <author>
+                  per Antonium <choice><sic>&amp;</sic><reg>et</reg></choice>amp;amp; Maximum monachos olim collecti 
+               </author>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p></p>
+        </projectDesc>
+        <charDecl>
+           <char xml:id="ucap">
+              <unicodeProp name="Name" value="LATIN CAPITAL LETTER U"/>
+              <mapping type="codepoint">U+0055</mapping>
+              <mapping type="diplomatic">V</mapping>
+              <mapping type="normalized">U</mapping>
+           </char>
+           <char xml:id="umacr">
+              <unicodeProp name="Name" value="LATIN SMALL LETTER U WITH MACRON"/>
+              <mapping type="codepoint">U+016B</mapping>
+              <mapping type="diplomatic">ū</mapping>
+              <mapping type="normalized">u</mapping>
+           </char>
+        </charDecl>
+     </encodingDesc>
+  </teiHeader>
+   <!--facsimile xml:id="EP_facsimile">
+      <surface></surface>
+   </facsimile-->
+  <text>
+      <body>
+         <div>            
+            <pb n="179" facs="179.jpg" xml:id="p179"/>
+            <head>
+               LOCI COMMVNES SEN=
+               <lb/>TENTIARUM, QUAS S. PATER MAXIMUS EX SA=
+               <lb/>cris <choice><sic>&amp;</sic><reg>et</reg></choice>amp; prophanis libris Græcis congeſſit, Ioanne
+               <lb/>Ribitto interprete.
+               <lb/>Gratiam Chriſte laboribus impertire meis.
+               <lb/>SANCTI EPHRAIMI
+            </head>
+         </div>
+         <div>
+            <p rend="italic">
+               Q<choice><sic>VV</sic><reg>UU</reg></choice>M in diuinis libris uerſaris, noli tantum curare ut leuiter percurras, 🙰 quæ ſcripta ſunt obiter per<lb/>ſequaris, ſed etiam ſi opus erit, ſæpe 🙰 iterum 🙰 tertium rem eandem perlegas diligenter accurate'q;
+            ſine recuſatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hūc
+            modum: Aures 🙰 oculos cordis mei domine leſu Chriſte aperi, ut audiam 🙰 intelligam ſermones tuos. 🙰 uolun
+            sati paream tuæ: peregrinus ego ſum in terra, mandata tua ne me cælato. Pateſac oculos meos, ut quæ ſunt admira¬
+            bilia in lege tua intelligam.</p>
+         </div>
+         <div type="sermo" xml:id="EP_sermo_I">
+            <head>DE VITAE VIRTUTE ET VITIO, SERMO I.</head>
+            <p>
+               <lb n="14"/>ANGUSTA uia <choice><sic>&amp;</sic><reg>et</reg></choice> arcta quæ ad uitam deducit.
+               <span rend="italic" type="sermo-bibl-right">Matth.7.</span>               
+            </p>
+            <p>
+               <lb n="15"/>Noli uinci à malo, ſed per bonum uince malum.
+               <span rend="italic" type="sermo-bibl-right">Rom.12.</span>
+            </p>
+            <p>
+               <lb n="16"/>Virtutis quidem ſignum nullum oſtendere poſſumus: in uitio au
+               <lb n="17"/>tem conſumpti ſumus.
+               <span rend="italic" type="sermo-bibl-right">Solomonis.</span>
+            </p>
+            <p>
+               <lb n="18"/>Vide ne te ſeducant impij. nec per uiā cū illis gradiaris: ſed retra=
+               <lb n="19"/>he pedem tuum à ſemitis illorum, quod pedes ipſorū ad uitia currāt.
+               <span rend="italic" type="sermo-bibl-right">Eiusdem.</span>
+            </p>
+            <p>
+               <lb n="20"/>Qui rem aliquam contemnit, contemnetur ab ipſa.               
+            </p>
+            <p>
+               <lb n="21"/>Quemadmodum uua acerba nocet dentibus, <choice><sic>&amp;</sic><reg>et</reg></choice> fumus oculis: ſic iniquitas <choice><sic>&amp;</sic><reg>et</reg></choice> legis
+               <lb n="22"/>uiolatio uiolatoribus.              
+            </p>
+            <p>
+               <lb n="23"/>Noli mala facere, <choice><sic>&amp;</sic><reg>et</reg></choice> te mala non apprehendent.
+               <span rend="italic" type="sermo-bibl-right">Sirach 7.</span>
+            </p>            
+            <p>
+               <lb n="24"/>Qui praua ſcelera admittit, in ipſa includetur, nec intelliget unde ipſi accidant.
+            </p>
+            <p>
+               <lb n="25"/>Vt ignis ſua natura illuminat, <choice><sic>&amp;</sic><reg>et</reg></choice> unguentum odorem emittit: ſic etiā bonas actio=
+               <lb n="26"/>nes neceſſario ſequitur aliquod emolumentum.
+               <span rend="italic" type="sermo-bibl-right">Basilij.</span>
+            </p>
+            <p></p>
+            <lb n="27"/>Virtutis exercitatio pretioſa eſt habenti poſſeſſio, <choice><sic>&amp;</sic><reg>et</reg></choice> iucundiſſimum congredien=
+            <lb n="28"/>tibus ſpectaculum.
+            <p></p>
+            <span rend="italic" type="sermo-bibl-right">Theologi.</span>
+            <lb n="29"/>Non ſolum præclara actio nobiles efficit, ſed etiam uitium improborum gloriam
+            <lb n="30"/>ſuperans.
+            <lb n="31"/>Rara eſt boni poſſeſſio atqꝫ difficilis, etiāſi in eo ſit quod multū attrahat <choice><sic>&amp;</sic><reg>et</reg></choice> inuitet.
+            <lb n="32"/>Natura uitium promptum eſt, <choice><sic>&amp;</sic><reg>et</reg></choice> magnus ad id quod peſſimum eſt concurſus fit,
+            <lb n="33"/>ut torrens per prona ruit, <choice><sic>&amp;</sic><reg>et</reg></choice> ſtipulæ ad ſcintillam <choice><sic>&amp;</sic><reg>et</reg></choice> uentum facile accenduntur ac in
+            <lb n="34"/>flammantur, <choice><sic>&amp;</sic><reg>et</reg></choice> à ſua ipſa prole, uidelicet flammis, conſumuntur.
+            <lb n="35"/>Non eſt admodum facile uirtutum uictricem inuenire, atqꝫ huic dare munera ho=
+            <lb n="36"/>noraria <choice><sic>&amp;</sic><reg>et</reg></choice> uictoriæ præmia: quemadmodum nec in prato uarijs florum generibus
+            <lb n="37"/>ueſtito, pulcherrimum <choice><sic>&amp;</sic><reg>et</reg></choice> odoratiſſimum florem reperias, cum alibi alius odoratum
+            <lb n="38"/><choice><sic>&amp;</sic><reg>et</reg></choice> aſpectum ad ſe trahat, <choice><sic>&amp;</sic><reg>et</reg></choice> ad ſe decerpendum primum inuitet.
+            <lb n="39"/>Non poteſt fieri quin uirtutis ſtudioſus multos habeat hoſtes.
+            <span rend="italic" type="sermo-bibl-right">Chryſoſtomi</span>
+            <lb n="40"/>Non locus uirtutem, ſed uirtus locum auguſtiorem reddere ſolet.
+            <lb n="41"/>Si qui leges hominum terrenorum uiolat, ſupplicium ineuitabile ſuſtinet: quanto
+            <lb n="42"/>magis cruciatibus dedetur intolerabilibus, qui cœleſtis domini præſcripta reiecit?
+            <lb n="43"/>Vt in cithara non ſatis eſt in uno tantum neruo concentum efficere, ſed uniuerſi
+            
+         </div>
+      </body>
+  </text>
+</TEI>

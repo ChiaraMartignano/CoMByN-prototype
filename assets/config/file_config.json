@@ -1,0 +1,24 @@
+{
+	"editionUrls": [
+		"assets/data/editio-princeps.xml"
+	],
+	"editionImagesSource": {
+		"manifest": {
+			"value": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148590/manifest",
+			"enable": false
+		},
+		"graphics": {
+			"value": "url",
+			"enable": false
+		}
+	},
+	"imagesFolderUrls": {
+		"single": "assets/data/images/single/",
+		"double": "assets/data/images/double/"
+	},
+	"configurationUrls": {
+		"edition": "assets/config/edition_config_gesner.json",
+		"ui": "assets/config/ui_config_gesner.json",
+		"editorialConventions": "assets/config/editorial_conventions_config.json"
+	}
+}
