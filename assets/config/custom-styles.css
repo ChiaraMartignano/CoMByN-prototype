@@ -94,11 +94,11 @@ evt-addition evt-note {
     float: right;
 }
 [type="sermo-bibl-left"]{
-    float: left;
+    float: right;
 }
 
 div[type="sermo"] p {
-    margin: 0;
+    margin-bottom: 0 !important;
 }
 span.lb{
     height: 0;
