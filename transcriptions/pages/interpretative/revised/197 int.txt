@@ -4,7 +4,7 @@ Honoris magnitudo iis, qui non pro dignitate eius uitam degere instituunt, suppl
 cii accessio est.
 Deus nullius eget, rex solius dei. Imitare igitur eum qui nullius eget, et petentibus philonis.
 misericordiam impertire, cum seruis summo iure non agens, sed omnibus ea quae ad
-uitam pertinent petentibus praebens. Multò enim praestat propter dignos etiam indi¬
+uitam pertinent petentibus praebens. Multò enim praestat propter dignos etiam indi<lb/>
 gnorum misereri, quàm dignos fraudare propter indignos.
 Aristotelis.
 Multis metuendus multos metuit.
@@ -12,7 +12,7 @@ Sapientes magistratus non propter magistratum, sed propter virtutem in admira.
 tione esse debent, ut mutata fortuna iisdem laudibus digni iudicentur.
 Aemulare non summum magistratum adeptos, sed optime suo magistratu fungentes. socratis.
 Pessimum eum imperatorem esse dicebat, qui sibi ipse imperare non posset.
-Amari potius, quam metui uelis in uita. Quem enim omnes metuunt, et ipse omnes metuit. Democriti.
+Amari potius, quam metui velis in uita. Quem enim omnes metuunt, et ipse omnes metuit. Democriti.
 Magistratus aduersus tempora rationem, aduersus resistentes audaciam adhibere
 debet, erga subiectos vero beneuolentiam.
 Qui aliis imperaturus est, debet ipse sibi prius imperare.
@@ -50,6 +50,6 @@ ra et diuina sibi proponat, prudentia autem utatur humana.
 1. Ut multitudinem colere debet, qui in democratia et statu populari versatur: sic illi qui
 in monarchia et sub unius dominatu vivit, regem mirari et venerari convenit.
 Si recte familiam tuam cupis administrare, Lycurgum Spartanum imiteris. Ut enim Epicteti,
-ille non moenibus ciuitatem sepsit, sed virtute ciues obuallauit, et perpetuò ciuitati li¬
+ille non moenibus ciuitatem sepsit, sed virtute ciues obuallauit, et perpetuò ciuitati li<lb/>
 bertatem retinuit: sic tu non magnam aulam circundato, et turres altas excitato, sed
 ciues beneuolentia, fide, amicitia firmato: atque ita nihil in eam irrumpet nociturum,
