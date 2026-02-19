@@ -1,16 +1,13 @@
-SERMO IIII.
 187
-esse perfectam aetatem, tum denique bellandum: Vereor, inquit, ne dum perfectam aeta<lb/>
-tem expecto, audacem perdam iuventutem.
-Lacon cum quidam ei ut probrum obiiceret, quod claudus cum esset in militiam pro
-ficisceretur: Quid istud? (inquit non est opus fugientibus, sed manentib. et certantib.
-Robur prudentiae iunctum prodest: sed hac si careat, plurimum obest habentibus. Isocratis.
-Leonides Lacedaemonius cum parua manum ad pugnam contra Persas proficisce. Leonidae.
-retur, et diceret quidam eum cum nimis paucis proficisci: At, inquit, cum volentibus.
-Lacon aegroto corpore in aciem progrediebatur: cum autem quidam eum, quorsum
-ita affecto corpore proficisceretur, interrogarent: respondit, Ad moriendum pro patria.
-Honeste moriendi occasio arripienda est, cum licet: ne paulò post tibi tempus mo. Musonii.
-riendi, non autem honeste moriendi, accedat.
+esse perfectam aetatem, tum denique bellandum: Vereor, inquit, ne dum perfectam aeta<lb/>tem expecto, audacem perdam iuventutem.
+Lacon cum quidam ei ut probrum obiiceret, quod claudus cum esset in militiam pro<lb/>ficisceretur: Quid istud? (inquit) non est opus fugientibus, sed manentibus et certantibus.
+Robur prudentiae iunctum prodest: sed hac si careat, plurimum obest habentibus.
+Isocratis.
+Leonides Lacedaemonius cum parva manum ad pugnam contra Persas proficisce<lb/>retur, et diceret quidam eum cum nimis paucis proficisci: At, inquit, cum volentibus.
+Leonidae.
+Lacon aegroto corpore in aciem progrediebatur: cum autem quidam eum, quorsum ita affecto corpore proficisceretur, interrogarent: respondit, Ad moriendum pro patria.
+Honeste moriendi occasio arripienda est, cum licet: ne paulo post tibi tempus mo<lb/>riendi, non autem honeste moriendi, accedat.
+Musonii.
 Lacaena mulier, cum eius filius accepto vulnere in praelio claudus factus esset, isque Ex Dionis
 suam calamitatem aegre ferret: Noli, inquit, fili dolere: quotiescunque enim gradum se. Chriis.
 ceris, toties tuam virtutem recordaberis.
@@ -25,7 +22,7 @@ nihil metuendum. nihil enim iniuriae facimus: sin homo, sciat se viris minitari.
 Fortior esse mihi videtur qui cupiditates, quàm qui hostes vincit, quod difficillimum Aristoteles.
 sit seipsum vincere.
 Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit: Ex Plutarchi
-Athenienses mille aduersus illos miserunt, quorum duces erant Polyzelus, Callima, Historiis.
+Athenienses mille adversus illos miserunt, quorum duces erant Polyzelus, Callima, Historiis.
 chus, Cynaegirus, et Miltiades: confligentibus autem excercitibus utrisque, Polyzelus
 uisum admirabile ac supra hominem cum vidisset cernendi sensum amisit, caecusque
 factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mor<lb/>
