@@ -7,6 +7,10 @@
     text-align: center;
 }
 
+*[rend="align-center"] {
+    text-align: center;
+}
+
 *[rend="strikethrough"] {
     text-decoration: line-through;
 }
