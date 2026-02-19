@@ -480,7 +480,7 @@
                <span rend="italic" type="sermo-bibl-right">Herodoti.</span>
             </p>            
          </div>
-         <div>
+         <div type="sermo" xml:id="EP_sermo_III">
             <head rend="align-center">
                DE CASTITATE ET TEMPERANTIA,
             </head>
@@ -499,92 +499,62 @@
                Si cor meum alterius viri uxorem secutum est: aut si etiam insidiose pro foribus il
                <span rend="italic" type="sermo-bibl-right">Iob 31.</span>
                <pb facs="184.jpg" xml:id="p184" n="184"/>
-            </p>
-            
-            <p>
                lius sedi, alteri quoque placeat uxor mea.
             </p>
-            
             <p>
                Beata sterilis incontaminata, quae cubile non cognovit per lapsum: in visitatione animarum fructum percipiet.
+               <span type="sermo-bibl-left" rend="italic">Solom. Sap. 3.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Solom. Sap. 3.</span>
-            
             <p>
                Senectutis temperantia, non temperantia, sed intemperantiae imbecillitas est.
+               <span type="sermo-bibl-left" rend="italic">S. Basilii.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">S. Basilii.</span>
-            
             <p>
                Non igitur ob temperantiam laudari convenit eos qui execti sunt: neque enim equos quod cornu non petant laudamus, sed quod calcitrosi non sint: ac boves qui cornu non petunt, mansuetudinis laude afficimus: non enim in quo quis nihil potest, sed in quo cum possit non ad alterius iniuriam utitur, cum admiratione laudatur.
             </p>
-            
             <p>
                Tristes mores voluptuariis anteponuntur.
+               <span type="sermo-bibl-left" rend="italic">Theologi.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Theologi.</span>
-            
             <p>
                Unguentum vasculo putido non committitur.
             </p>
-            
             <p>
                Ne igitur emolliamus vires nostras, nec enervemus nos his congressionibus: multum enim, et quantum vix dici potest vitii in animos nostros hinc influit: nam tametsi non sentimus amore facti ebrii, id quid iuvat? hoc enim ipsum longe est gravissimum malum, quod nesciamus quemadmodum enervemur, et interim quavis cera fiamus molliores. Quemadmodum enim si quis leonem egregium et ferum ceperit, deinde iuba detonsa dentes exemerit, et ungues circumciderit, deformem reddit, et ridiculum, ac vel pueris expugnabilem, illum qui tam terribilis et intolerabilis erat qui vel solo rugitu omnia quatiebat: Sic et istae quoscunque ceperint, sub potestatem redigunt diaboli, molliores reddunt, calidiores, impudentes, dementes, extremae bilis homines, audaces, importunos, ignavos, effrenes, ingenio servili, illiberales, contumaces, loquaces, et omnino omnes muliebres affectus corruptos afferentes istorum animis imprimunt. Fieri enim non potest, ut qui cum mulieribus versatur, in tanta praesertim affectuum similitudine et morum, quique illorum congressionibus et colloquiis utatur, non sit circulator quidam, et circumforaneus, et impurus: nam si quid loquatur, telas et lanas meras loquitur, quod linguam quasi colore quodam muliebrium verborum coloratam habeat. Quod si quid faciat, id serviliter admodum facit, et aliena a Christiana libertate ratione et modo, non ad illam magnorum munerum functionem utiles.
+               <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
-            
             <p>
                Beatos praedicat dominus non eos qui vitam sine ulla perturbatione degunt (fieri enim non potest, in tam crassa vita spiritalem omnino et perturbationibus vacantem transigere vitam), sed eos qui ad naturales appetitiones lente et difficulter commoventur.
+               <span type="sermo-bibl-left" rend="italic">Greg. Nysseni.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Greg. Nysseni.</span>
-            
             <p>
                Omnis vitii quasi quaedam esca voluptas, facile cupidiores animos in hamum attrahit exitii.
             </p>
-            
             <p>
                Virgines corruptae non solum dicuntur propter scortationem, sed etiam propter immaturam elocationem: quum, ut ita dicam, immatura, vel a seipsa, vel a parentibus viro elocatur.
+               <span type="sermo-bibl-left" rend="italic">Clementis.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Clementis.</span>
-            
             <p>
                Rebus quatuor scortatio excitatur: cibi et potionis expletione, somni satietate, otio et lusu, inanique verborum funditatione, et vestitus exornatione.
+               <span type="sermo-bibl-left" rend="italic">Ex patribus.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Ex patribus.</span>
-            
             <p>
                Curans ventrem, et spiritum fornicationis vincere volens, similis est incendium oleo extinguenti.
+               <span type="sermo-bibl-left" rend="italic">Ioan. Climacis.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Ioan. Climacis.</span>
-            
             <p>
                Remove a coniuge tua eunuchum, Smaragdum: nam etsi geminis inferioribus exectus esse videtur, tamen habet nescio quomodo geminos in facie oculos, qui motus aspiciendo concitant, atque testes malos asciscunt et perliciunt.
+               <span type="sermo-bibl-left" rend="italic">Nili.</span>
+               <span type="sermo-bibl-left" rend="italic">διδύμων.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Nili.</span>
-            
-            <span type="sermo-bibl-left" rend="italic">διδύμων.</span>
-            
             <p>
                Fumi more, aut etiam veluti vapores quidam, insitarum voluptatum in nobis vigent appetitus. Sed temperans quidem et fortis cohibet motus, nec ulterius progredi sinit, et infirmum adhuc affectum facile superat. At iners et negligens, admittit quidem voluptatum principia quasi nudas adhuc cogitationes, permittens vero in latum progredi difficillime invenit remedium: nam captus iam et praeoccupatus, non est suarum voluntatum dominus, sed magis victrici perturbationi quasi barbaro alicui subiacet.
+               <span type="sermo-bibl-left" rend="italic">Cyrilli.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Cyrilli.</span>
-            
             <p>
                Virtutis conclave temperantia est.
+               <span type="sermo-bibl-left" rend="italic">Menandri</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Menandri</span>
-            
             <pb n="185" xml:id="p185" facs="185.jpg"/>
             <p rend="align-center">               
                Iamblichi ex una epistolarum quae ab illo de tem<lb/>perantia scriptae sunt.
@@ -725,94 +695,145 @@
             </p>
             
             <span type="sermo-bibl-left" rend="italic">Charicleae.</span>
-         <div>
+         </div>
+         <div type="sermo" xml:id="EP_sermo_IIII">
             
-            <head rend="align-center">DE FORTITUDINE ET ROBORE,</head>
-            
-            <head rend="align-center">Sermo IIII.</head>
-            
+            <head rend="align-center">DE FORTITUDINE ET ROBORE,<lb/> Sermo IIII.</head>
             <p>
                Si quis vult me sequi, abneget semetipsum, tollatque crucem suam, et me sequatur.
+               <span type="sermo-bibl-left" rend="italic">Matth.16.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Matth.16.</span>
-            
             <p>
                Induite totam dei armaturam, ut possitis stare adversus insidias diaboli, quia non est nobis lucta cum carne et sanguine, sed cum principatibus et potestatibus, cum dominis tenebrarum huius saeculi.
-            </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Ephes. 6.</span>
-            
+               <span type="sermo-bibl-left" rend="italic">Ephes. 6.</span>
+            </p>            
             <p>
                Non est homini sapientia, non est fortitudo, non est consilium adversus dominum. Equus praeparatur ad belli diem, sed a domino est auxilium.
+               <span type="sermo-bibl-left" rend="italic">Proverb. 21.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Prouerb. 21.</span>
-            
             <p>
                Cum fortioribus te ne communicato: quid communicabit olla cum lebete? ipsa collidetur, et conteretur.
+               <span type="sermo-bibl-left" rend="italic">Sirach 13.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Sirach 13.</span>
-            
             <p>
                Ferto igitur, non quidem sine ulla perturbatione, aut ullo sensu: quae enim merces est indolentiae? sed quamvis laboriose, ac cum doloribus plurimis, ferto tamen: quemadmodum generosus certator, robur et fortitudinem spectandam praebet, non solum caedendo adversarios et colluctatores, sed etiam fortiter ferendo, quas ab illis acceperit plagas: item ut gubernator doctus, et longo navigandi usu iam imperterritus, rectum minimeque aquis obruendum, atque omni tempestate excelsiorem animum servans.
+               <span type="sermo-bibl-left" rend="italic">Basilii.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Basilii.</span>
-            
             <p>
                † Fiduciam et confidentiam (quae etiamsi multam nominum similitudinem habeant, inter se tamen plurimum disiuncta sunt significatu) et fortitudinem esse dicimus et timiditatem: nam in loco confidere, fortitudinis est, ut contra diffidere et cedere timiditatis. In maius autem periculum se offerre, et irruere, nec se retrahere, temeritatis et audaciae est: declinare et retrocedere, † securitatis.
+               <span type="sermo-bibl-left" rend="italic">Theologi.</span>
+               <span type="sermo-bibl-left" rend="italic">† θάρσος καὶ θράσος.</span>
+               <span type="sermo-bibl-left" rend="italic">τασφαλείας.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Theologi.</span>
-            
-            <span type="sermo-bibl-left" rend="italic">† θάρσος καὶ θράσος.</span>
-            
-            <span type="sermo-bibl-left" rend="italic">τασφαλείας.</span>
-            
             <p>
                Neque detrectandum est certamen, neque ad id irruendum. Sic enim et nostra victoria futura est splendidior, et diaboli offensio contemptior risuque dignior. Cum attrahuntur enim magno et excelso animo resistere, non provocatos autem quiescere et occasionem expectare, bonos decet: ut simul et generositatem, inanis gloriae nos non esse appetentes ostendamus.
+               <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
-            
             <p>
                Fortis est, non solum qui vincit hostes, sed etiam qui voluptates.
+               <span type="sermo-bibl-left" rend="italic">Democriti.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Democriti.</span>
-            
             <p>
                Conspicatus Corinthiorum portas valide clausas: Num, inquit, habitant hic mulieres?
+               <span type="sermo-bibl-left" rend="italic">Socrates.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Socrates.</span>
-            
             <p>
                Robur mente carens, in quoscunqe inciderit, eos sepulchro tradit.
+               <span type="sermo-bibl-left" rend="italic">Menandri.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Menandri.</span>
-            
             <p>
                Hic cum amici hortarentur, ut noctu hostes aggrederetur: Non est, inquit, regum victoriam furari.
+               <span type="sermo-bibl-left" rend="italic">Alexander.</span>
             </p>
-            
-            <span type="sermo-bibl-left" rend="italic">Alexander.</span>
-            
             <p>
                Cum autem vidisset quendam idem cum ipso nomen habentem sed timidum: Adolescens, inquit, aut nomen aut mores mutato.
             </p>
-            
             <p>
                Idem, cum eum amici ut liberis procreandis operam daret, hortarentur: Nihil est, inquit, cur soliciti sitis: relinquo enim vobis liberos certaminum victorias.
             </p>
-            
             <p>
                Idem cum ei ad bellum gerendum proficiscenti diceret Aristoteles, expectandam
+               <pb n="187" xml:id="p187" facs="187.jpg"/>
+               esse perfectam aetatem, tum denique bellandum: Vereor, inquit, ne dum perfectam aetatem expecto, audacem perdam iuventutem.
+            </p>
+            <p>
+               Lacon cum quidam ei ut probrum obiiceret, quod claudus cum esset in militiam proficisceretur: Quid istud? (inquit) non est opus fugientibus, sed manentibus et certantibus.
+            </p>
+            <p>
+               Robur prudentiae iunctum prodest: sed hac si careat, plurimum obest habentibus.
+               <span type="sermo-bibl-right" rend="italic">Isocratis.</span>
+            </p>
+            <p>
+               Leonides Lacedaemonius cum parva manum ad pugnam contra Persas proficisceretur, et diceret quidam eum cum nimis paucis proficisci: At, inquit, cum volentibus.
+               <span type="sermo-bibl-right" rend="italic">Leonidae.</span>
+            </p>
+            <p>
+               Lacon aegroto corpore in aciem progrediebatur: cum autem quidam eum, quorsum ita affecto corpore proficisceretur, interrogarent: respondit, Ad moriendum pro patria.
+            </p>
+            <p>
+               Honeste moriendi occasio arripienda est, cum licet: ne paulo post tibi tempus moriendi, non autem honeste moriendi, accedat.
+               <span type="sermo-bibl-right" rend="italic">Musonii.</span>
+            </p>
+            <p>
+               Lacaena mulier, cum eius filius accepto vulnere in praelio claudus factus esset, isque suam calamitatem aegre ferret: Noli, inquit, fili dolere: quotiescunque enim gradum feceris, toties tuam virtutem recordaberis.
+               <span type="sermo-bibl-right" rend="italic">Ex Dionis</span>
+               <span type="sermo-bibl-right" rend="italic">Chriis.</span>
+            </p>
+            <p>
+               Celtae, oceani accolae, domus aut parietis ruinam fugere turpe ducunt. Adventanti quoque refluentis maris aestui armati occurrunt, et eo usque expectant donec aquis obruti demergantur, ne videlicet fuga mortis timorem in illis possit arguere.
+               <span type="sermo-bibl-right" rend="italic">Ex Nicolai Collectaneis.</span>
+            </p>
+            <p>
+               Coriscus admodum senex cum difficili quodam morbo liberatus esset: Apage, inquit, quam moleste reversus sum, iam aliquantum viae progressus, quam ingredi omnino necesse est.
+               <span type="sermo-bibl-right" rend="italic">Coriscus.</span>
+            </p>
+            <p>
+               Cum Pyrrhus in Lacedaemonios exercitum duceret, multaque minaretur, Cercyl­lidas, unus de numero senatorum, in concione surgens: Si, inquit, deus est is qui minatur, nihil metuendum. nihil enim iniuriae facimus: sin homo, sciat se viris minitari.
+               <span type="sermo-bibl-right" rend="italic">Pyrrhus.</span>
+            </p>
+            <p>
+               Fortior esse mihi videtur qui cupiditates, quam qui hostes vincit, quod difficillimum sit seipsum vincere.
+               <span type="sermo-bibl-right" rend="italic">Aristoteles.</span>
+            </p>
+            <p>
+               Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit: Athenienses mille adversus illos miserunt, quorum duces erant Polyzelus, Callimachus, Cynaegirus, et Miltiades: confligentibus autem exercitibus utrisque, Polyzelus visum admirabile ac supra hominem cum vidisset cernendi sensum amisit, caecusque factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mortuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde a Pantelio haec scripta esse dicuntur:
+               <span type="sermo-bibl-right" rend="italic">Ex Plutarchi Historiis.</span>
+            </p>
+            <p>
+               O inanem laborem et infectum bellum.<lb/>
+               Regi nostro quid dicemus ad illum reversi?<lb/>
+               Cur me rex ad immortales bellatores misisti?<lb/>
+               Prosternimus, non cadunt: vulneramus, non metuunt.<lb/>
+               Unus vir totum spoliavit exercitum: et in medio<lb/>
+               Anhelus consistit ferreis in radicibus,<lb/>
+               Neque vult cadere, et forsitan etiam naves ingredietur.<lb/>
+               Fuge gubernator, cadaveris minas effugiamus.
+            </p>
+            </div>
+            <div type="sermo" xml:id="EP_sermo_V">
+            
+            <head rend="align-center">DE IUSTITIA, SERMO V.</head>
+            
+            <p>
+               Beati qui esuriunt et sitiunt iustitiam, quia ipsi saturabuntur.
+               <span type="sermo-bibl-right" rend="italic">Matth. 5.</span>
+            </p>
+            <p>
+               An nescitis vos eius servos esse, cui obeditis, et vos ad obediendum et parendum offertis, sive peccati ad mortem, sive obedientiae ad iustitiam?
+               <span type="sermo-bibl-right" rend="italic">Rom. 6.</span>
+            </p>
+            <p>
+               Qui proximo foveam foderit, ipse in eam incidet: qui lapidem voluit, in seipsum voluit.
+               <span type="sermo-bibl-right" rend="italic">Proverb. 26.</span>
+            </p>
+            <p>
+               Staterae vestrae mensuraeque iustae sunto, et congius iustus.
+            </p>
+            <p>
+               Melius est paululum aliquid cum iustitia, quam multa bona cum iniustitia.
             </p>
          </div>
+            
       </body>
   </text>
 </TEI>
