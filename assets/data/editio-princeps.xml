@@ -55,11 +55,11 @@
       <body>
          <div>            
             <pb n="179" facs="179.jpg" xml:id="p179"/>
-            <head>
+            <head rend="align-center">
                LOCI COMMVNES SENTENTIARVM, QVAS S. PATERMAXIMVS EX SAcris et prophanis libris Graecis congessit, loanne Ribitto interprete.
             </head>
-            <head>Gratiam Christe laboribus impertire meis.</head>
-            <head>SANCTI EPHRAIMI.</head>
+            <head rend="align-center">Gratiam Christe laboribus impertire meis.</head>
+            <head rend="align-center">SANCTI EPHRAIMI.</head>
          </div>
          <div>
             <p rend="italic">
@@ -69,7 +69,7 @@
             </p>
          </div>
          <div type="sermo" xml:id="EP_sermo_I">
-            <head>DE VITAE VIRTUTE ET VITIO, SERMO I.</head>
+            <head rend="align-center">DE VITAE VIRTUTE ET VITIO, SERMO I.</head>
             <p>
                ANGVSTA via et arcta quae ad vitam deducit.
                <span rend="italic" type="sermo-bibl-right">Matth.7.</span>               
@@ -338,7 +338,7 @@
             </p>
          </div>
          <div type="sermo" xml:id="EP_sermo_II">
-            <head>DE PRUDENTIA ET CONSILIO, SERMO II.</head>
+            <head  rend="align-center">DE PRUDENTIA ET CONSILIO, SERMO II.</head>
             <p>
                EStote prudentes veluti serpentes, et simplices sicut columbae.               
                <span rend="italic" type="sermo-bibl-right">Matth.2.</span>
@@ -481,8 +481,10 @@
             </p>            
          </div>
          <div>
-            <head>
+            <head rend="align-center">
                DE CASTITATE ET TEMPERANTIA,
+            </head>
+            <head rend="align-center">
                Sermo III.
             </head>
             <p>
@@ -691,6 +693,125 @@
             </p>
             
             <span type="sermo-bibl-right" rend="italic">Demetrii Pha<lb/>lerei.</span>
+            <pb n="186" xml:id="p186" facs="186.jpg"/>
+            <p>
+               in via autem omnes ut quisque se obtulerit, in solitudine seipsos.
+            </p>
+            
+            <p>
+               Menedemus, cum adolescens quidam dixisset, magnum esse si quis quae concupisset assequeretur: Multo, inquit, maius est, nihil eorum quae non decet, concupiscere.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Menedemus.</span>
+            
+            <p>
+               Voluptas non omnis, sed quae honesta est, expeti debet.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Isocrat. ad Demonic. Bias.</span>
+            
+            <p>
+               Bias Prieneus beatum eum esse dicebat, qui et dives esset, et cupitis potiretur: sed eum qui nihil concumpisceret, beatiorem.
+            </p>
+            
+            <p>
+               Xanthus ille sapiens cum adulterum quendam vidisset pro foribus formosae mulieris: Iste, inquit, brevem voluptatem magno emit periculo.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Xanthi.</span>
+            
+            <p>
+               Amorum suorum aspectus, renovat passionem: nec minus hoc spectaculum animum inflammat, quam materies igni admota incendium. Cupiditatis fomentum est amatorius sermo.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Charicleae.</span>
+         <div>
+            
+            <head rend="align-center">DE FORTITUDINE ET ROBORE,</head>
+            
+            <head rend="align-center">Sermo IIII.</head>
+            
+            <p>
+               Si quis vult me sequi, abneget semetipsum, tollatque crucem suam, et me sequatur.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Matth.16.</span>
+            
+            <p>
+               Induite totam dei armaturam, ut possitis stare adversus insidias diaboli, quia non est nobis lucta cum carne et sanguine, sed cum principatibus et potestatibus, cum dominis tenebrarum huius saeculi.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Ephes. 6.</span>
+            
+            <p>
+               Non est homini sapientia, non est fortitudo, non est consilium adversus dominum. Equus praeparatur ad belli diem, sed a domino est auxilium.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Prouerb. 21.</span>
+            
+            <p>
+               Cum fortioribus te ne communicato: quid communicabit olla cum lebete? ipsa collidetur, et conteretur.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Sirach 13.</span>
+            
+            <p>
+               Ferto igitur, non quidem sine ulla perturbatione, aut ullo sensu: quae enim merces est indolentiae? sed quamvis laboriose, ac cum doloribus plurimis, ferto tamen: quemadmodum generosus certator, robur et fortitudinem spectandam praebet, non solum caedendo adversarios et colluctatores, sed etiam fortiter ferendo, quas ab illis acceperit plagas: item ut gubernator doctus, et longo navigandi usu iam imperterritus, rectum minimeque aquis obruendum, atque omni tempestate excelsiorem animum servans.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Basilii.</span>
+            
+            <p>
+               † Fiduciam et confidentiam (quae etiamsi multam nominum similitudinem habeant, inter se tamen plurimum disiuncta sunt significatu) et fortitudinem esse dicimus et timiditatem: nam in loco confidere, fortitudinis est, ut contra diffidere et cedere timiditatis. In maius autem periculum se offerre, et irruere, nec se retrahere, temeritatis et audaciae est: declinare et retrocedere, † securitatis.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Theologi.</span>
+            
+            <span type="sermo-bibl-left" rend="italic">† θάρσος καὶ θράσος.</span>
+            
+            <span type="sermo-bibl-left" rend="italic">τασφαλείας.</span>
+            
+            <p>
+               Neque detrectandum est certamen, neque ad id irruendum. Sic enim et nostra victoria futura est splendidior, et diaboli offensio contemptior risuque dignior. Cum attrahuntur enim magno et excelso animo resistere, non provocatos autem quiescere et occasionem expectare, bonos decet: ut simul et generositatem, inanis gloriae nos non esse appetentes ostendamus.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
+            
+            <p>
+               Fortis est, non solum qui vincit hostes, sed etiam qui voluptates.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Democriti.</span>
+            
+            <p>
+               Conspicatus Corinthiorum portas valide clausas: Num, inquit, habitant hic mulieres?
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Socrates.</span>
+            
+            <p>
+               Robur mente carens, in quoscunqe inciderit, eos sepulchro tradit.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Menandri.</span>
+            
+            <p>
+               Hic cum amici hortarentur, ut noctu hostes aggrederetur: Non est, inquit, regum victoriam furari.
+            </p>
+            
+            <span type="sermo-bibl-left" rend="italic">Alexander.</span>
+            
+            <p>
+               Cum autem vidisset quendam idem cum ipso nomen habentem sed timidum: Adolescens, inquit, aut nomen aut mores mutato.
+            </p>
+            
+            <p>
+               Idem, cum eum amici ut liberis procreandis operam daret, hortarentur: Nihil est, inquit, cur soliciti sitis: relinquo enim vobis liberos certaminum victorias.
+            </p>
+            
+            <p>
+               Idem cum ei ad bellum gerendum proficiscenti diceret Aristoteles, expectandam
+            </p>
          </div>
       </body>
   </text>
