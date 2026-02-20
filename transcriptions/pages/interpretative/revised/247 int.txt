@@ -13,7 +13,7 @@ Philistionis.
 Vnumquenque igitur decet ita affectum esse, ut animum suum ab omnibus vitiis pu. Zaleuci.
 rum praeparet: quia deus ab homine improbo non colitur, neque sumptibus placatur,
 aut tragoediis agendis capitur, sed studio honestarum et bonarum actionum.
-Hominem decet animi potius quàm corporis rationem habere: quippe animus ab. Democriti.
+Hominem decet animi potius quam corporis rationem habere: quippe animus ab. Democriti.
 solutissimus corporis vitium corrigit, corporis autem vis sine ratione, animum nihilo
 meliorem reddit.
 Animum sanare magis est necessarium, quam corpus: mori enim praestat, quam male vivere. Epicten.
@@ -44,7 +44,7 @@ Non vides quantum malum sit simulatio, quae et ipsa est invidiae fructus? nam du
 plices illi mores maxime ex invidia nascuntur.
 Ne invideas corrigenti tu qui te invidiosum esse putas, ob eamque causam iratus es. Theologi.
 O invidia mortis radix, multiplex morbe, cordis acutissime claue: quis enim clauus Chrysostomi.
-acutissimus tam pungit, quàm invidia cor occupatum vulnerat?
+acutissimus tam pungit, quam invidia cor occupatum vulnerat?
 Inuidiae infortunium quod non proprio malo, sed alieno bono efficitur: et contra, Gregorii Nyss¬
 eius felicitas non fit per domesticum et proprium bonum, sed vicini malum: narrant
 uultures cadaueribus delectari, unguento necari: ad maleolentia corrupta aduolare,

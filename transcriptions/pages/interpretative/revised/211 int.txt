@@ -3,7 +3,7 @@ SERMO XVII.
 Scientia quaeuis, iustitia et aliis virtutibus uacans, versutia non sapientia videtur. Platonis.
 Ut videmus apem omnibus floribus insidentem a singulis quod utile sit, accipere? Isocratis.
 sic et doctrinae cupidos nihil non attingere, et undique utilia quae sint, colligere.
-Diligentius verborum quàm pecuniarum deposita seruato.
+Diligentius verborum quam pecuniarum deposita seruato.
 Beatitudo in possessione multarum rerum ponenda non est, sed in animo bene consti Aristotelis.
 tuto: neque enim quisquam corpus beatum dicat, quod splendidis sit ornatum uestimen<lb/>
 tis, sed quod sanum sit et optime constitutum, etiamsi nihil eorum quae ante dicta sunt,
@@ -46,7 +46,7 @@ sibi viderentur bene dicta: Quae, inquit, praetermisisti.
 1. Hieron Siculus tyrannus, cum Xenophanes Colophonius poëta Homerum vitu. Hieronis.
 peraret, quot famulos haberet, interrogauit: cumque is se duos habere respondisset, eosque
 uix alere posse: tum tyrannus, Non te pudet, inquit, Homerum vituperare, qui defun
-ctus etiam amplius quàm decem milia nutrit.
+ctus etiam amplius quam decem milia nutrit.
 Philosophus quidam cum duos haberet discipulos: alterum hebetem, sed laborio<lb/>
 sum: alterum ingeniosum, sed desidem et pigrum: Ambo, inquit, male pereatis: quia
 tu cum velis, non potes: tu vero cum possis, non vis.
@@ -55,5 +55,5 @@ geniosis quidem, quod multa discant: ab hebetibus, quod multum molestiae ex<lb/>
 hibeant.
 Idem interrogatus, quid esset a philosophia adiutus, respondit: Ut libenter et in<lb/>
 iussus faciam, quae caeteri legum metu faciunt.
-Maiorem curam adhibe in disciplinis, quàm in pecuniis adipiscendis: disciplinae Philistionis.
+Maiorem curam adhibe in disciplinis, quam in pecuniis adipiscendis: disciplinae Philistionis.
 enim pecunias suppeditant.

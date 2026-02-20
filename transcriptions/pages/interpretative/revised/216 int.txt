@@ -23,7 +23,7 @@ Sirach 20.
 S.Basilii.
 DE IRA ET FVRORE
 216
-Pudor mortalibus utilior est quàm ira.
+Pudor mortalibus utilior est quam ira.
 Quemadmodum autem corpus nostrum mortale est,
 Sic convenit iram non habere
 Immortalem, eum qui temperantia uti nouerit.
@@ -31,7 +31,7 @@ Nam in auribus hominum animus residet: qui enim iucunda audierit, voluptate
 corpus explet: contraria vero cum audierit, ira tumescere solet.
 Sunt nonnulli leniter magnanimi, qui sedate et quasi lente et ira remota ea omnia
 agunt, quae uehementer ira concitati: quorum peccatum et inconsyderantiam ut lon
-ge deteriorem quàm eorum qui ira uehementi commouentur, cauere debemus. Hi
+ge deteriorem quam eorum qui ira uehementi commouentur, cauere debemus. Hi
 enim cito ad satietatem ultionis perueniunt: illi vero in longum tempus protrahunt,
 ut qui leuiter febricitant.
 Qui ob leuia peccata uehementissime ira commouetur, non sinit discernere pec<lb/>
