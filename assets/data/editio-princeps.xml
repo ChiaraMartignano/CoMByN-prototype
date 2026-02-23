@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>LOCI COMMUNES SEN<lb/>TENTIARUM</title>
+            <title>LOCI COMMUNES SEN<choice><orig><lb/></orig><reg></reg></choice>TENTIARUM</title>
          </titleStmt>
          <publicationStmt>
             <authority>CoMByN Project</authority>
@@ -65,7 +65,7 @@
             <p rend="italic">
                QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter persequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accurateque
                sine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hunc
-               modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et uoluntati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira<lb/>bilia in lege tua intelligam.
+               modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et uoluntati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira<choice><orig><lb/></orig><reg></reg></choice>bilia in lege tua intelligam.
             </p>
          </div>
          <div type="sermo" xml:id="EP_sermo_I">
@@ -104,7 +104,7 @@
                <span rend="italic" type="sermo-bibl-right">Basilij.</span>
             </p>
             <p>
-               Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredien<lb/>tibus spectaculum.
+               Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredien<choice><orig><lb/></orig><reg></reg></choice>tibus spectaculum.
             </p>            
             <p>
                Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam superans.
@@ -117,7 +117,7 @@
                ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et à sua ipsa prole, videlicet flammis, consumuntur.
             </p>
             <p>
-               Non est admodum facile virtutum victricem invenire, atque huic dare munera ho<lb/>noraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
+               Non est admodum facile virtutum victricem invenire, atque huic dare munera ho<choice><orig><lb/></orig><reg></reg></choice>noraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
                vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratum
                et aspectum ad se trahat, et ad se decerpendum primum invitet.
             </p>
@@ -157,7 +157,7 @@
                Non licet aliam vitii procreationem cogitare, quàm virtutis absentiam.
             </p>
             <p>
-               Improbi aliae sunt cogitationes, et alii sermones, et aliae actiones: omnia autem dif<lb/>ferentia, et pugnantia.
+               Improbi aliae sunt cogitationes, et alii sermones, et aliae actiones: omnia autem dif<choice><orig><lb/></orig><reg></reg></choice>ferentia, et pugnantia.
                <span rend="italic" type="sermo-bibl-left">Philonis.</span>
             </p>
             <p>
@@ -168,7 +168,7 @@
                <span rend="italic" type="sermo-bibl-left">Clementis.</span>
             </p>
             <p>
-               Iustitia ut videtur quadrata est, par et similis in verbo et opere, in malorum absti<lb/>nentia, in beneficentia, in perfectione erudita, nusquam ulla ex parte claudicans, ut ne iniusta et inaequalis videatur.
+               Iustitia ut videtur quadrata est, par et similis in verbo et opere, in malorum absti<choice><orig><lb/></orig><reg></reg></choice>nentia, in beneficentia, in perfectione erudita, nusquam ulla ex parte claudicans, ut ne iniusta et inaequalis videatur.
             </p>
             <p>
                Gaude cum aliquid cum virtute agis, sed ne extollaris, ne quando naufragium in portu fiat.
@@ -207,16 +207,16 @@
                Statuam quidem figura, virum autem exornat actio.
             </p>
             <p>
-               Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius ta<lb/>men cerneris.
+               Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius ta<choice><orig><lb/></orig><reg></reg></choice>men cerneris.
             </p>
             <p>
-               Sic uitam institue, ut neque à potentioribus contemnare, neque inferioribus terribi<lb/>lis uideare.
+               Sic uitam institue, ut neque à potentioribus contemnare, neque inferioribus terribi<choice><orig><lb/></orig><reg></reg></choice>lis uideare.
             </p>
             <p>
                Omnia in futurum bene se habebunt, si quod praesens est recte fuerit compositum.
             </p>
             <p>
-               Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri non auderet, ali<lb/>quando
+               Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri non auderet, ali<choice><orig><lb/></orig><reg></reg></choice>quando
                tandem in fugientem incidit, ac ei, Non oportet, inquit, ut tu me, sed ego te cum
                sis improbus fugiam.
             </p>
@@ -242,7 +242,7 @@
             </p>
             <p>
                Socrates cum quendam ex discipulis suis animadvertisset agri quidem esse studiosum, sed
-               actionis negligentem: Heus tu, vide (inquit) ne dum agrum cicurare vis, ani<lb/>mum tuum efferari sinas.
+               actionis negligentem: Heus tu, vide (inquit) ne dum agrum cicurare vis, ani<choice><orig><lb/></orig><reg></reg></choice>mum tuum efferari sinas.
                <span rend="italic" type="sermo-bibl-right">Socrates.</span>
             </p>
             <p>
@@ -280,7 +280,7 @@
                enim habitantium virtutibus.
             </p>
             <p>
-               Quum quidam ei ut probrum obiiceret, quod in loca impura intraret: Etiam sol (in<lb/>quit) intrat, nec contaminatur.
+               Quum quidam ei ut probrum obiiceret, quod in loca impura intraret: Etiam sol (in<choice><orig><lb/></orig><reg></reg></choice>quit) intrat, nec contaminatur.
                <span rend="italic" type="sermo-bibl-right">Diogenes.</span>
             </p>
             <p>
@@ -294,8 +294,8 @@
                Pecunias autem bominum alias alius habet.
             </p>
             <p>
-               Pietas colenda est, ciuibus optima consulenda, voluptas vincenda, nihil per vim ge<lb/>rendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi:
-               se<lb/>cus enim tu ipse ebrius videberis.
+               Pietas colenda est, ciuibus optima consulenda, voluptas vincenda, nihil per vim ge<choice><orig><lb/></orig><reg></reg></choice>rendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi:
+               se<choice><orig><lb/></orig><reg></reg></choice>cus enim tu ipse ebrius videberis.
                <span rend="italic" type="sermo-bibl-right">Lindi.</span>
             </p>
             <p>
@@ -557,21 +557,21 @@
             </p>
             <pb n="185" xml:id="p185" facs="185.jpg"/>
             <p rend="align-center">               
-               Iamblichi ex una epistolarum quae ab illo de tem<lb/>perantia scriptae sunt.
+               Iamblichi ex una epistolarum quae ab illo de tem<choice><orig><lb/></orig><reg></reg></choice>perantia scriptae sunt.
             </p>            
             <p>
-               Virtus omnis quicquid mortale est contemnit, immortale autem quod est ample<lb/>ctitur. Sed praeter reliquas eximie temperantia hoc studio tenetur, quippe quae volu<lb/>ptates animum corpori affigentes repudiet, et in castis sedibus consistat, ut est apud Pla<lb/>tonem. Qui enim nos temperantia perfectos non reddat, cum quicquid est imperfectum et perturbationibus obnoxium a nobis depellat et exterminet? Atque hoc ita se habere facile intelligas, si consyderaris Bellerophontem, qui moderationis auxilio sibi con<lb/>iuncto, Chimaeram certando, ferumque et agreste et immite genus omne sustulit: pror<lb/>sus enim affectionum immoderata dominatio, ne homines quidem sinit esse homi<lb/>nes, sed eos ad naturam trahit ratione carentem, ferinam, et inordinatam.
+               Virtus omnis quicquid mortale est contemnit, immortale autem quod est ample<choice><orig><lb/></orig><reg></reg></choice>ctitur. Sed praeter reliquas eximie temperantia hoc studio tenetur, quippe quae volu<choice><orig><lb/></orig><reg></reg></choice>ptates animum corpori affigentes repudiet, et in castis sedibus consistat, ut est apud Pla<choice><orig><lb/></orig><reg></reg></choice>tonem. Qui enim nos temperantia perfectos non reddat, cum quicquid est imperfectum et perturbationibus obnoxium a nobis depellat et exterminet? Atque hoc ita se habere facile intelligas, si consyderaris Bellerophontem, qui moderationis auxilio sibi con<choice><orig><lb/></orig><reg></reg></choice>iuncto, Chimaeram certando, ferumque et agreste et immite genus omne sustulit: pror<choice><orig><lb/></orig><reg></reg></choice>sus enim affectionum immoderata dominatio, ne homines quidem sinit esse homi<choice><orig><lb/></orig><reg></reg></choice>nes, sed eos ad naturam trahit ratione carentem, ferinam, et inordinatam.
             </p>            
             <p>
                Temperans est non qui vetita non tangit, sed qui a concessis abstinet.
                <span type="sermo-bibl-right" rend="italic">Moschionis.</span>
             </p>
             <p>
-               Fac esuriei et sitis in mentem tibi veniat: haec enim plurimum valent in iis qui tem<lb/>perantiam sectantur.
+               Fac esuriei et sitis in mentem tibi veniat: haec enim plurimum valent in iis qui tem<choice><orig><lb/></orig><reg></reg></choice>perantiam sectantur.
                <span type="sermo-bibl-right" rend="italic">Ex Aristig.</span>
             </p>
             <p>
-               Voluptatem vincit, non qui abstinet, sed qui utitur quidem, at non effuse: sic et na<lb/>vem et equum regit, non qui utitur, sed qui quo libitum fuerit, ducit.
+               Voluptatem vincit, non qui abstinet, sed qui utitur quidem, at non effuse: sic et na<choice><orig><lb/></orig><reg></reg></choice>vem et equum regit, non qui utitur, sed qui quo libitum fuerit, ducit.
             </p>
             <p>
                Maximum omnium sacrificium esse puto, quotidie moderationem et temperantiam exercere.
@@ -585,7 +585,7 @@
                Ignem ventus, amorem autem accendit consuetudo.
             </p>
             <p>
-               Cum Alexander captivas haberet in sua potestate Darii filias, eique amici suaderent ut cum tam formosis congrederetur: Turpe foret, inquit, virorum victores a mulieri<lb/>bus vinci.
+               Cum Alexander captivas haberet in sua potestate Darii filias, eique amici suaderent ut cum tam formosis congrederetur: Turpe foret, inquit, virorum victores a mulieri<choice><orig><lb/></orig><reg></reg></choice>bus vinci.
                <span type="sermo-bibl-right" rend="italic">Alexander.</span>
             </p>
             <p>
@@ -633,11 +633,11 @@
             <span type="sermo-bibl-right" rend="italic">Epicteti.</span>
             
             <p>
-               Si non vis inter servos reputari, ipse liberator servitute: eris autem liber, si cupidi<lb/>tate fueris liberatus.
+               Si non vis inter servos reputari, ipse liberator servitute: eris autem liber, si cupidi<choice><orig><lb/></orig><reg></reg></choice>tate fueris liberatus.
             </p>
             
             <p>
-               Vis animi perturbatione carentis temperantia est: haec enim est lux animi vacan<lb/>tis perturbatione.
+               Vis animi perturbatione carentis temperantia est: haec enim est lux animi vacan<choice><orig><lb/></orig><reg></reg></choice>tis perturbatione.
             </p>
             
             <span type="sermo-bibl-right" rend="italic">Pythagorae.</span>
@@ -662,14 +662,14 @@
                Demetrius Phalareus honestos adolescentes domi parentes revereri debere dicebat,
             </p>
             
-            <span type="sermo-bibl-right" rend="italic">Demetrii Pha<lb/>lerei.</span>
+            <span type="sermo-bibl-right" rend="italic">Demetrii Pha<choice><orig><lb/></orig><reg></reg></choice>lerei.</span>
             <pb n="186" xml:id="p186" facs="186.jpg"/>
             <p>
                in via autem omnes ut quisque se obtulerit, in solitudine seipsos.
             </p>
             
             <p>
-               Menedemus, cum adolescens quidam dixisset, magnum esse si quis quae concupis<lb/>set assequeretur: Multo, inquit, maius est, nihil eorum quae non decet, concupiscere.
+               Menedemus, cum adolescens quidam dixisset, magnum esse si quis quae concupis<choice><orig><lb/></orig><reg></reg></choice>set assequeretur: Multo, inquit, maius est, nihil eorum quae non decet, concupiscere.
             </p>
             
             <span type="sermo-bibl-left" rend="italic">Menedemus.</span>
@@ -685,20 +685,20 @@
             </p>
             
             <p>
-               Xanthus ille sapiens cum adulterum quendam vidisset pro foribus formosae mu<lb/>lieris: Iste, inquit, brevem voluptatem magno emit periculo.
+               Xanthus ille sapiens cum adulterum quendam vidisset pro foribus formosae mu<choice><orig><lb/></orig><reg></reg></choice>lieris: Iste, inquit, brevem voluptatem magno emit periculo.
             </p>
             
             <span type="sermo-bibl-left" rend="italic">Xanthi.</span>
             
             <p>
-               Amorum suorum aspectus, renovat passionem: nec minus hoc spectaculum ani<lb/>mum inflammat, quam materies igni admota incendium. Cupiditatis fomentum est amatorius sermo.
+               Amorum suorum aspectus, renovat passionem: nec minus hoc spectaculum ani<choice><orig><lb/></orig><reg></reg></choice>mum inflammat, quam materies igni admota incendium. Cupiditatis fomentum est amatorius sermo.
             </p>
             
             <span type="sermo-bibl-left" rend="italic">Charicleae.</span>
          </div>
          <div type="sermo" xml:id="EP_sermo_IIII">
             
-            <head rend="align-center">DE FORTITUDINE ET ROBORE,<lb/> Sermo IIII.</head>
+            <head rend="align-center">DE FORTITUDINE ET ROBORE,<choice><orig><lb/></orig><reg></reg></choice> Sermo IIII.</head>
             <p>
                Si quis vult me sequi, abneget semetipsum, tollatque crucem suam, et me sequatur.
                <span type="sermo-bibl-left" rend="italic">Matth.16.</span>
@@ -712,7 +712,7 @@
                <span type="sermo-bibl-left" rend="italic">Proverb. 21.</span>
             </p>
             <p>
-               Cum fortioribus te ne communicato: quid communicabit olla cum lebete? ipsa col<lb/>lidetur, et conteretur.
+               Cum fortioribus te ne communicato: quid communicabit olla cum lebete? ipsa col<choice><orig><lb/></orig><reg></reg></choice>lidetur, et conteretur.
                <span type="sermo-bibl-left" rend="italic">Sirach 13.</span>
             </p>
             <p>
@@ -726,7 +726,7 @@
                <span type="sermo-bibl-left" rend="italic">τασφαλείας.</span>
             </p>
             <p>
-               Neque detrectandum est certamen, neque ad id irruendum. Sic enim et nostra victo<lb/>ria futura est splendidior, et diaboli offensio contemptior risuque dignior. Cum attrahuntur enim magno et excelso animo resistere, non provocatos autem quiescere et occasionem expectare, bonos decet: ut simul et generositatem, inanis gloriae nos non esse appetentes ostendamus.
+               Neque detrectandum est certamen, neque ad id irruendum. Sic enim et nostra victo<choice><orig><lb/></orig><reg></reg></choice>ria futura est splendidior, et diaboli offensio contemptior risuque dignior. Cum attrahuntur enim magno et excelso animo resistere, non provocatos autem quiescere et occasionem expectare, bonos decet: ut simul et generositatem, inanis gloriae nos non esse appetentes ostendamus.
                <span type="sermo-bibl-left" rend="italic">Chrysostomi.</span>
             </p>
             <p>
@@ -746,7 +746,7 @@
                <span type="sermo-bibl-left" rend="italic">Alexander.</span>
             </p>
             <p>
-               Cum autem vidisset quendam idem cum ipso nomen habentem sed timidum: Ado<lb/>lescens, inquit, aut nomen aut mores mutato.
+               Cum autem vidisset quendam idem cum ipso nomen habentem sed timidum: Ado<choice><orig><lb/></orig><reg></reg></choice>lescens, inquit, aut nomen aut mores mutato.
             </p>
             <p>
                Idem, cum eum amici ut liberis procreandis operam daret, hortarentur: Nihil est, inquit, cur soliciti sitis: relinquo enim vobis liberos certaminum victorias.
@@ -754,41 +754,41 @@
             <p>
                Idem cum ei ad bellum gerendum proficiscenti diceret Aristoteles, expectandam
                <pb n="187" xml:id="p187" facs="187.jpg"/>
-               esse perfectam aetatem, tum denique bellandum: Vereor, inquit, ne dum perfectam aeta<lb/>tem expecto, audacem perdam iuventutem.
+               esse perfectam aetatem, tum denique bellandum: Vereor, inquit, ne dum perfectam aeta<choice><orig><lb/></orig><reg></reg></choice>tem expecto, audacem perdam iuventutem.
             </p>
             <p>
-               Lacon cum quidam ei ut probrum obiiceret, quod claudus cum esset in militiam pro<lb/>ficisceretur: Quid istud? (inquit) non est opus fugientibus, sed manentibus et certantibus.
+               Lacon cum quidam ei ut probrum obiiceret, quod claudus cum esset in militiam pro<choice><orig><lb/></orig><reg></reg></choice>ficisceretur: Quid istud? (inquit) non est opus fugientibus, sed manentibus et certantibus.
             </p>
             <p>
                Robur prudentiae iunctum prodest: sed hac si careat, plurimum obest habentibus.
                <span type="sermo-bibl-right" rend="italic">Isocratis.</span>
             </p>
             <p>
-               Leonides Lacedaemonius cum parva manum ad pugnam contra Persas proficisce<lb/>retur, et diceret quidam eum cum nimis paucis proficisci: At, inquit, cum volentibus.
+               Leonides Lacedaemonius cum parva manum ad pugnam contra Persas proficisce<choice><orig><lb/></orig><reg></reg></choice>retur, et diceret quidam eum cum nimis paucis proficisci: At, inquit, cum volentibus.
                <span type="sermo-bibl-right" rend="italic">Leonidae.</span>
             </p>
             <p>
                Lacon aegroto corpore in aciem progrediebatur: cum autem quidam eum, quorsum ita affecto corpore proficisceretur, interrogarent: respondit, Ad moriendum pro patria.
             </p>
             <p>
-               Honeste moriendi occasio arripienda est, cum licet: ne paulo post tibi tempus mo<lb/>riendi, non autem honeste moriendi, accedat.
+               Honeste moriendi occasio arripienda est, cum licet: ne paulo post tibi tempus mo<choice><orig><lb/></orig><reg></reg></choice>riendi, non autem honeste moriendi, accedat.
                <span type="sermo-bibl-right" rend="italic">Musonii.</span>
             </p>
             <p>
-               Lacaena mulier, cum eius filius accepto vulnere in praelio claudus factus esset, isque suam calamitatem aegre ferret: Noli, inquit, fili dolere: quotiescunque enim gradum fe<lb/>ceris, toties tuam virtutem recordaberis.
+               Lacaena mulier, cum eius filius accepto vulnere in praelio claudus factus esset, isque suam calamitatem aegre ferret: Noli, inquit, fili dolere: quotiescunque enim gradum fe<choice><orig><lb/></orig><reg></reg></choice>ceris, toties tuam virtutem recordaberis.
                <span type="sermo-bibl-right" rend="italic">Ex Dionis</span>
                <span type="sermo-bibl-right" rend="italic">Chriis.</span>
             </p>
             <p>
-               Celtae, oceani accolae, domus aut parietis ruinam fugere turpe ducunt. Adventanti quoque refluentis maris aestui armati occurrunt, et eo usque expectant donec aquis obru<lb/>ti demergantur, ne videlicet fuga mortis timorem in illis possit arguere.
-               <span type="sermo-bibl-right" rend="italic">Ex Nicolai Col<lb/>lectaneis.</span>
+               Celtae, oceani accolae, domus aut parietis ruinam fugere turpe ducunt. Adventanti quoque refluentis maris aestui armati occurrunt, et eo usque expectant donec aquis obru<choice><orig><lb/></orig><reg></reg></choice>ti demergantur, ne videlicet fuga mortis timorem in illis possit arguere.
+               <span type="sermo-bibl-right" rend="italic">Ex Nicolai Col<choice><orig><lb/></orig><reg></reg></choice>lectaneis.</span>
             </p>
             <p>
                Coriscus admodum senex cum difficili quodam morbo liberatus esset: Apage, inquit, quam moleste reversus sum, iam aliquantum viae progressus, quam ingredi omnino necesse est.
                <span type="sermo-bibl-right" rend="italic">Coriscus.</span>
             </p>
             <p>
-               Cum Pyrrhus in Lacedaemonios exercitum duceret, multaque minaretur, Cercylli<lb/>das, unus de numero senatorum, in concione surgens: Si, inquit, deus est is qui minatur, nihil metuendum. nihil enim iniuriae facimus: sin homo, sciat se viris minitari.
+               Cum Pyrrhus in Lacedaemonios exercitum duceret, multaque minaretur, Cercylli<choice><orig><lb/></orig><reg></reg></choice>das, unus de numero senatorum, in concione surgens: Si, inquit, deus est is qui minatur, nihil metuendum. nihil enim iniuriae facimus: sin homo, sciat se viris minitari.
                <span type="sermo-bibl-right" rend="italic">Pyrrhus.</span>
             </p>
             <p>
@@ -796,17 +796,17 @@
                <span type="sermo-bibl-right" rend="italic">Aristoteles.</span>
             </p>
             <p>
-               Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit: Athenienses mille adversus illos miserunt, quorum duces erant Polyzelus, Callimachus, Cynaegirus, et Miltiades: confligentibus autem exercitibus utrisque, Polyzelus visum admirabile ac supra hominem cum vidisset cernendi sensum amisit, caecusque factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mor<lb/>tuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde a Pantelio haec scripta esse dicuntur:
+               Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit: Athenienses mille adversus illos miserunt, quorum duces erant Polyzelus, Callimachus, Cynaegirus, et Miltiades: confligentibus autem exercitibus utrisque, Polyzelus visum admirabile ac supra hominem cum vidisset cernendi sensum amisit, caecusque factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mor<choice><orig><lb/></orig><reg></reg></choice>tuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde a Pantelio haec scripta esse dicuntur:
                <span type="sermo-bibl-right" rend="italic">Ex Plutarchi Historiis.</span>
             </p>
             <p>
-               O inanem laborem et infectum bellum.<lb/>
-               Regi nostro quid dicemus ad illum reversi?<lb/>
-               Cur me rex ad immortales bellatores misisti?<lb/>
-               Prosternimus, non cadunt: vulneramus, non metuunt.<lb/>
-               Unus vir totum spoliavit exercitum: et in medio<lb/>
-               Anhelus consistit ferreis in radicibus,<lb/>
-               Neque vult cadere, et forsitan etiam naves ingredietur.<lb/>
+               O inanem laborem et infectum bellum.<choice><orig><lb/></orig><reg></reg></choice>
+               Regi nostro quid dicemus ad illum reversi?<choice><orig><lb/></orig><reg></reg></choice>
+               Cur me rex ad immortales bellatores misisti?<choice><orig><lb/></orig><reg></reg></choice>
+               Prosternimus, non cadunt: vulneramus, non metuunt.<choice><orig><lb/></orig><reg></reg></choice>
+               Unus vir totum spoliavit exercitum: et in medio<choice><orig><lb/></orig><reg></reg></choice>
+               Anhelus consistit ferreis in radicibus,<choice><orig><lb/></orig><reg></reg></choice>
+               Neque vult cadere, et forsitan etiam naves ingredietur.<choice><orig><lb/></orig><reg></reg></choice>
                Fuge gubernator, cadaveris minas effugiamus.
             </p>
             </div>
@@ -819,7 +819,7 @@
                <span type="sermo-bibl-right" rend="italic">Matth. 5.</span>
             </p>
             <p>
-               An nescitis vos eius servos esse, cui obeditis, et vos ad obediendum et paren<lb/>dum offertis, sive peccati ad mortem, sive obedientiae ad iustitiam?
+               An nescitis vos eius servos esse, cui obeditis, et vos ad obediendum et paren<choice><orig><lb/></orig><reg></reg></choice>dum offertis, sive peccati ad mortem, sive obedientiae ad iustitiam?
                <span type="sermo-bibl-right" rend="italic">Rom. 6.</span>
             </p>
             <p>
@@ -833,90 +833,90 @@
                Melius est paululum aliquid cum iustitia, quam multa bona cum iniustitia.
             </p>
                <p><pb n="188" xml:id="p188" facs="188.jpg"/>Iniustorum bona fluminis more exarescent, et ut magnum tonitru in pluvia personare desinent.<span type="sermo-bibl-left" rend="italic">Sirach.</span></p>
-            <p>Qui veram animi iustitiam non secum affert, pecuniis corruptus, aut amicitiae gra<lb/>tificari studens, aut inimicitias ulcisci cupiens, aut denique potentiam metuens, is iudi<lb/>cia exercere non potest nec dirigere.<span type="sermo-bibl-left" rend="italic">S. Basilii.</span></p>
-            <p>Divinae irae asperitatem et credimus, et audimus concitationem propositi eius, ad<lb/>versus eos qui digni sunt et commeriti supplicium: quia deus est ultionum dominus. Etsi enim de summo iure per humanitatem inclinat ad misericordiam et remissionem, non omnia tamen peccantibus ignoscit, ne clementia illius deteriores fiant.<span type="sermo-bibl-left" rend="italic">Theologi.</span></p>
-            <p>Nec de omnibus hic supplicium sumit deus, ne mortuorum excitationi diffidas, et de iudicio desperes, tanquam omnes hic reddant rationem: nec omnes impuniti relin<lb/>quuntur, ne sine providentia omnia contingere credas.<span type="sermo-bibl-left" rend="italic">Chrysostomi.</span></p>
+            <p>Qui veram animi iustitiam non secum affert, pecuniis corruptus, aut amicitiae gra<choice><orig><lb/></orig><reg></reg></choice>tificari studens, aut inimicitias ulcisci cupiens, aut denique potentiam metuens, is iudi<choice><orig><lb/></orig><reg></reg></choice>cia exercere non potest nec dirigere.<span type="sermo-bibl-left" rend="italic">S. Basilii.</span></p>
+            <p>Divinae irae asperitatem et credimus, et audimus concitationem propositi eius, ad<choice><orig><lb/></orig><reg></reg></choice>versus eos qui digni sunt et commeriti supplicium: quia deus est ultionum dominus. Etsi enim de summo iure per humanitatem inclinat ad misericordiam et remissionem, non omnia tamen peccantibus ignoscit, ne clementia illius deteriores fiant.<span type="sermo-bibl-left" rend="italic">Theologi.</span></p>
+            <p>Nec de omnibus hic supplicium sumit deus, ne mortuorum excitationi diffidas, et de iudicio desperes, tanquam omnes hic reddant rationem: nec omnes impuniti relin<choice><orig><lb/></orig><reg></reg></choice>quuntur, ne sine providentia omnia contingere credas.<span type="sermo-bibl-left" rend="italic">Chrysostomi.</span></p>
                <p>Aequissimum dei iudicium nostris affectibus consimile fit: et qualiacunque a nobis profecta fuerint, talia nobis ex similibus redduntur vicissim.<span type="sermo-bibl-left" rend="italic">Greg. Nyss.</span></p>
                <p>Iniquus iudex est, contaminata conscientia.<span type="sermo-bibl-left" rend="italic">Evagrii.</span></p>
-            <p>Quisquis iniuria afficitur, prae dolore tabescens, cum se ulcisci aut par pari reddere nequeat, nimirum qui viribus inferior sit, coelestis in malignos odii et vindictae stimu<lb/>lum ad opem sibi ferendam implorat.<span type="sermo-bibl-left" rend="italic">Cyrilli.</span></p>
+            <p>Quisquis iniuria afficitur, prae dolore tabescens, cum se ulcisci aut par pari reddere nequeat, nimirum qui viribus inferior sit, coelestis in malignos odii et vindictae stimu<choice><orig><lb/></orig><reg></reg></choice>lum ad opem sibi ferendam implorat.<span type="sermo-bibl-left" rend="italic">Cyrilli.</span></p>
                <p>Non appellamus homicidas aut sanguinarios qui ex legibus divinis eos interfecerint, qui mortis supplicio digni sunt: sic Samuelem et Phineen tali nomine non notamus.</p>
-            <p>Qui iniuriam facit nemini, dignus ille quidem est honore: at qui non patitur, et im<lb/>pedit iniuriosos ne iniuriam faciant, plus quam duplici prae illo dignus honore fuerit: ille enim uni, hic autem multis dignitate comparandus est.<span type="sermo-bibl-left" rend="italic">Platonis.</span></p>
-            <p>Sic enim existimo, et me et te aliosque homines in ea esse sententia, ut iniuriam face<lb/>re quam accipere deterius esse ducant, et non dare poenas quam dare.</p>
+            <p>Qui iniuriam facit nemini, dignus ille quidem est honore: at qui non patitur, et im<choice><orig><lb/></orig><reg></reg></choice>pedit iniuriosos ne iniuriam faciant, plus quam duplici prae illo dignus honore fuerit: ille enim uni, hic autem multis dignitate comparandus est.<span type="sermo-bibl-left" rend="italic">Platonis.</span></p>
+            <p>Sic enim existimo, et me et te aliosque homines in ea esse sententia, ut iniuriam face<choice><orig><lb/></orig><reg></reg></choice>re quam accipere deterius esse ducant, et non dare poenas quam dare.</p>
                <p>Aequum est ut eos laude afficiamus, qui nullum commodum aequitati praeponunt: pecuniam enim licet acquirere, sed gloriam pecunia parare difficile est.</p>
-               <p>Iniuriam mihi faciat locuples, non pauper:<lb/>Facilius enim est superiorum tyrannidem ferre.</p>
+               <p>Iniuriam mihi faciat locuples, non pauper:<choice><orig><lb/></orig><reg></reg></choice>Facilius enim est superiorum tyrannidem ferre.</p>
                <p>Si pro eo contendas quod iniuste feceris, bis peccaveris.<span type="sermo-bibl-left" rend="italic">Clitarchi.</span></p>
                <p>Praestat recte iudicando a condemnato iniuste accusari, quam iniuste iudicando apud naturam iuste vituperari.<span type="sermo-bibl-left" rend="italic">Moschionis.</span></p>
-            <p>Optime agendum est, et maxime servanda democratia, ubi iniuriarum authores puniuntur, et inferiores adversus eos defenduntur.<span type="sermo-bibl-left" rend="italic">Ex dictis septen<lb/>sapientum.</span></p>
+            <p>Optime agendum est, et maxime servanda democratia, ubi iniuriarum authores puniuntur, et inferiores adversus eos defenduntur.<span type="sermo-bibl-left" rend="italic">Ex dictis septen<choice><orig><lb/></orig><reg></reg></choice>sapientum.</span></p>
                <p>Duabus de causis ab iniuriis solent homines abstinere, aut metu aut pudore.<span type="sermo-bibl-left" rend="italic">Hyperidis.</span></p>
                <p>Quae ab altero passi indignanter fertis, videte ne haec eadem aliis faciatis.<span type="sermo-bibl-left" rend="italic">Socratis.</span></p>
-               <p>Iustus est non qui iniuriam non facit:<lb/>Sed qui cum possit facere iniuriam, non vult.<span type="sermo-bibl-left" rend="italic">Philemonis.</span></p>
-            <p>Fortitudinis nullus est usus absente iustitia: si vero iusti forent omnes, nihil iam for<lb/>titudine foret opus.<span type="sermo-bibl-left" rend="italic">Agesilai.</span></p>
-            <p>Ut iusta bilanx, nec a vera bilance corrigitur, nec a falsa iudicatur: sic et iudex iu<lb/>stus, neque a iustis examinatur, nec ab iniustis arguitur.<span type="sermo-bibl-left" rend="italic">Epicteti.</span></p>
+               <p>Iustus est non qui iniuriam non facit:<choice><orig><lb/></orig><reg></reg></choice>Sed qui cum possit facere iniuriam, non vult.<span type="sermo-bibl-left" rend="italic">Philemonis.</span></p>
+            <p>Fortitudinis nullus est usus absente iustitia: si vero iusti forent omnes, nihil iam for<choice><orig><lb/></orig><reg></reg></choice>titudine foret opus.<span type="sermo-bibl-left" rend="italic">Agesilai.</span></p>
+            <p>Ut iusta bilanx, nec a vera bilance corrigitur, nec a falsa iudicatur: sic et iudex iu<choice><orig><lb/></orig><reg></reg></choice>stus, neque a iustis examinatur, nec ab iniustis arguitur.<span type="sermo-bibl-left" rend="italic">Epicteti.</span></p>
                <p>Noli prius in altero iudicio iudicare quam apud ipsam iustitiam rem examinaveris.</p>
-            <p>Si vis recta exercere iudicia, neminem neque litigantium, neque patronorum agno<lb/>scito, sed ipsam solam iustitiam.</p>
+            <p>Si vis recta exercere iudicia, neminem neque litigantium, neque patronorum agno<choice><orig><lb/></orig><reg></reg></choice>scito, sed ipsam solam iustitiam.</p>
                <p>Cum iustitia viventi tutus est omnis locus.</p>
                <p>Plus torquetur iniuriam faciens dum in conscientia cruciatur, quam qui corpore plagas accipit et caeditur.<span type="sermo-bibl-left" rend="italic">Pythagorae.</span></p>
             <pb n="189" xml:id="p189" facs="189.jpg"/>
             <p>Zeno Stoicus philosophus, cum ex eo quidam familiarium quaerere, tqua possent ratione nihil iniuriae facere: Si semper, inquit, me vobis adesse existimabitis.<span type="sermo-bibl-right" rend="italic">Zenonis.</span></p>
             <p>Idem interrogatus an deum latere possit iniuriam faciens: Immo, inquit, ne cogitans quidem.</p>
             <p>Damnatus Socrates ab Atheniensibus ut praecipitaretur, uxore eius Xanthippe clamante ac dicente: Quam iniuste Socrates morte afficieris: Tu igitur, inquit, velles me iuste mori?<span type="sermo-bibl-right" rend="italic">Socrates.</span></p>
-            <p>Ne suspicator de bonis unquam malum.<lb/> Nam iustus haud ullum nocendi scit modum.<span type="sermo-bibl-right" rend="italic">Menandri.</span></p>
+            <p>Ne suspicator de bonis unquam malum.<choice><orig><lb/></orig><reg></reg></choice> Nam iustus haud ullum nocendi scit modum.<span type="sermo-bibl-right" rend="italic">Menandri.</span></p>
             <p>An non videtur tibi opus ipsum magis mereri fidem quam sermo? Maxime vero, inquit: multi enim de iure loquentes iniuste agunt, ex his autem qui iusta faciunt ne unus quidem reperietur iniustus.<span type="sermo-bibl-right" rend="italic">Xenophontis.</span></p>
-            <p>Socrates loqui<lb/>tur.</p>
+            <p>Socrates loqui<choice><orig><lb/></orig><reg></reg></choice>tur.</p>
             </div>
          <div type="sermo" xml:id="EP_sermo_VI">
-            <head rend="align-center">DE AMICIS ET FRATERNA DILECTIONE,<lb/>Sermo VI.</head>
+            <head rend="align-center">DE AMICIS ET FRATERNA DILECTIONE,<choice><orig><lb/></orig><reg></reg></choice>Sermo VI.</head>
             <p>Ex hoc intelligent omnes vos esse meos discipulos, si alii alios dilexeritis.<span type="sermo-bibl-right" rend="italic">Ioan. 13.</span></p>
-            <p>Si linguis hominum loquar et angelorum, charitate autem vacem, sum tan<lb/>quam aes sonans aut cymbalum tinniens. <span rend="italic">Et paulo post</span>, Ac si omnia bona in alimenta contulero, corpusque meum exurendum tradidero sine charitate, nihil effeci.<span type="sermo-bibl-right" rend="italic">1. Cor. 12.</span></p>
+            <p>Si linguis hominum loquar et angelorum, charitate autem vacem, sum tan<choice><orig><lb/></orig><reg></reg></choice>quam aes sonans aut cymbalum tinniens. <span rend="italic">Et paulo post</span>, Ac si omnia bona in alimenta contulero, corpusque meum exurendum tradidero sine charitate, nihil effeci.<span type="sermo-bibl-right" rend="italic">1. Cor. 12.</span></p>
             <p>Utiliora sunt amici vulnera, quam voluntaria inimici oscula.<span type="sermo-bibl-right" rend="italic">Solom. 27.</span></p>
             <p>Qui in amicum rete parat, id pedibus sui induit.</p>
             <p>Excusationes praetendit, qui se vult ab aliquorum amicitia removere.</p>
             <p>Melius est excipi oleribus cum amicitia et gratia, quam vitulorum apparatu cum inimicitia.</p>
             <p>Qui fratrem pauperem odit, ab amicitia longe abest.</p>
-            <p>Qui in volucres iacit lapidem: eas turbat, et qui convitiatur amico, dissolvit ami<lb/>citiam.</p>
+            <p>Qui in volucres iacit lapidem: eas turbat, et qui convitiatur amico, dissolvit ami<choice><orig><lb/></orig><reg></reg></choice>citiam.</p>
             <p>Amicum compendii causa ne mutato.</p>
             <p>Amicus fidelis pro valida munitione est: talem nactus, thesaurum reperit.</p>
             <p>Veterem amicum ne deserito: novus enim non est illi comparandus.</p>
             <p>Nihil est quo fidelis amicus permutari possit, nec quo pulchritudo eius rependi.</p>
-            <p>Improborum congressiones multum solent obesse, (quia haec est natura amicitiae, ut per similitudinem congredientibus et coniunctis ingeneretur) qui odium alta men<lb/>te retinentes dilectionis et amicitiae prae se gerunt speciem: Ut saxa sub aquis latentia, quae cum exigua aqua tegantur, damnum improvisum afferunt incautis.<span type="sermo-bibl-right" rend="italic">Gregorii.</span></p>
-            <p>Boni non bonis anteponendi.<lb/> Si malorum consuetudine utaris, omnino malus eris.<lb/> A malo viro vide ne beneficium accipias.<lb/> Quaerit enim malarum actionum veniam impetrare.<span type="sermo-bibl-right" rend="italic">Theologi.</span></p>
+            <p>Improborum congressiones multum solent obesse, (quia haec est natura amicitiae, ut per similitudinem congredientibus et coniunctis ingeneretur) qui odium alta men<choice><orig><lb/></orig><reg></reg></choice>te retinentes dilectionis et amicitiae prae se gerunt speciem: Ut saxa sub aquis latentia, quae cum exigua aqua tegantur, damnum improvisum afferunt incautis.<span type="sermo-bibl-right" rend="italic">Gregorii.</span></p>
+            <p>Boni non bonis anteponendi.<choice><orig><lb/></orig><reg></reg></choice> Si malorum consuetudine utaris, omnino malus eris.<choice><orig><lb/></orig><reg></reg></choice> A malo viro vide ne beneficium accipias.<choice><orig><lb/></orig><reg></reg></choice> Quaerit enim malarum actionum veniam impetrare.<span type="sermo-bibl-right" rend="italic">Theologi.</span></p>
             <p>Omnia feret amicitia et verba et opera.</p>
             <p>Corpora quidem loco aptantur, animi autem spiritui congruunt.</p>
             <p>Inimicitiae terminos cognoscito, amicitiae vero nullos.</p>
             <p>Dissidium religionis gratia natum, melius est prava concordia.</p>
             <p>Nemo existimet me in ea esse sententia, ut dicam omnem pacem amplectendam (novi enim ut seditionem quandam optimam, sic concordiam quandam perniciosissimam) sed eam demum quae honesta est et ob rem honestam suscipitur, quaeque nos deo compulat.</p>
             <p>Qui enim cum regis hostibus amicitiam instituit, regis amicus esse nullo modo potest.<span type="sermo-bibl-right" rend="italic">Chrysostomi</span></p>
-            <p>Ut anima sine corpore non vocatur homo, nec contra corpus sine anima: sic ne cha<lb/>ritas quidem in deum nisi coniunctam quoque habeat in proximum charitatem.</p>
+            <p>Ut anima sine corpore non vocatur homo, nec contra corpus sine anima: sic ne cha<choice><orig><lb/></orig><reg></reg></choice>ritas quidem in deum nisi coniunctam quoque habeat in proximum charitatem.</p>
             <pb n="190" xml:id="p190" facs="190.jpg"/>
             <p>Non tam febris tabefacere solet corporis naturam, quam animum a suis amoribus disiunctio.</p>
-            <p>Nihil est concordiae comparandum, unus enim quodammodo multiplicatur in hunc modum. Si concordes fuerint duo aut decem, unus non est unus, sed illorum quisque decuplex redditur, inveniesque in decem unum, atque in uno decem. Quod si hostes illis aliqui sint, qui in unum impetum fecerit, is quasi in decem irruerit, sic capitur. Eget unus, at non premitur egestate: nam maiori parte et numero inopia obumbratur: illo<lb/>rum unusquisque viginti habet manus, ac viginti oculos, totidemque pedes, animas item decem: non enim suis tantum, sed illorum etiam membris quisque utitur in omnibus, ac si centum forent, idem rursus contingeret. Idem apud Persas et Romae esse potest: quodque natura non potest, id amicitia potest. Si igitur mille habeas amicos aut etiam duo mi<lb/>lia amicorum, cogitare debes quo rursus evadat numerus. Hoc enim est admirabile unum millesimum fieri: optabilius enim esset solem nobis extingui, quam amicis orba<lb/>ri. Etenim multi solem videntes in tenebris sunt, at qui multos habent amicos ne inci<lb/>dere quidem possunt in calamitatem. Nihil enim nihil amicitia et charitate suavius esse possit: quid enim est quod non efficiat verus amicus? quam voluptatem non affe<lb/>rat, quam utilitatem, quam securitatem? denique infinitis thesauris amicum verum im<lb/>mensis anteferendum iudicabis. Et quemadmodum res splendidae lucem quandam in circunsusa et vicina loca diffundunt: sic amici ubicunque versati fuerint, gratiam et suavitatem spirant et emittunt, ut satius sit in tenebris versari quam carere amicis.</p>
-            <p>Quemadmodum odorata aromata suo odore circunfusum aërem complent: sic bo<lb/>ni viri praesentia proximos iuvare et oblectare solet.<span type="sermo-bibl-left" rend="italic">Gerogorii Nys.</span></p>
+            <p>Nihil est concordiae comparandum, unus enim quodammodo multiplicatur in hunc modum. Si concordes fuerint duo aut decem, unus non est unus, sed illorum quisque decuplex redditur, inveniesque in decem unum, atque in uno decem. Quod si hostes illis aliqui sint, qui in unum impetum fecerit, is quasi in decem irruerit, sic capitur. Eget unus, at non premitur egestate: nam maiori parte et numero inopia obumbratur: illo<choice><orig><lb/></orig><reg></reg></choice>rum unusquisque viginti habet manus, ac viginti oculos, totidemque pedes, animas item decem: non enim suis tantum, sed illorum etiam membris quisque utitur in omnibus, ac si centum forent, idem rursus contingeret. Idem apud Persas et Romae esse potest: quodque natura non potest, id amicitia potest. Si igitur mille habeas amicos aut etiam duo mi<choice><orig><lb/></orig><reg></reg></choice>lia amicorum, cogitare debes quo rursus evadat numerus. Hoc enim est admirabile unum millesimum fieri: optabilius enim esset solem nobis extingui, quam amicis orba<choice><orig><lb/></orig><reg></reg></choice>ri. Etenim multi solem videntes in tenebris sunt, at qui multos habent amicos ne inci<choice><orig><lb/></orig><reg></reg></choice>dere quidem possunt in calamitatem. Nihil enim nihil amicitia et charitate suavius esse possit: quid enim est quod non efficiat verus amicus? quam voluptatem non affe<choice><orig><lb/></orig><reg></reg></choice>rat, quam utilitatem, quam securitatem? denique infinitis thesauris amicum verum im<choice><orig><lb/></orig><reg></reg></choice>mensis anteferendum iudicabis. Et quemadmodum res splendidae lucem quandam in circunsusa et vicina loca diffundunt: sic amici ubicunque versati fuerint, gratiam et suavitatem spirant et emittunt, ut satius sit in tenebris versari quam carere amicis.</p>
+            <p>Quemadmodum odorata aromata suo odore circunfusum aërem complent: sic bo<choice><orig><lb/></orig><reg></reg></choice>ni viri praesentia proximos iuvare et oblectare solet.<span type="sermo-bibl-left" rend="italic">Gerogorii Nys.</span></p>
             <p>Amicitia inflammatas irae partes sanat.<span type="sermo-bibl-left" rend="italic">Evagrii.</span></p>
             <p>Eum amicum existimare debemus, qui et auxiliari, et vicissim prodesse vult, etiam si non possit.<span type="sermo-bibl-left" rend="italic">Philonis</span></p>
-            <p>Qui ab amico perfido consilium accipit, idem facit, quod qui ex poculo aureo ve<lb/>nenum bibit.</p>
+            <p>Qui ab amico perfido consilium accipit, idem facit, quod qui ex poculo aureo ve<choice><orig><lb/></orig><reg></reg></choice>nenum bibit.</p>
             <p>Vasa quidem nova praestantiora sunt veteribus: sed amicitia quo vetustior, eo melior.</p>
             <p>Terrae fruges singulis annis, at amicitiae fructus omni tempore nascuntur.</p>
             <p>Multi amicos sibi deligunt, non optimos, sed abundantissimos.</p>
-            <p>Multi cum videantur amici, amici non sunt: et contra, multi cum non videantur, ami<lb/>ci tamen sunt: docti igitur et sapientis est unumquenque cognoscere.</p>
+            <p>Multi cum videantur amici, amici non sunt: et contra, multi cum non videantur, ami<choice><orig><lb/></orig><reg></reg></choice>ci tamen sunt: docti igitur et sapientis est unumquenque cognoscere.</p>
             <p>Eorum fugienda amicitia est, quorum animus ambiguus et inconstans est.</p>
             <p>
-               Amicos parato, non omnes qui amicitiam tuam appetierint, sed eos qui tuo inge<lb/>nio et natura digni sunt.
+               Amicos parato, non omnes qui amicitiam tuam appetierint, sed eos qui tuo inge<choice><orig><lb/></orig><reg></reg></choice>nio et natura digni sunt.
                <span type="sermo-bibl-left" rend="italic">Isocratis.</span>
             </p>
             <p>
-               Nullius amicitiam parato prius, quam superiorem amicitiam quemadmodum co<lb/>luerit inquisieris: existimato enim illum talem erga te futurum, qualis erga illos fuerit.
+               Nullius amicitiam parato prius, quam superiorem amicitiam quemadmodum co<choice><orig><lb/></orig><reg></reg></choice>luerit inquisieris: existimato enim illum talem erga te futurum, qualis erga illos fuerit.
                <span type="sermo-bibl-left" rend="italic">Eiusdem.</span>
             </p>
             <p>Lente fias amicus, factus autem permanere conator. Aeque enim turpe est multos mutare amicos, ac nullum omnino habere amicum.</p>
             <p>Amicos ex vitae calamitate et periculorum participatione probato. Aurum enim igni exploramus, amicos autem in rebus adversis dignoscimus.</p>
-            <p>Vera amicitia tria requirit maxime: Virtutem tanquam honestam, et familiarita<lb/>tem ut iucundam, et usum tanquam necessarium: nam ubi iudicaris, recipere debes, et congressu laetari, et si egeas uti.</p>
+            <p>Vera amicitia tria requirit maxime: Virtutem tanquam honestam, et familiarita<choice><orig><lb/></orig><reg></reg></choice>tem ut iucundam, et usum tanquam necessarium: nam ubi iudicaris, recipere debes, et congressu laetari, et si egeas uti.</p>
             <p>Equi virtutem in praelio, amici autem fidem in calamitate exploramus et cernimus.</p>
             <p>Non decet fratres, ut lances in statera, altero humiliato alterum extolli.</p>
             <p>Amicorum absentium apud praesentes mentionem facito, ut praesentes etiam ne contemnere videaris.</p>
             <pb n="191" xml:id="p191" facs="191.jpg"/>
             <p>Comis omnibus esto, sed optimis utitor. Sic enim illis gravis non eris, his autem fies amicus.</p>
             <p>Amicos parato quibus cum non iucundissime, sed quibus cum optime vivas.</p>
-            <p>Quot amicos pararis, tot oculos habes, quibus quae velis videas: tot aures quibus quae decet, audias: tot consilia quibus de iis quae conducunt, consultare et prospicere possis. Non enim aliter se habet plurium amicitia, quam si cui deus unum corpus ha<lb/>benti multas daret animas, quae omnes illi providerent et consulerent.<span type="sermo-bibl-right" rend="italic">Ex Dionis</span><span type="sermo-bibl-right" rend="italic">Chronicis.</span></p>
+            <p>Quot amicos pararis, tot oculos habes, quibus quae velis videas: tot aures quibus quae decet, audias: tot consilia quibus de iis quae conducunt, consultare et prospicere possis. Non enim aliter se habet plurium amicitia, quam si cui deus unum corpus ha<choice><orig><lb/></orig><reg></reg></choice>benti multas daret animas, quae omnes illi providerent et consulerent.<span type="sermo-bibl-right" rend="italic">Ex Dionis</span><span type="sermo-bibl-right" rend="italic">Chronicis.</span></p>
             <p>Acquirenda magis sunt bona propter amicos, quam amici propter bona.<span type="sermo-bibl-right" rend="italic">Aristotelis.</span></p>
             <p>Aptus est ad amicitiam, qui plurimas iniurias pati potest.</p>
             <p>Quemadmodum vinum moribus bibentium attemperatur: sic amicitia utentium affectibus.<span type="sermo-bibl-right" rend="italic">Demosthenis.</span></p>
@@ -924,24 +924,55 @@
             <p>Idem omnibus placere difficillimum esse dicebat.</p>
             <p>Amicitiam qui violant, etiamsi iniuria affectorum effugerint supplicium, at certe dei ultionem non evadent.<span type="sermo-bibl-right" rend="italic">Socrates.</span></p>
             <p>Importune amare nihil est aliud quam odisse. Verum amicum in rebus adversis ne timeto.</p>
-            <p>Idem Croesum interrogans, quid esset maximum et pretiosissimum ex regno con<lb/>secutus, illeque respondisset, ut hostes ulcisceretur, et amicos beneficio afficeret: multo inquit, melius fecisses, si et illos tibi amicos ascivisses.</p>
-            <p>In rebus secundis vocatus venire debet amicus verus, in adversis autem ultro ades<lb/>se debet.<span type="sermo-bibl-right" rend="italic">Democriti.</span></p>
+            <p>Idem Croesum interrogans, quid esset maximum et pretiosissimum ex regno con<choice><orig><lb/></orig><reg></reg></choice>secutus, illeque respondisset, ut hostes ulcisceretur, et amicos beneficio afficeret: multo inquit, melius fecisses, si et illos tibi amicos ascivisses.</p>
+            <p>In rebus secundis vocatus venire debet amicus verus, in adversis autem ultro ades<choice><orig><lb/></orig><reg></reg></choice>se debet.<span type="sermo-bibl-right" rend="italic">Democriti.</span></p>
             <p>Non posse opitulari amicis, inopiae est: nolle autem, malitiae est signum.</p>
             <p>Veri amici iucundas amicitias, et leviores efficiunt calamitates: illis quidem simul fruentes, his autem participantes.</p>
-            <p>Omnes locupletum vocari se volunt,<lb/> Et esse amicos: usus hoc me perdocet.<span type="sermo-bibl-right" rend="italic">Euripidis.</span></p>
-            <p>Tuas calamitates, amicorum esse existimato: tuas autem prosperitates amicis communi<lb/>cato: mortuos amicos lugere haud est generosum, providere autem domesticis diligen<lb/>tiae est.<span type="sermo-bibl-right" rend="italic">Clitarchi.</span></p>
+            <p>Omnes locupletum vocari se volunt,<choice><orig><lb/></orig><reg></reg></choice> Et esse amicos: usus hoc me perdocet.<span type="sermo-bibl-right" rend="italic">Euripidis.</span></p>
+            <p>Tuas calamitates, amicorum esse existimato: tuas autem prosperitates amicis communi<choice><orig><lb/></orig><reg></reg></choice>cato: mortuos amicos lugere haud est generosum, providere autem domesticis diligen<choice><orig><lb/></orig><reg></reg></choice>tiae est.<span type="sermo-bibl-right" rend="italic">Clitarchi.</span></p>
             <p>Eum amicum existimato, qui teipsum non tua amat.<span type="sermo-bibl-right" rend="italic">Catonis.</span></p>
-            <p>Melius est multis amissis pecuniis amicum unum acquirere, quam uno amisso a<lb/>mico multas pecunias comparare.</p>
+            <p>Melius est multis amissis pecuniis amicum unum acquirere, quam uno amisso a<choice><orig><lb/></orig><reg></reg></choice>mico multas pecunias comparare.</p>
             <p>Non divitiae amici, sed amicus divitiae. Et divitiae nunquam efficient amicitiam, quemadmodum nec terra deum: amicitia autem divitias facile adipiscatur et paret, quemadmodum et deus terram.</p>
-            <p>Ut apem propter aculeum non odisti, sed propter fructum foves et tueris: sic ami<lb/>cum propter acerbam obiurgationem ne averseris, sed propter benevolentiam ames.</p>
+            <p>Ut apem propter aculeum non odisti, sed propter fructum foves et tueris: sic ami<choice><orig><lb/></orig><reg></reg></choice>cum propter acerbam obiurgationem ne averseris, sed propter benevolentiam ames.</p>
             <p>Qui amicum moerentem fugerit, dignus non est qui eo gaudente fruatur.</p>
             <p>Sic decet nos amare tanquam osuri simus, et odisse quasi amaturi.</p>
-            <p>Ut aurum igni probatur,<lb/> Sic erga amicos benevolentia tempore cernitur.</p>
-            <p>Qui tempore secundae fortunae amico adulatur,<lb/> Temporis est amicus, non amici.</p>
+            <p>Ut aurum igni probatur,<choice><orig><lb/></orig><reg></reg></choice> Sic erga amicos benevolentia tempore cernitur.</p>
+            <p>Qui tempore secundae fortunae amico adulatur,<choice><orig><lb/></orig><reg></reg></choice> Temporis est amicus, non amici.</p>
             <p>Insipientibus amicis ne utitor: nam tu etiam insipiens omnino vocaberis.</p>
             <p>Verus est amicus qui amicorum calamitatis quoque particeps est.</p>
             <p>Asini usum arguit asperitas viae, et amicum benevolum calamitates ostendunt.</p>
-         </div>            
+            <pb n="192" xml:id="p192" facs="192.jpg"/>
+            <p>Veros amicos ne prius parato, quam falsos repudiaris.</p>
+            <p>Levioribus afficiuntur homines incommodis ab inimicis quam ab amicis: inimi<choice><orig><lb/></orig><reg></reg></choice>cos enim dum metuunt, cavent: amicis autem dum aperti sunt, eorum insidiis oppor<choice><orig><lb/></orig><reg></reg></choice>tuni fiunt facileque incidunt.<span type="sermo-bibl-left" rend="italic">Demonactis.</span></p>
+            <p>Nunquam appetii vulgo placere: nam quae illis placent, nunquam didiceram: quae autem noram, longe absunt ab illorum affectu.</p>
+            <p>Qui fratribus praeteritis alios sibi amicos acquirunt, iis sunt similes, qui relicto suo agro alienum colunt.<span type="sermo-bibl-left" rend="italic">Socrates.</span></p>
+            <p>Qui cum amicis versatur omnia ad gratiam et voluntatem illorum faciens, ex prae<choice><orig><lb/></orig><reg></reg></choice>senti voluptate inimicitiam facit in posterum.<span type="sermo-bibl-left" rend="italic">Critiae.</span></p>
+            <p>Quo pluribus beneficiis affeceris amicum, tanto tibi plura paras commoda. Vicis<choice><orig><lb/></orig><reg></reg></choice>sim enim ad nos redit illorum benevolentia.<span type="sermo-bibl-left" rend="italic">Polyaeni.</span></p>
+            <p>Amicis felicibus et infelicibus idem esto.<span type="sermo-bibl-left" rend="italic">Cypseli.</span></p>
+            <p>Ex dictis et sententiis Epicteti, Isocratis et Demonactis.</p>
+            <p>In rebus secundis nancisci amicum quam facillimum est: in adversis autem om<choice><orig><lb/></orig><reg></reg></choice>nium difficillimum.</p>
+            <p>Calamitates et necessitates amicos probant, et inimicos arguunt.</p>
+            <p>Praesentibus amicis benefaciendum, de absentibus bene loquendum.</p>
+            <p>Malorum amicitia, et bonorum inimicitia fugienda.</p>
+            <p>Nulli amicum a nullo amari existimandum.</p>
+            <p>Et medicus et amicus non iucundior, sed utilior eligendus est.</p>
+            <p>Arcanum in amicitia cum audieris, posteaque inimicus factus fueris, ne enunties: non enim inimicum sed amicitiam laedis.<span type="sermo-bibl-left" rend="italic">Sexti.</span></p>
+            <p>Amicum ne parato, cui non credis omnia.</p>
+            <p>Amicum usus causa ne diligito: talis enim amicitia temporaria et instabilis est.</p>
+            <p>Esto erga amicos constans et stabilis, et adversus inimicos munitus et cautus.<span type="sermo-bibl-left" rend="italic">Pittaci.</span></p>
+            <p>Cum quidam ad eum misisset ornamenta multa, ea distribuit amicis: cum autem ex eo quaereretur, cur sibi nihil reliquisset: Quia (inquit) corpus meum his omnibus or<choice><orig><lb/></orig><reg></reg></choice>nari non possit: amicos autem hisipsis ornatos intuens, maximum mihi ipsi ornaum aptatum esse putabo.<span type="sermo-bibl-left" rend="italic">Cyrus.</span></p>
+            <p>Timon ille qui ab odio hominum Misanthropos Graecis vocabatur, interrogatus cur omnes odisset homines, Quia, inquit, merito improbos odi: reliquos autem, quia improbos non oderunt.<span type="sermo-bibl-left" rend="italic">Timon.</span></p>
+            <p>Romulus cum ei crimini verteretur quod cum improbis versaretur: Et medici (in<choice><orig><lb/></orig><reg></reg></choice>quit) cum aegrotis, sed ipsi valent.<span type="sermo-bibl-left" rend="italic">Romulus.</span></p>
+            <p>Iudicare oportet antequam ineas amicitiam, postea vero non iudicare sed amare.<span type="sermo-bibl-left" rend="italic">Nicoclis.</span></p>
+            <p>Sordidus si sis, nequaquam optimum habebis amicum.</p>
+            <p>Hic diis sacrificans precabatur, ut se a simulatis servarent amicis: cumque percuncta<choice><orig><lb/></orig><reg></reg></choice>retur quispiam quamobrem tale quid a diis optaret: Quia, inquit, hostes cum cogno<choice><orig><lb/></orig><reg></reg></choice>sco, caveo.<span type="sermo-bibl-left" rend="italic">Antigoni regis.</span></p>
+            <p>Interrogatus a quopiam ubi thesauros haberet, amicos ostendens, In his, inquit.<span type="sermo-bibl-left" rend="italic">Alexander.</span></p>
+            <p>Congratulandum est amicis cum praeclare cum illis agitur: ut contra condolescen<choice><orig><lb/></orig><reg></reg></choice>dum si dolore afficiuntur.<span type="sermo-bibl-left" rend="italic">Libanii.</span></p>
+            <p>Molestiae quae ab amicis inter se excitantur, sunt curatum difficiles omnino, graviusque quam hostium contumeliae offendunt.</p>
+            <p>Quanto fortiores amicos reddideris, tanto ipse fortior evadis.<span type="sermo-bibl-left" rend="italic">Pisomani Dio<choice><orig><lb/></orig><reg></reg></choice>nis.</span></p>
+            <p>Quae calamitas extra amicitiam non intolerabilis? quae prosperitas remota amici<choice><orig><lb/></orig><reg></reg></choice>tia, non iniucunda est?</p>
+         </div>
+         
       </body>
   </text>
 </TEI>
