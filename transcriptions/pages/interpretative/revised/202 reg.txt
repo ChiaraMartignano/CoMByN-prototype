@@ -35,7 +35,7 @@ Neque equo sine freno, neque divitiis sine ratione et consilio uti tuto possumus
 
 Talares togae corpora, divitiae nimiae animos impediunt.
 
-Nec convivium sine sermone et colloquio, nec opulentia absque virtute ullam habet voluptatem.
+Nec convivium sine sermone et colloquio, nec opulentia absque virtute ullam habet <w rend="supralinear">voluptatem</w>.
 
 Avarorum vita similis est mortui convivio: omnia enim cum habeat, qui delectetur neminem habet.
 
