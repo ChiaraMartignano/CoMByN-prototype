@@ -30,7 +30,7 @@ necessaria.
 Neque authorem malorum deum credito, neque nos sine eo versari in miseriis existimat,
 Si quid cura potest, cures: at si deus ipse iubebo
 Te curat, cur tu solicitus tibi sis?
-Cum vult deus beatam esse civitatem, bonos efficit viros: cum autem misera est fu<lb/>
+Cum vult deus beatam esse civitatem, bonos efficit viros: cum autem misera est fu//
 tura civitas, ex ea bonos eximit viros.
 Ita fit ut virtus nec sub doctrinam cadat, nec sit naturalis, sed divino fato inest is
 qui eam habent.
@@ -65,9 +65,9 @@ sed a deo precamur ut ex alto in portum seruemur: sic et medicum adhibentes, spe
 quae in deo habenda est, non excidimus.
 Indoctus medicus ad aegrotos admissus, cum sanitatem illis restituere deberet, il
 etiam exiguum, quod habebant reliquum, virium aufert.
-Nostram medicinam ea quae circa corpus versatur, longe difficiliorem puto, atque id<lb/>
-circo honoratiorem: quod illa pauca quaedam in profundo latentia consyderans, plu<lb/>
-rimum circa ea quae sub oculos cadunt, versetur: nos autem in occulto hominis cor<lb/>
+Nostram medicinam ea quae circa corpus versatur, longe difficiliorem puto, atque id//
+circo honoratiorem: quod illa pauca quaedam in profundo latentia consyderans, plu//
+rimum circa ea quae sub oculos cadunt, versetur: nos autem in occulto hominis cor//
 de sanando omne studium et curam ponamus.
 Indigus atque mali insatiabilis hulcera celans
 Infelix semper putria membra geret.

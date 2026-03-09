@@ -1,8 +1,8 @@
 233
 SERMO XXXVI.
 Quoad, inquit, mori existimabit melius esse quam vivere.
-Amasis Aegyptiorum rex, ad amicum qui filium amiserat, scribens ut consolare<lb/>
-tur: Si, inquit, cum nondum esset, non dolebas, ne nunc quidem cum iam non est, do<lb/>
+Amasis Aegyptiorum rex, ad amicum qui filium amiserat, scribens ut consolare//
+tur: Si, inquit, cum nondum esset, non dolebas, ne nunc quidem cum iam non est, do//
 lere debes.
 Diogenes Cynicus cum quidam lamentaretur quod sibi peregre moriendum es. Diogenes.
 set: Quid stulte, inquit, lamentaris: undique enim ad inferos tantundem est viae.
@@ -31,7 +31,7 @@ Biantis.
 Hic gladium proiectum conspicatus, Quis te, inquit, perdidit, aut quem tu?
 Idem cum mortem quidam aduocaret in liberorum amissione, Cur homo, inquit,
 ipsam vocas? an non, etiam si non vocaris, veniet?
-Idem rogatus, quod genus mortis malum esset: Quod, inquit, legibus constitu<lb/>
+Idem rogatus, quod genus mortis malum esset: Quod, inquit, legibus constitu//
 tum est.
 Idem damnatus ab Atheniensibus praecipitii, uxore eius Xanthippe flente, et di. Socrates.
 cente: Quam inique, ô Socrates, occideris: Velles igitur, inquit, me iuste occidi?
@@ -43,8 +43,8 @@ Sexti.
 Animum mors non perdit, sed mala vita.
 Philistionis.
 Si nullus occideretur, impunita essent vitia.
-Amicorum et familiarium, dum vivunt curam gerito: defunctorum autem cor<lb/>
-pora terrae commiscenda sunt, quod hoc sit pium: non enim unà cum corpore sepe<lb/>
+Amicorum et familiarium, dum vivunt curam gerito: defunctorum autem cor//
+pora terrae commiscenda sunt, quod hoc sit pium: non enim unà cum corpore sepe//
 litur animus. Frustra igitur nimius ille sepulturarum labor suscipitur.
 Anaxagorae.
 Duo esse mortis documenta puto, tempus quod fuit ante ortum, et somnum.

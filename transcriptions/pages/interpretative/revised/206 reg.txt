@@ -6,7 +6,7 @@ Philonis.
 
 Contentis frugali victu nulla unquam nox longa aut molesta esse potest.
 
-Debemus nos assuefacere, ut paucis contenti vivamus, ut nihil turpe pecuniae cau<lb/>sa discamus.
+Debemus nos assuefacere, ut paucis contenti vivamus, ut nihil turpe pecuniae cau//sa discamus.
 Democriti.
 
 Interrogatus a quodam, quis ei ditissimus videretur: Qui, inquit, minimis contentus est: nam contentum esse, naturae continet divitias.
@@ -14,7 +14,7 @@ Socrates.
 
 Quasi ad viam vitae non magni pretii viaticum, sed quod est magis necessarium componito.
 
-Praestat in tenui re se contrahentem, cum animi tranquillitate versari: quam in sum<lb/>mis opibus cum infortunio et miseria.
+Praestat in tenui re se contrahentem, cum animi tranquillitate versari: quam in sum//mis opibus cum infortunio et miseria.
 Moschionis.
 
 Cum quidam ex numero amicorum, qui summe beneuoli videbantur, ei diceret, Civitates subiectas maiora posse pendere tributas, respondit: Olitorem odi, qui radicitus evellit olera.
@@ -30,7 +30,7 @@ Epicteti et Isocratis.
 
 Idem interrogatus quis esset in hominibus dives: Qui, inquit, contentus est.
 
-Cum Xanthippe Socratem virum suum increparet, quod tenuiter se ad amicos accipiendos praepararet, dixit: Si nostri fuerint, nihil curabunt: sin alieni, nos de ipsis ni<lb/>hil curabimus.
+Cum Xanthippe Socratem virum suum increparet, quod tenuiter se ad amicos accipiendos praepararet, dixit: Si nostri fuerint, nihil curabunt: sin alieni, nos de ipsis ni//hil curabimus.
 Xanthippe.
 
 DE PRECATIONE. SERMO XIIII.
@@ -49,7 +49,7 @@ Sirach.
 
 Non moreris quin votum reddas tempestive.
 
-Auditus divinus ad audiendum voce non eget: novit enim etiam in cordis motu quae petuntur dignoscere. An non audis Mosem nulla voce emissa, sed tacitis suspiriis cum domino colloquentem exauditum esse a domino respondente, quid clamas ad me? ho<lb/>nestarum autem actionum praesentia magna vox est apud deum.
+Auditus divinus ad audiendum voce non eget: novit enim etiam in cordis motu quae petuntur dignoscere. An non audis Mosem nulla voce emissa, sed tacitis suspiriis cum domino colloquentem exauditum esse a domino respondente, quid clamas ad me? ho//nestarum autem actionum praesentia magna vox est apud deum.
 S. Basilii.
 
 Cavendum est ne in oratione nostra ob minutas quasdam petitiones et largitore indignas, arguamur.

@@ -24,7 +24,7 @@ Basilii.
 Ne laudibus efferamur, quae supra verum nobis tribuuntur.
 Nimia honorum excellentia ita quosdam afficit, ut decorum etiam deserant et con
 temnant. Quorum enim laudes noui, eorum etiam incrementa certo scio.
-Nihil alienum quod non sit iustum, laudetur: nec nostrum vel domesticum reiicia<lb/>
+Nihil alienum quod non sit iustum, laudetur: nec nostrum vel domesticum reiicia//
 tur, si est honestum: ut illi alienum esse lucro non sit, sed huic domesticum esse dannosum:
 utroque enim modo aequitatis uiolaretur ratio, si vel illi laudarentur, vel hi silerentur.
 Qui improbitatem laudat, eam poenitentiae remedio fraudat.
