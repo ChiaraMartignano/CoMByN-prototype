@@ -4,7 +4,7 @@ Praestat paupertas non iustae possessioni: sic etiam morbus praeoptandus est qua
 
 Molestum quidem est pauperie premi, at deterior est iniqua abundantia.
 
-O quanta dignitas paupertatis est? dei fit persona <span rend="italic">(vel dei sustinet personam)</span> latet in paupertate deus. Et pauper est qui manum protendit, sed deus est qui recipit.
+O quanta dignitas paupertatis est? dei fit persona _(vel dei sustinet personam)</span> latet in paupertate deus. Et pauper est qui manum protendit, sed deus est qui recipit.
 Chrysostomi.
 
 Ut ex edacitate nascitur inflammatio, ex inflammatione febris, quam saepe mors con//sequitur: Sic et a rerum et divitiarum exuperatione amentia gignitur: ut enim in cor//poribus inflammatio, sic et in animo amentia, deinde ex amentia cupiditas earum re//rum, quae non conveniunt, sequi solet.

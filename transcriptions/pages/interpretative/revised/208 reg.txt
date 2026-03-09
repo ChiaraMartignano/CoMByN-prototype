@@ -1,5 +1,5 @@
 208
-<span rend="italic">Ex sententiis Epicteti et Isocratis.</span>
+_Ex sententiis Epicteti et Isocratis.</span>
 Tum meliores fiunt homines, cum ad deum accedunt: illa autem deo similia ha
 <lb break="no" rend="="/>bent, beneficia praestare et vera dicere.
 
