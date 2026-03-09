@@ -96,9 +96,11 @@ evt-addition evt-note {
 
 [type="sermo-bibl-right"]{
     float: right;
+    font-style: italic;
 }
 [type="sermo-bibl-left"]{
     float: right;
+    font-style: italic;
 }
 
 div[type="sermo"] p {

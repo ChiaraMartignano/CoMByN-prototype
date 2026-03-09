@@ -1,0 +1,758 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edizione Interpretativa Unificata</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Edizione integrale unificata</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Unione di file XML/TEI sorgente</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- Inizio file: 179 reg.xml -->
+      <ab>
+        
+        
+        <pb n="179" xml:id="p179" facs="179.jpg"/>
+        
+        
+        <lb n="1"/>
+        
+        
+        <span rend="align-center">LOCI COMMUNES SEN</span>
+        
+        
+        <lb n="2" break="no" rend="="/>
+        
+        
+        <span rend="align-center">TENTIARUM, QUAS S. PATER MAXIMUS EX SA</span>
+        
+        
+        <lb n="3" break="no" rend="="/>
+        
+        
+        <span rend="align-center">cris et prophanis libris Graecis congessit, loanne</span>
+        
+        
+        <lb n="4"/>
+        
+        
+        <span rend="align-center">Ribitto interprete.</span>
+        
+        
+        <lb n="5"/>
+        
+        
+        <span rend="align-center">Gratiam Christe laboribus impertire meis.</span>
+        
+        
+        <lb n="6"/>
+        
+        
+        <span rend="align-center">SANCTI EPHRAIMI.</span>
+        
+        
+        <lb n="7"/>
+        
+        
+        <hi rend="italic">QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per</hi>
+        
+        
+        <lb n="8" break="no"/>
+        
+        
+        <hi rend="italic">sequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accurateque</hi>
+        
+        
+        <lb n="9"/>
+        
+        
+        <hi rend="italic">sine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hunc</hi>
+        
+        
+        <lb n="10"/>
+        
+        
+        <hi rend="italic">modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun</hi>
+        
+        
+        <lb n="11" break="no"/>
+        
+        
+        <hi rend="italic">tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira</hi>
+        
+        
+        <lb n="12"/>
+        
+        
+        <hi rend="italic">bilia in lege tua intelligam.</hi>
+        
+        
+        <lb n="13"/>
+        
+        
+        <span rend="align-center">DE VITAE VIRTUTE ET VITIO, SERMO I.</span>
+        
+        
+        <lb n="14"/>
+        
+        
+        <span type="sermo-bibl-right">Math. 7.</span>
+        
+        ANGUSTA via et arcta quae ad vitam deducit.
+        
+        <lb n="15"/>
+        
+        
+        <span type="sermo-bibl-right">Rom. 12.</span>
+        
+        Noli vinci a malo, sed per bonum vince malum.
+        
+        <lb n="16"/>
+        
+        
+        <span type="sermo-bibl-right">Solomonis</span>
+        
+        Virtutis quidem signum nullum ostendere possumus: in vitio au
+        
+        <lb n="17" break="no"/>
+        
+        tem consumpti sumus.
+        
+        <lb n="18"/>
+        
+        
+        <span type="sermo-bibl-right">Eiusdem</span>
+        
+        Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retra
+        
+        <lb n="19" break="no" rend="="/>
+        
+        he pedem tuum a semitis illorum, quod pedes ipsorum ad vitia currant.
+        
+        <lb n="20"/>
+        
+        Qui rem aliquam contemnit, contemnetur ab ipsa.
+        
+        <lb n="21"/>
+        
+        Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis
+        
+        <lb n="22"/>
+        
+        violatio violatoribus.
+        
+        <lb n="23"/>
+        
+        
+        <span type="sermo-bibl-right">Sirach. 7</span>
+        
+        Noli mala facere, et te mala non apprehendent.
+        
+        <lb n="24"/>
+        
+        Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
+        
+        <lb n="25"/>
+        
+        
+        <span type="sermo-bibl-right">Basilii.</span>
+        
+        Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actio
+        
+        <lb n="26" break="no" rend="="/>
+        
+        nes necessario sequitur aliquod emolumentum.
+        
+        <lb n="27"/>
+        
+        Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredien
+        
+        <lb n="28" break="no" rend="="/>
+        
+        tibus spectaculum.
+        
+        <lb n="29"/>
+        
+        
+        <span type="sermo-bibl-right">Theologi.</span>
+        
+        Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam
+        
+        <lb n="30"/>
+        
+        superans.
+        
+        <lb n="31"/>
+        
+        Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.
+        
+        <lb n="32"/>
+        
+        Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
+        
+        <lb n="33"/>
+        
+        ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac in
+        
+        <lb n="34" break="no"/>
+        
+        flammantur, et a sua ipsa prole, videlicet flammis, consumuntur.
+        
+        <lb n="35"/>
+        
+        Non est admodum facile virtutum victricem invenire, atque huic dare munera ho
+        
+        <lb n="36" break="no" rend="="/>
+        
+        noraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
+        
+        <lb n="37"/>
+        
+        vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratum
+        
+        <lb n="38"/>
+        
+        et aspectum ad se trahat, et ad se decerpendum primum invitet.
+        
+        <lb n="39"/>
+        
+        
+        <span type="sermo-bibl-right">Chrysostomi</span>
+        
+        Non potest fieri quin virtutis studiosus multos habeat hostes.
+        
+        <lb n="40"/>
+        
+        Non locus virtutem, sed virtus locum augustiorem reddere solet.
+        
+        <lb n="41"/>
+        
+        Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
+        
+        <lb n="42"/>
+        
+        magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?
+        
+        <lb n="43"/>
+        
+        Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi
+      
+      </ab>
+      
+    
+      <!-- Inizio file: 180 reg.xml -->
+      <ab>
+        
+        
+        <pb n="180" xml:id="p180" facs="180.jpg"/>
+        
+        
+        <lb n="1"/>
+        
+        percurrendi sunt numerose et decenter: sic et in animi virtute non satis est nobis ad
+        
+        <lb n="2"/>
+        
+        salutem lex una, sed universae summa cum diligentia observandae sunt.
+        
+        <lb n="3"/>
+        
+        Ne igitur dicamus hunc natura bonum, et illum natura malum. Si enim natura bo
+        
+        <lb n="4" break="no"/>
+        
+        nus est, nunquam poterit fieri malus: et si natura malus, nunquam fiet bonus.
+        
+        <lb n="5"/>
+        
+        Mali quies principium est motionis ad virtutem.
+        
+        <lb n="6"/>
+        
+        Non sustinent tenebrae lucis praesentiam, non morbus valetudine recuperata con
+        
+        <lb n="7"/>
+        
+        sistit, nihil agunt perturbationes si adsit tranquillitas et perturbationum vacuitas.
+        
+        <lb n="8"/>
+        
+        Liberam esse convenit ab omni metu virtutem et dominatu.
+        
+        <lb n="9"/>
+        
+        Virtus enim et voluntaria est et ab omni metu et necessitate libera.
+        
+        <lb n="10"/>
+        
+        Non licet aliam vitii procreationem cogitare, quam virtutis absentiam.
+        
+        <lb n="11"/>
+        
+        
+        <span type="sermo-bibl-left">Philonis.</span>
+        
+        Improbi aliae sunt cogitationes, et alii sermones, et aliae actiones: omnia autem dif
+        
+        <lb n="12" break="no" rend="="/>
+        
+        ferentia, et pugnantia.
+        
+        <lb n="13"/>
+        
+        Vitii exitus virtutis introitum facit: ut contra, migrante bono, insidians malum intrat.
+        
+        <lb n="14"/>
+        
+        
+        <span type="sermo-bibl-left">Clementis.</span>
+        
+        A malis liberari, salutis est initium consequi.
+        
+        <lb n="15"/>
+        
+        Iustitia ut videtur quadrata est, par et similis in verbo et opere, in malorum absti
+        
+        <lb n="16" break="no" rend="="/>
+        
+        nentia, in beneficentia, in perfectione erudita, nusquam ulla ex parte claudicans, ut
+        
+        <lb n="17"/>
+        
+        ne iniusta et inaequalis videatur.
+        
+        <lb n="18"/>
+        
+        
+        <span type="sermo-bibl-left">Nili.</span>
+        
+        Gaude cum aliquid cum virtute agis, sed ne extollaris, ne quando naufragium in
+        
+        <lb n="19"/>
+        
+        
+        <span type="sermo-bibl-left">Didymi.</span>
+        
+        Virtutem simulato, non ut fallas, sed ut prosis.
+        
+        <span rend="float-right">(portu fiat.</span>
+        
+        
+        <lb n="20"/>
+        
+        Regnum coelorum dicere licet statum et vivendi rationem, eorum qui ex divinis
+        
+        <lb n="21"/>
+        
+        legibus moderate vivunt.
+        
+        <lb n="22"/>
+        
+        Omnis activa virtus in hoc consistit ut fiat, non ut facta sit.
+        
+        <lb n="23"/>
+        
+        Virtus altera ex parte claudicare non debet, sed verbo et opere rectam et integram
+        
+        <lb n="24"/>
+        
+        esse oportet.
+        
+        <lb n="25"/>
+        
+        
+        <span type="sermo-bibl-left">Ex patribus.</span>
+        
+        Rebus quatuor animus polluitur: si per urbem ambules, nec oculos custodieris: et
+        
+        <lb n="26"/>
+        
+        si omnino consuetudinem aliquam cum mulieribus habeas: tertium est nobilium hu
+        
+        <lb n="27" break="no"/>
+        
+        ius mundi amicitiam colere: quartum, congressionibus carnalibus et inanibus dispu
+        
+        <lb n="28" break="no"/>
+        
+        tationibus delectari.
+        
+        <lb n="29"/>
+        
+        
+        <span type="sermo-bibl-left">Plutarchi.</span>
+        
+        Ignotae virtutis veluti defossi auri splendor non apparet.
+        
+        <lb n="30"/>
+        
+        Ut iis qui exercentur in gymnasiis cibus: sic eruditis virtus suavis videtur.
+        
+        <lb n="31"/>
+        
+        Etsi improbi homines probitatem et benignitatem pollicentur, tamen propter mo
+        
+        <lb n="32" break="no"/>
+        
+        res eis fides non habetur.
+        
+        <lb n="33"/>
+        
+        Statuam quidem figura, virum autem exornat actio.
+        
+        <lb n="34"/>
+        
+        Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius ta
+        
+        <lb n="35" break="no" rend="="/>
+        
+        men cerneris.
+        
+        <lb n="36"/>
+        
+        Sic vitam institue, ut neque a potentioribus contemnare, neque inferioribus terribi
+        
+        <lb n="37" break="no" rend="="/>
+        
+        lis videare.
+        
+        <lb n="38"/>
+        
+        Omnia in futurum bene se habebunt, si quod praesens est recte fuerit compositum.
+        
+        <lb n="39"/>
+        
+        Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri non auderet, ali
+        
+        <lb n="40" break="no" rend="="/>
+        
+        quando tandem in fugientem incidit, ac ei, Non oportet, inquit, ut tu me, sed ego te cum
+        
+        <lb n="41"/>
+        
+        sis improbus fugiam.
+        
+        <lb n="42"/>
+        
+        Non est cum cane comparandus, immo ne cum asino quidem, timidus vir et imbellis,
+        
+        <lb n="43"/>
+        
+        divitiis et delitiis diffluens.
+        
+        <lb n="44"/>
+        
+        
+        <span type="sermo-bibl-left">Isocratis.</span>
+        
+        Virtutis magis quam corporis imagines ac monimenta relinquenda putato.
+        
+        <lb n="45"/>
+        
+        
+        <span type="sermo-bibl-left">Demosthenis.</span>
+        
+        Quemadmodum domus et navigii et ceterorum talium bases firmissimas esse con
+        
+        <lb n="46" break="no"/>
+        
+        venit: sic et actionum primordia et fundamenta vera iustaque esse decet.
+        
+        <lb n="47"/>
+        
+        
+        <span type="sermo-bibl-left">Clitarchi.</span>
+        
+        Non simpliciter habere virtutem honestum existimato, sed quemadmodum decet
+        
+        <lb n="48"/>
+        
+        et pro quibus decet.
+      
+      </ab>
+      
+    
+      <!-- Inizio file: 181 reg.xml -->
+      <ab>
+        
+        
+        <pb n="181" xml:id="p181" facs="181.jpg"/>
+        
+        
+        <lb n="1"/>
+        
+        Virtutem si habes, omnia habes: at si vitium, ne teipsum quidem.
+        
+        <lb n="2"/>
+        
+        
+        <span type="sermo-bibl-right">Socrates.</span>
+        
+        Socrates cum quendam ex discipulis suis animadvertisset agri quidem esse studio
+        
+        <lb n="3" break="no" rend="="/>
+        
+        sum, sed actionis negligentem: Heus tu, vide (inquit) ne dum agrum cicurare vis, ani
+        
+        <lb n="4" break="no" rend="="/>
+        
+        mum tuum efferari sinas.
+        
+        <lb n="5"/>
+        
+        Quum autem intellexisset quendam ex familiaribus suis studiose curantem ut ima
+        
+        <lb n="6" break="no"/>
+        
+        go ipsi similis fieret: Tu (inquit) ut tibi similis lapis fieret curasti: at ipse ne lapidi similis
+        
+        <lb n="7"/>
+        
+        fias non curas.
+        
+        <lb n="8"/>
+        
+        
+        <span type="sermo-bibl-right">Demonactis.</span>
+        
+        Tantum virtuti appones, quantum de voluptatibus detraxeris.
+        
+        <lb n="9"/>
+        
+        Turpe est in aliis virtutes approbare, et in seipsis vitia habere.
+        
+        <lb n="10"/>
+        
+        Corporis curatores, sui autem negligentes, probrosos existimabat, et similes iis qui
+        
+        <lb n="11"/>
+        
+        domos quidem curant, sed domesticos negligunt.
+        
+        <lb n="12"/>
+        
+        
+        <span type="sermo-bibl-right">Democriti.</span>
+        
+        † Principia certissima esse oportet, actiones autem praeclarissimas.
+        
+        <lb n="13"/>
+        
+        
+        <span type="sermo-bibl-right">
+          
+          † 
+          
+          <span xml:lang="grc">γραμμάς</span>
+          
+          .
+        
+        </span>
+        
+        Illud te deo dignum efficiet, si nihil illo indignum feceris.
+        
+        <lb n="14"/>
+        
+        
+        <span type="sermo-bibl-right">Biantis.</span>
+        
+        Lente res agendas aggreditor: ubi autem aggressus fueris, agito constanter.
+        
+        <lb n="15"/>
+        
+        Sic institue vitam quasi et paulum et diu sis victurus.
+        
+        <lb n="16"/>
+        
+        Lacon interrogatus, cur Sparta munita non esset: Noli(inquit) mentiri, munita est
+        
+        <lb n="17"/>
+        
+        enim habitantium virtutibus.
+        
+        <lb n="18"/>
+        
+        
+        <span type="sermo-bibl-right">Diogenes.</span>
+        
+        Quum quidam ei ut probrum obiiceret, quod in loca impura intraret: Etiam sol (in
+        
+        <lb n="19" break="no" rend="="/>
+        
+        quit) intrat, nec contaminatur.
+        
+        <lb n="20"/>
+        
+        
+        <span type="sermo-bibl-right">Euripidis ex</span>
+        
+        Bonorum virorum reliquias tempus non abolet, sed etiam defunctis eis virtus relucet.
+        
+        <lb n="21"/>
+        
+        
+        <span type="sermo-bibl-right">Andromacha.</span>
+        
+        Multi mali divites sunt, boni autem pauperes.
+        
+        <lb n="22"/>
+        
+        Sed nos cum istorum divitiis virtutem
+        
+        <lb n="23"/>
+        
+        Nolimus mutare: quoniam haec semper firma est:
+        
+        <lb n="24"/>
+        
+        Pecunias autem bominum alias alius habet.
+        
+        <lb n="25"/>
+        
+        
+        <span type="sermo-bibl-right">Lindi.</span>
+        
+        Pietas colenda est, civibus optima consulenda, voluptas vincenda, nihil per vim ge
+        
+        <lb n="26" break="no" rend="="/>
+        
+        rendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi: se
+        
+        <lb n="27" break="no" rend="="/>
+        
+        cus enim tu ipse ebrius videberis.
+        
+        <lb n="28"/>
+        
+        
+        <span type="sermo-bibl-right">Lycurgus.</span>
+        
+        Lycurgus legislator † assiduum esse dignumque cui debitum credas, in opibus: at
+        
+        <lb n="29"/>
+        
+        
+        <span type="sermo-bibl-right">
+          
+          † 
+          
+          <span xml:lang="grc">αξιόχρεον</span>
+          
+          .
+        
+        </span>
+        
+        fide dignum, in moribus situm esse dicebat.
+        
+        <lb n="30"/>
+        
+        
+        <span type="sermo-bibl-right">Pythagorae.</span>
+        
+        Ut idem voluptatem, corpus, pecuniam, et deum amet, fieri nullo modo potest:
+        
+        <lb n="31"/>
+        
+        nam qui voluptates amat, idem et corpus amet necesse est: iam qui corpus amat, idem
+        
+        <lb n="32"/>
+        
+        continuo et pecuniam: qui autem pecuniam, idem necessario iniustus est: at iniustus,
+        
+        <lb n="33"/>
+        
+        in deum quidem impius, in homines iniquus est.
+        
+        <lb n="34"/>
+        
+        Omnia ista contemnito, quibus a corpore solutus non indigebis: quibus autem ege
+        
+        <lb n="35" break="no"/>
+        
+        bis tum temporis, ad ea tibi laboranti Deum auxiliari precator.
+        
+        <lb n="36"/>
+        
+        
+        <span type="sermo-bibl-right">Diodori.</span>
+        
+        Omnes homines imbecillitatis naturae vitio, exiguum quoddam universi tempori
+        
+        <lb n="37"/>
+        
+        momentum in vita durant, reliquum vero totum spacium occupati morte iacent. Et
+        
+        <lb n="38"/>
+        
+        illis sane, qui dum viverent praeclari nihil gesserunt, eodem cum corpore obitu omnia
+        
+        <lb n="39"/>
+        
+        pessum eunt: Qui vero per virtutem sibi gloriam conciliarunt, illorum actiones omni
+        
+        <lb n="40" break="no"/>
+        
+        bus saeculis divinissimo Historiae sermone commemorabuntur.
+        
+        <lb n="41"/>
+        
+        
+        <span type="sermo-bibl-right">Hyperidis.</span>
+        
+        Virum bonum quae sentit, verbis: quae facit, opere ostendere decet.
+        
+        <lb n="42"/>
+        
+        Boni cum officium non faciunt, exempla praebent peccare volentibus.
+        
+        <lb n="43"/>
+        
+        
+        <span type="sermo-bibl-right">Hittaci philo//</span>
+        
+        Bonos viros dei quandam partem habere Aristoteles dicit: dei enim est, quae velit,
+        
+        <lb n="44"/>
+        
+        
+        <span type="sermo-bibl-right">sophi.</span>
+        
+        agere: hominis autem, quae opus sunt, providere.
+        
+        <lb n="45"/>
+        
+        
+        <span type="sermo-bibl-right">Antiphanis.</span>
+        
+        Si quis in rerum abundantia turpe aliquid admittit,
+        
+        <lb n="46"/>
+        
+        Quid expectandum est ut committat in penuria?
+        
+        <lb n="47"/>
+        
+        
+        <span rend="align-center">DE PRUDENTIA ET CONSILIO, SERMO II.</span>
+        
+        
+        <lb n="48"/>
+        
+        
+        <span type="sermo-bibl-right">Matth. 2.</span>
+        
+        Estote prudentes veluti serpentes, et simplices sicut columbae.
+      
+      </ab>
+      
+    
+    </body>
+  </text>
+</TEI>

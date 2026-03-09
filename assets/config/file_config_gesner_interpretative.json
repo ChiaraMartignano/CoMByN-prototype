@@ -5,7 +5,7 @@
 	"editionImagesSource": {
 		"manifest": {
 			"value": "https://api.onb.ac.at/iiif/presentation/v3/manifest/102B2A68",
-			"enable": false
+			"enable": true
 		},
 		"graphics": {
 			"value": "url",
