@@ -26,14 +26,14 @@
 			"iconSet": "evt",
 			"id": "imageText",
 			"label": "Image Text",
-			"enable": true
+			"enable": false
 		},
 		{
 			"icon": "txtTxt",
 			"iconSet": "evt",
 			"id": "textText",
 			"label": "Text Text",
-			"enable": true
+			"enable": false
 		},
 		{
 			"icon": "collation",
@@ -78,9 +78,9 @@
 			"enable": true
 		}
 	],
-	"enableNavBar": true,
-	"initNavBarOpened": true,
-	"thumbnailsButton": true,
+	"enableNavBar": false,
+	"initNavBarOpened": false,
+	"thumbnailsButton": false,
 	"viscollButton": false,
 	"mainFontFamily": "Junicode, Times, serif",
 	"mainFontSize": "1.1rem",

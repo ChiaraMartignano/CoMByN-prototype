@@ -1,6 +1,6 @@
 {
 	"editionUrls": [
-		"assets/data/editio-princeps.xml"
+		"assets/data/gesner_critical.xml"
 	],
 	"editionImagesSource": {
 		"manifest": {
@@ -17,8 +17,8 @@
 		"double": "assets/data/images/double/"
 	},
 	"configurationUrls": {
-		"edition": "assets/config/edition_config_gesner.json",
-		"ui": "assets/config/ui_config_gesner.json",
-		"editorialConventions": "assets/config/editorial_conventions_config.json"
+		"edition": "assets/config/edition_config_gesner_critical.json",
+		"ui": "assets/config/ui_config_gesner_critical.json",
+		"editorialConventions": "assets/config/editorial_conventions_config_critical.json"
 	}
 }

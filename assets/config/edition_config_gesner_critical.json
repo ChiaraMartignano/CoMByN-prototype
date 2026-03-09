@@ -6,14 +6,14 @@
 		{
 			"id": "diplomatic",
 			"label": "diplomatic",
-			"enable": true,
-			"hidden": false
+			"enable": false,
+			"hidden": true
 		},
 		{
 			"id": "interpretative",
 			"label": "interpretative",
-			"enable": true,
-			"hidden": false
+			"enable": false,
+			"hidden": true
 		},
 		{
 			"id": "critical",
@@ -109,7 +109,7 @@
 	"notSignificantVariants": [
 		"type=orthographic"
 	],
-	"defaultEdition": "interpretative",
+	"defaultEdition": "critical",
 	"defaultViewMode": "imageText",
 	"proseVersesToggler": false,
 	"defaultTextFlow": "prose",
