@@ -1,6 +1,6 @@
 179
 
-[c]LOCI COMMUNES SEN[/c]//
+[c]LOCI COMMUNES SEN[/]//
 [c]TENTIARUM, QUAS S. PATER MAXIMUS EX SA[/c]//
 [c]cris et prophanis libris Graecis congessit, loanne[/c]
 [c]Ribitto interprete.[/c]
@@ -9,12 +9,12 @@
 
 [c]SANCTI EPHRAIMI.[/c]
 
-_QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per/
-sequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accurateque
-sine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hunc
-modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun/
-tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira//
-bilia in lege tua intelligam._
+_QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per_/
+_sequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accurateque_
+_sine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hunc_
+_modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun_/
+_tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira_//
+_bilia in lege tua intelligam._
 
 [c]DE VITAE VIRTUTE ET VITIO, SERMO I.[/c]
 

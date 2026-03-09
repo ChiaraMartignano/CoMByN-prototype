@@ -6,25 +6,25 @@ from xml.dom import minidom
 # --- FUNZIONI DI SUPPORTO ---
 
 def process_inline_tags(text):
-    """
-    Trasforma i marcatori custom e rileva il testo greco.
-    """
     # Protegge i caratteri XML riservati
     text = text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
     
-    # 1. Rilevamento Greco (Unicode Range 0370-03FF)
-    # Cerchiamo sequenze di caratteri greci (incluse pause o spiriti)
-    # Usiamo <foreign> o <span> con xml:lang
+    # 1. Greco
     text = re.sub(r'([\u0370-\u03ff]+(?:[\s,.;:][\u0370-\u03ff]+)*)', 
                   r'<span xml:lang="grc">\1</span>', text)
     
-    # 2. Corsivo: _testo_ -> <hi rend="italic">testo</hi>
+    # 2. Corsivo
     text = re.sub(r'_(.*?)_', r'<hi rend="italic">\1</hi>', text)
     
     # 3. Allineamenti
     text = re.sub(r'\[c\](.*?)\[/c\]', r'<span rend="align-center">\1</span>', text)
-    text = re.sub(r'\[r\](.*?)\[/r\]', r'<span rend="float-right">\1</span>', text)
-    text = re.sub(r'\[l\](.*?)\[/l\]', r'<span rend="float-left">\1</span>', text)
+
+    # 4. Spostamenti (Float Above/Under)
+    # Trasformiamo i marcatori in tag XML che inject_xml_content riconoscerà
+    text = re.sub(r'\[u\](.*?)\[/u\]', r'<span type="float-under">\1</span>', text)
+    text = re.sub(r'\[a\](.*?)\[/a\]', r'<span type="float-above">\1</span>', text)
+    
+    return text
     
     return text
 
@@ -110,37 +110,74 @@ def crea_critica(filename, content):
     ET.register_namespace('', tei_ns)
     root = ET.Element(f"{{{tei_ns}}}TEI")
     
+    # ... (Header standard) ...
     header = ET.SubElement(root, f"{{{tei_ns}}}teiHeader")
-    # ... metadati minimi ...
+    # ...
 
     text_el = ET.SubElement(root, f"{{{tei_ns}}}text")
     body = ET.SubElement(text_el, f"{{{tei_ns}}}body")
     
+    # Unione parole spezzate
     content = content.replace("//\n", "").replace("/\n", "")
     lines = [l.strip() for l in content.split('\n') if l.strip()]
     
-    current_div, current_p = body, None
-    
+    # --- FASE 1: LOGICA DI SPOSTAMENTO DELLE STRINGHE ---
+    buffer_lines = []
+    pending_above = [] # Codice XML da aggiungere alla riga successiva
+
     for line in lines:
         if re.match(r'^\d+$', line): continue
+        
+        # Processiamo i tag inline (inclusi [u] e [a] che diventano <span>)
+        processed_line = process_inline_tags(line)
+        
+        # Estraiamo i tag float-under per mandarli sopra
+        under_fragments = re.findall(r'<span type="float-under">.*?</span>', processed_line)
+        for frag in under_fragments:
+            if buffer_lines:
+                buffer_lines[-1] += " " + frag # Sposta alla fine della precedente
+            processed_line = processed_line.replace(frag, "")
 
-        if "SERMO" in line.upper() and (line.isupper() or len(re.findall(r'[A-Z]', line)) > len(line)/2):
+        # Estraiamo i tag float-above per mandarli sotto
+        above_fragments = re.findall(r'<span type="float-above">.*?</span>', processed_line)
+        for frag in above_fragments:
+            pending_above.append(frag)
+            processed_line = processed_line.replace(frag, "")
+
+        # Se c'erano frammenti in attesa dalla riga precedente, li aggiungiamo qui
+        if pending_above:
+            processed_line += " " + " ".join(pending_above)
+            pending_above = []
+            
+        buffer_lines.append(processed_line)
+
+    # --- FASE 2: COSTRUZIONE EFFETTIVA DELL'ALBERO XML ---
+    current_div = body
+    current_p = None
+    
+    for xml_line in buffer_lines:
+        # Controllo se la riga (senza tag) è un titolo SERMO
+        plain_text = re.sub(r'<.*?>', '', xml_line).strip()
+        if not plain_text: continue
+
+        if "SERMO" in plain_text.upper() and (plain_text.isupper() or len(re.findall(r'[A-Z]', plain_text)) > len(plain_text)/2):
             current_div = ET.SubElement(body, f"{{{tei_ns}}}div", {"type": "sermon"})
             head = ET.SubElement(current_div, f"{{{tei_ns}}}head")
-            inject_xml_content(head, process_inline_tags(line), tei_ns)
+            inject_xml_content(head, xml_line, tei_ns)
             current_p = None
             continue
 
-        if "|" in line:
+        # Gestione margine e paragrafi
+        if "|" in xml_line:
             current_p = ET.SubElement(current_div, f"{{{tei_ns}}}p")
-            parts = line.split("|", 1)
+            parts = xml_line.split("|", 1)
             bibl = ET.SubElement(current_p, f"{{{tei_ns}}}bibl", {"type": "source"})
-            inject_xml_content(bibl, process_inline_tags(parts[0].strip()), tei_ns)
-            inject_xml_content(current_p, process_inline_tags(parts[1].strip()), tei_ns)
+            inject_xml_content(bibl, parts[0].strip(), tei_ns)
+            inject_xml_content(current_p, parts[1].strip(), tei_ns)
         else:
             if current_p is None:
                 current_p = ET.SubElement(current_div, f"{{{tei_ns}}}p")
-            inject_xml_content(current_p, process_inline_tags(line), tei_ns)
+            inject_xml_content(current_p, xml_line, tei_ns)
                 
     return root
 
