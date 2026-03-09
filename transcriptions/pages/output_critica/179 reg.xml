@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text>
+    <body>
+      <p>
+        <span rend="align-center">LOCI COMMUNES SEN</span>
+        <span rend="align-center">TENTIARUM, QUAS S. PATER MAXIMUS EX SA</span>
+        <span rend="align-center">cris et prophanis libris Graecis congessit, loanne</span>
+        <span rend="align-center">Ribitto interprete.</span>
+        <span rend="align-center">Gratiam Christe laboribus impertire meis.</span>
+        <span rend="align-center">SANCTI EPHRAIMI.</span>
+        _QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter persequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accuratequesine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in huncmodum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et voluntati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admirabilia in lege tua intelligam._
+      </p>
+      <div type="sermon">
+        <head>
+          <span rend="align-center">DE VITAE VIRTUTE ET VITIO, SERMO I.</span>
+        </head>
+        <p>
+          <bibl type="source">Math. 7.</bibl>
+          ANGUSTA via et arcta quae ad vitam deducit.
+        </p>
+        <p>
+          <bibl type="source">Rom. 12.</bibl>
+          Noli vinci a malo, sed per bonum vince malum.
+        </p>
+        <p>
+          <bibl type="source">Solomonis</bibl>
+          Virtutis quidem signum nullum ostendere possumus: in vitio autem consumpti sumus.
+        </p>
+        <p>
+          <bibl type="source">Eiusdem</bibl>
+          Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retrahe pedem tuum a semitis illorum, quod pedes ipsorum ad vitia currant.Qui rem aliquam contemnit, contemnetur ab ipsa.Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legisviolatio violatoribus.
+        </p>
+        <p>
+          <bibl type="source">Sirach. 7</bibl>
+          Noli mala facere, et te mala non apprehendent.Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
+        </p>
+        <p>
+          <bibl type="source">Basilii.</bibl>
+          Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actiones necessario sequitur aliquod emolumentum.Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredientibus spectaculum.
+        </p>
+        <p>
+          <bibl type="source">Theologi.</bibl>
+          Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriamsuperans.Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et a sua ipsa prole, videlicet flammis, consumuntur.Non est admodum facile virtutum victricem invenire, atque huic dare munera honoraria et victoriae praemia: quemadmodum nec in prato variis florum generibusvaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratumet aspectum ad se trahat, et ad se decerpendum primum invitet.
+        </p>
+        <p>
+          <bibl type="source">Chrysostomi</bibl>
+          Non potest fieri quin virtutis studiosus multos habeat hostes.Non locus virtutem, sed virtus locum augustiorem reddere solet.Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quantomagis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

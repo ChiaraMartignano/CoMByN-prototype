@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader/>
+  <text>
+    <body>
+      <p>Virtutem si habes, omnia habes: at si vitium, ne teipsum quidem.</p>
+      <p>
+        <bibl type="source">Socrates.</bibl>
+        Socrates cum quendam ex discipulis suis animadvertisset agri quidem esse studiosum, sed actionis negligentem: Heus tu, vide (inquit) ne dum agrum cicurare vis, animum tuum efferari sinas.Quum autem intellexisset quendam ex familiaribus suis studiose curantem ut imago ipsi similis fieret: Tu (inquit) ut tibi similis lapis fieret curasti: at ipse ne lapidi similisfias non curas.
+      </p>
+      <p>
+        <bibl type="source">Demonactis.</bibl>
+        Tantum virtuti appones, quantum de voluptatibus detraxeris.Turpe est in aliis virtutes approbare, et in seipsis vitia habere.Corporis curatores, sui autem negligentes, probrosos existimabat, et similes iis quidomos quidem curant, sed domesticos negligunt.
+      </p>
+      <p>
+        <bibl type="source">Democriti.</bibl>
+        † Principia certissima esse oportet, actiones autem praeclarissimas.
+      </p>
+      <p>
+        <bibl type="source">
+          † 
+          <span xml:lang="grc">γραμμάς</span>
+          .
+        </bibl>
+        Illud te deo dignum efficiet, si nihil illo indignum feceris.
+      </p>
+      <p>
+        <bibl type="source">Biantis.</bibl>
+        Lente res agendas aggreditor: ubi autem aggressus fueris, agito constanter.Sic institue vitam quasi et paulum et diu sis victurus.Lacon interrogatus, cur Sparta munita non esset: Noli(inquit) mentiri, munita estenim habitantium virtutibus.
+      </p>
+      <p>
+        <bibl type="source">Diogenes.</bibl>
+        Quum quidam ei ut probrum obiiceret, quod in loca impura intraret: Etiam sol (inquit) intrat, nec contaminatur.
+      </p>
+      <p>
+        <bibl type="source">Euripidis ex</bibl>
+        Bonorum virorum reliquias tempus non abolet, sed etiam defunctis eis virtus relucet.
+      </p>
+      <p>
+        <bibl type="source">Andromacha.</bibl>
+        Multi mali divites sunt, boni autem pauperes.Sed nos cum istorum divitiis virtutemNolimus mutare: quoniam haec semper firma est:Pecunias autem bominum alias alius habet.
+      </p>
+      <p>
+        <bibl type="source">Lindi.</bibl>
+        Pietas colenda est, civibus optima consulenda, voluptas vincenda, nihil per vim gerendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi: secus enim tu ipse ebrius videberis.
+      </p>
+      <p>
+        <bibl type="source">Lycurgus.</bibl>
+        Lycurgus legislator † assiduum esse dignumque cui debitum credas, in opibus: at
+      </p>
+      <p>
+        <bibl type="source">
+          † 
+          <span xml:lang="grc">αξιόχρεον</span>
+          .
+        </bibl>
+        fide dignum, in moribus situm esse dicebat.
+      </p>
+      <p>
+        <bibl type="source">Pythagorae.</bibl>
+        Ut idem voluptatem, corpus, pecuniam, et deum amet, fieri nullo modo potest:nam qui voluptates amat, idem et corpus amet necesse est: iam qui corpus amat, idemcontinuo et pecuniam: qui autem pecuniam, idem necessario iniustus est: at iniustus,in deum quidem impius, in homines iniquus est.Omnia ista contemnito, quibus a corpore solutus non indigebis: quibus autem egebis tum temporis, ad ea tibi laboranti Deum auxiliari precator.
+      </p>
+      <p>
+        <bibl type="source">Diodori.</bibl>
+        Omnes homines imbecillitatis naturae vitio, exiguum quoddam universi temporimomentum in vita durant, reliquum vero totum spacium occupati morte iacent. Etillis sane, qui dum viverent praeclari nihil gesserunt, eodem cum corpore obitu omniapessum eunt: Qui vero per virtutem sibi gloriam conciliarunt, illorum actiones omnibus saeculis divinissimo Historiae sermone commemorabuntur.
+      </p>
+      <p>
+        <bibl type="source">Hyperidis.</bibl>
+        Virum bonum quae sentit, verbis: quae facit, opere ostendere decet.Boni cum officium non faciunt, exempla praebent peccare volentibus.
+      </p>
+      <p>
+        <bibl type="source">Hittaci philo//</bibl>
+        Bonos viros dei quandam partem habere Aristoteles dicit: dei enim est, quae velit,
+      </p>
+      <p>
+        <bibl type="source">sophi.</bibl>
+        agere: hominis autem, quae opus sunt, providere.
+      </p>
+      <p>
+        <bibl type="source">Antiphanis.</bibl>
+        Si quis in rerum abundantia turpe aliquid admittit,Quid expectandum est ut committat in penuria?
+      </p>
+      <div type="sermon">
+        <head>
+          <span rend="align-center">DE PRUDENTIA ET CONSILIO, SERMO II.</span>
+        </head>
+        <p>
+          <bibl type="source">Matth. 2.</bibl>
+          Estote prudentes veluti serpentes, et simplices sicut columbae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

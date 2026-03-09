@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edizione Interpretativa: 181 reg.txt</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <pb n="181" xml:id="p181" facs="181.jpg"/>
+        <lb n="1"/>
+        Virtutem si habes, omnia habes: at si vitium, ne teipsum quidem.
+        <lb n="2"/>
+        <span type="sermo-bibl-right">Socrates.</span>
+        Socrates cum quendam ex discipulis suis animadvertisset agri quidem esse studio
+        <lb n="3" break="no" rend="="/>
+        sum, sed actionis negligentem: Heus tu, vide (inquit) ne dum agrum cicurare vis, ani
+        <lb n="4" break="no" rend="="/>
+        mum tuum efferari sinas.
+        <lb n="5"/>
+        Quum autem intellexisset quendam ex familiaribus suis studiose curantem ut ima
+        <lb n="6" break="no"/>
+        go ipsi similis fieret: Tu (inquit) ut tibi similis lapis fieret curasti: at ipse ne lapidi similis
+        <lb n="7"/>
+        fias non curas.
+        <lb n="8"/>
+        <span type="sermo-bibl-right">Demonactis.</span>
+        Tantum virtuti appones, quantum de voluptatibus detraxeris.
+        <lb n="9"/>
+        Turpe est in aliis virtutes approbare, et in seipsis vitia habere.
+        <lb n="10"/>
+        Corporis curatores, sui autem negligentes, probrosos existimabat, et similes iis qui
+        <lb n="11"/>
+        domos quidem curant, sed domesticos negligunt.
+        <lb n="12"/>
+        <span type="sermo-bibl-right">Democriti.</span>
+        † Principia certissima esse oportet, actiones autem praeclarissimas.
+        <lb n="13"/>
+        <span type="sermo-bibl-right">
+          † 
+          <span xml:lang="grc">γραμμάς</span>
+          .
+        </span>
+        Illud te deo dignum efficiet, si nihil illo indignum feceris.
+        <lb n="14"/>
+        <span type="sermo-bibl-right">Biantis.</span>
+        Lente res agendas aggreditor: ubi autem aggressus fueris, agito constanter.
+        <lb n="15"/>
+        Sic institue vitam quasi et paulum et diu sis victurus.
+        <lb n="16"/>
+        Lacon interrogatus, cur Sparta munita non esset: Noli(inquit) mentiri, munita est
+        <lb n="17"/>
+        enim habitantium virtutibus.
+        <lb n="18"/>
+        <span type="sermo-bibl-right">Diogenes.</span>
+        Quum quidam ei ut probrum obiiceret, quod in loca impura intraret: Etiam sol (in
+        <lb n="19" break="no" rend="="/>
+        quit) intrat, nec contaminatur.
+        <lb n="20"/>
+        <span type="sermo-bibl-right">Euripidis ex</span>
+        Bonorum virorum reliquias tempus non abolet, sed etiam defunctis eis virtus relucet.
+        <lb n="21"/>
+        <span type="sermo-bibl-right">Andromacha.</span>
+        Multi mali divites sunt, boni autem pauperes.
+        <lb n="22"/>
+        Sed nos cum istorum divitiis virtutem
+        <lb n="23"/>
+        Nolimus mutare: quoniam haec semper firma est:
+        <lb n="24"/>
+        Pecunias autem bominum alias alius habet.
+        <lb n="25"/>
+        <span type="sermo-bibl-right">Lindi.</span>
+        Pietas colenda est, civibus optima consulenda, voluptas vincenda, nihil per vim ge
+        <lb n="26" break="no" rend="="/>
+        rendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi: se
+        <lb n="27" break="no" rend="="/>
+        cus enim tu ipse ebrius videberis.
+        <lb n="28"/>
+        <span type="sermo-bibl-right">Lycurgus.</span>
+        Lycurgus legislator † assiduum esse dignumque cui debitum credas, in opibus: at
+        <lb n="29"/>
+        <span type="sermo-bibl-right">
+          † 
+          <span xml:lang="grc">αξιόχρεον</span>
+          .
+        </span>
+        fide dignum, in moribus situm esse dicebat.
+        <lb n="30"/>
+        <span type="sermo-bibl-right">Pythagorae.</span>
+        Ut idem voluptatem, corpus, pecuniam, et deum amet, fieri nullo modo potest:
+        <lb n="31"/>
+        nam qui voluptates amat, idem et corpus amet necesse est: iam qui corpus amat, idem
+        <lb n="32"/>
+        continuo et pecuniam: qui autem pecuniam, idem necessario iniustus est: at iniustus,
+        <lb n="33"/>
+        in deum quidem impius, in homines iniquus est.
+        <lb n="34"/>
+        Omnia ista contemnito, quibus a corpore solutus non indigebis: quibus autem ege
+        <lb n="35" break="no"/>
+        bis tum temporis, ad ea tibi laboranti Deum auxiliari precator.
+        <lb n="36"/>
+        <span type="sermo-bibl-right">Diodori.</span>
+        Omnes homines imbecillitatis naturae vitio, exiguum quoddam universi tempori
+        <lb n="37"/>
+        momentum in vita durant, reliquum vero totum spacium occupati morte iacent. Et
+        <lb n="38"/>
+        illis sane, qui dum viverent praeclari nihil gesserunt, eodem cum corpore obitu omnia
+        <lb n="39"/>
+        pessum eunt: Qui vero per virtutem sibi gloriam conciliarunt, illorum actiones omni
+        <lb n="40" break="no"/>
+        bus saeculis divinissimo Historiae sermone commemorabuntur.
+        <lb n="41"/>
+        <span type="sermo-bibl-right">Hyperidis.</span>
+        Virum bonum quae sentit, verbis: quae facit, opere ostendere decet.
+        <lb n="42"/>
+        Boni cum officium non faciunt, exempla praebent peccare volentibus.
+        <lb n="43"/>
+        <span type="sermo-bibl-right">Hittaci philo//</span>
+        Bonos viros dei quandam partem habere Aristoteles dicit: dei enim est, quae velit,
+        <lb n="44"/>
+        <span type="sermo-bibl-right">sophi.</span>
+        agere: hominis autem, quae opus sunt, providere.
+        <lb n="45"/>
+        <span type="sermo-bibl-right">Antiphanis.</span>
+        Si quis in rerum abundantia turpe aliquid admittit,
+        <lb n="46"/>
+        Quid expectandum est ut committat in penuria?
+        <lb n="47"/>
+        <span rend="align-center">DE PRUDENTIA ET CONSILIO, SERMO II.</span>
+        <lb n="48"/>
+        <span type="sermo-bibl-right">Matth. 2.</span>
+        Estote prudentes veluti serpentes, et simplices sicut columbae.
+      </ab>
+    </body>
+  </text>
+</TEI>

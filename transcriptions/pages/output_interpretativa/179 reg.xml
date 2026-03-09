@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edizione Interpretativa: 179 reg.txt</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <pb n="179" xml:id="p179" facs="179.jpg"/>
+        <lb n="1"/>
+        <span rend="align-center">LOCI COMMUNES SEN</span>
+        <lb n="2" break="no" rend="="/>
+        <span rend="align-center">TENTIARUM, QUAS S. PATER MAXIMUS EX SA</span>
+        <lb n="3" break="no" rend="="/>
+        <span rend="align-center">cris et prophanis libris Graecis congessit, loanne</span>
+        <lb n="4"/>
+        <span rend="align-center">Ribitto interprete.</span>
+        <lb n="5"/>
+        <span rend="align-center">Gratiam Christe laboribus impertire meis.</span>
+        <lb n="6"/>
+        <span rend="align-center">SANCTI EPHRAIMI.</span>
+        <lb n="7"/>
+        _QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per
+        <lb n="8" break="no"/>
+        sequaris, sed etiam si opus erit, saepe et iterum et tertium rem eandem perlegas diligenter accurateque
+        <lb n="9"/>
+        sine recusatione. Quinetiam quum aliquid lecturus es, aut alterum legentem auditurus, deum prius precare in hunc
+        <lb n="10"/>
+        modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun
+        <lb n="11" break="no"/>
+        tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira
+        <lb n="12" break="no" rend="="/>
+        bilia in lege tua intelligam._
+        <lb n="13"/>
+        <span rend="align-center">DE VITAE VIRTUTE ET VITIO, SERMO I.</span>
+        <lb n="14"/>
+        <span type="sermo-bibl-right">Math. 7.</span>
+        ANGUSTA via et arcta quae ad vitam deducit.
+        <lb n="15"/>
+        <span type="sermo-bibl-right">Rom. 12.</span>
+        Noli vinci a malo, sed per bonum vince malum.
+        <lb n="16"/>
+        <span type="sermo-bibl-right">Solomonis</span>
+        Virtutis quidem signum nullum ostendere possumus: in vitio au
+        <lb n="17" break="no"/>
+        tem consumpti sumus.
+        <lb n="18"/>
+        <span type="sermo-bibl-right">Eiusdem</span>
+        Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retra
+        <lb n="19" break="no" rend="="/>
+        he pedem tuum a semitis illorum, quod pedes ipsorum ad vitia currant.
+        <lb n="20"/>
+        Qui rem aliquam contemnit, contemnetur ab ipsa.
+        <lb n="21"/>
+        Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis
+        <lb n="22"/>
+        violatio violatoribus.
+        <lb n="23"/>
+        <span type="sermo-bibl-right">Sirach. 7</span>
+        Noli mala facere, et te mala non apprehendent.
+        <lb n="24"/>
+        Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
+        <lb n="25"/>
+        <span type="sermo-bibl-right">Basilii.</span>
+        Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actio
+        <lb n="26" break="no" rend="="/>
+        nes necessario sequitur aliquod emolumentum.
+        <lb n="27"/>
+        Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredien
+        <lb n="28" break="no" rend="="/>
+        tibus spectaculum.
+        <lb n="29"/>
+        <span type="sermo-bibl-right">Theologi.</span>
+        Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam
+        <lb n="30"/>
+        superans.
+        <lb n="31"/>
+        Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.
+        <lb n="32"/>
+        Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
+        <lb n="33"/>
+        ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac in
+        <lb n="34" break="no"/>
+        flammantur, et a sua ipsa prole, videlicet flammis, consumuntur.
+        <lb n="35"/>
+        Non est admodum facile virtutum victricem invenire, atque huic dare munera ho
+        <lb n="36" break="no" rend="="/>
+        noraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
+        <lb n="37"/>
+        vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratum
+        <lb n="38"/>
+        et aspectum ad se trahat, et ad se decerpendum primum invitet.
+        <lb n="39"/>
+        <span type="sermo-bibl-right">Chrysostomi</span>
+        Non potest fieri quin virtutis studiosus multos habeat hostes.
+        <lb n="40"/>
+        Non locus virtutem, sed virtus locum augustiorem reddere solet.
+        <lb n="41"/>
+        Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
+        <lb n="42"/>
+        magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?
+        <lb n="43"/>
+        Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi
+      </ab>
+    </body>
+  </text>
+</TEI>

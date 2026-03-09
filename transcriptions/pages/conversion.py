@@ -7,15 +7,21 @@ from xml.dom import minidom
 
 def process_inline_tags(text):
     """
-    Trasforma i marcatori custom in tag XML validi (hi e span).
+    Trasforma i marcatori custom e rileva il testo greco.
     """
     # Protegge i caratteri XML riservati
     text = text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
     
-    # Corsivo: _testo_ -> <hi rend="italic">testo</hi>
+    # 1. Rilevamento Greco (Unicode Range 0370-03FF)
+    # Cerchiamo sequenze di caratteri greci (incluse pause o spiriti)
+    # Usiamo <foreign> o <span> con xml:lang
+    text = re.sub(r'([\u0370-\u03ff]+(?:[\s,.;:][\u0370-\u03ff]+)*)', 
+                  r'<span xml:lang="grc">\1</span>', text)
+    
+    # 2. Corsivo: _testo_ -> <hi rend="italic">testo</hi>
     text = re.sub(r'_(.*?)_', r'<hi rend="italic">\1</hi>', text)
     
-    # Allineamenti: [c] -> align(center), [r] -> align(right), [l] -> align(left)
+    # 3. Allineamenti
     text = re.sub(r'\[c\](.*?)\[/c\]', r'<span rend="align-center">\1</span>', text)
     text = re.sub(r'\[r\](.*?)\[/r\]', r'<span rend="float-right">\1</span>', text)
     text = re.sub(r'\[l\](.*?)\[/l\]', r'<span rend="float-left">\1</span>', text)
@@ -23,33 +29,25 @@ def process_inline_tags(text):
     return text
 
 def inject_xml_content(parent_element, xml_string, tei_ns):
-    """
-    Converte una stringa contenente tag XML in nodi e li appende all'elemento genitore.
-    """
+    """ Converte stringa XML in nodi e li appende. """
     try:
-        # Avvolgiamo in un tag temporaneo per creare un frammento XML valido
         temp_xml = f'<temp xmlns="{tei_ns}">{xml_string}</temp>'
         temp_node = ET.fromstring(temp_xml)
         
-        # Gestiamo il testo iniziale del frammento
         if temp_node.text:
             if len(parent_element) > 0:
-                last_child = parent_element[-1]
-                last_child.tail = (last_child.tail or "") + temp_node.text
+                parent_element[-1].tail = (parent_element[-1].tail or "") + temp_node.text
             else:
                 parent_element.text = (parent_element.text or "") + temp_node.text
         
-        # Appendiamo i figli (hi, span, ecc.)
         for child in list(temp_node):
             parent_element.append(child)
     except Exception as e:
-        # In caso di errore (tag non chiusi nel txt), inserisce il testo grezzo
         parent_element.text = (parent_element.text or "") + xml_string
 
 # --- FUNZIONI PRINCIPALI ---
 
 def crea_interpretativa(filename, content):
-    """ Ex crea_diplomatica: Focus sulla struttura fisica (lb, pb, span laterali) """
     tei_ns = "http://www.tei-c.org/ns/1.0"
     ET.register_namespace('', tei_ns)
     root = ET.Element(f"{{{tei_ns}}}TEI")
@@ -57,16 +55,14 @@ def crea_interpretativa(filename, content):
     header = ET.SubElement(root, f"{{{tei_ns}}}teiHeader")
     file_desc = ET.SubElement(header, f"{{{tei_ns}}}fileDesc")
     title_stmt = ET.SubElement(file_desc, f"{{{tei_ns}}}titleStmt")
-    ET.SubElement(title_stmt, f"{{{tei_ns}}}title").text = f"Edizione Interpretativa (Diplomatica): {filename}"
+    ET.SubElement(title_stmt, f"{{{tei_ns}}}title").text = f"Edizione Interpretativa: {filename}"
     
     text_el = ET.SubElement(root, f"{{{tei_ns}}}text")
     body = ET.SubElement(text_el, f"{{{tei_ns}}}body")
     ab = ET.SubElement(body, f"{{{tei_ns}}}ab")
     
     lines = [l.strip() for l in content.split('\n') if l.strip()]
-    current_page = 0
-    lb_counter = 1
-    prev_break_type = None 
+    current_page, lb_counter, prev_break_type = 0, 1, None 
 
     for line in lines:
         if re.match(r'^\d+$', line):
@@ -85,10 +81,8 @@ def crea_interpretativa(filename, content):
         if "|" in line:
             parts = line.split("|", 1)
             side = "left" if current_page % 2 == 0 else "right"
-            margin_xml = process_inline_tags(parts[0].strip())
-            # Creiamo lo span per il margine
             span_margin = ET.SubElement(ab, f"{{{tei_ns}}}span", {"type": f"sermo-bibl-{side}"})
-            inject_xml_content(span_margin, margin_xml, tei_ns)
+            inject_xml_content(span_margin, process_inline_tags(parts[0].strip()), tei_ns)
             clean_line = parts[1].strip()
 
         if clean_line.endswith("//"):
@@ -98,19 +92,17 @@ def crea_interpretativa(filename, content):
         else:
             prev_break_type = None; clean_line = clean_line.strip()
 
-        line_xml = process_inline_tags(clean_line)
-        inject_xml_content(ab, line_xml, tei_ns)
+        inject_xml_content(ab, process_inline_tags(clean_line), tei_ns)
 
     return root
 
 def crea_critica(filename, content):
-    """ Ex crea_interpretativa: Focus sulla struttura logica (div, head, p) """
     tei_ns = "http://www.tei-c.org/ns/1.0"
     ET.register_namespace('', tei_ns)
     root = ET.Element(f"{{{tei_ns}}}TEI")
     
     header = ET.SubElement(root, f"{{{tei_ns}}}teiHeader")
-    # ... metadati ...
+    # ... metadati minimi ...
 
     text_el = ET.SubElement(root, f"{{{tei_ns}}}text")
     body = ET.SubElement(text_el, f"{{{tei_ns}}}body")
@@ -118,13 +110,11 @@ def crea_critica(filename, content):
     content = content.replace("//\n", "").replace("/\n", "")
     lines = [l.strip() for l in content.split('\n') if l.strip()]
     
-    current_div = body
-    current_p = None
+    current_div, current_p = body, None
     
     for line in lines:
         if re.match(r'^\d+$', line): continue
 
-        # Logica Titoli SERMO
         if "SERMO" in line.upper() and (line.isupper() or len(re.findall(r'[A-Z]', line)) > len(line)/2):
             current_div = ET.SubElement(body, f"{{{tei_ns}}}div", {"type": "sermon"})
             head = ET.SubElement(current_div, f"{{{tei_ns}}}head")
@@ -159,11 +149,7 @@ for fn in os.listdir("./testi_txt"):
     if fn.endswith(".txt"):
         with open(f"testi_txt/{fn}", "r", encoding="utf-8") as f:
             raw_text = f.read()
-            # 1. Genera Interpretativa (ex Diplomatica)
-            xml_interp = crea_interpretativa(fn, raw_text)
-            save_xml(xml_interp, f"output_interpretativa/{fn.replace('.txt', '.xml')}")
-            # 2. Genera Critica (ex Interpretativa)
-            xml_crit = crea_critica(fn, raw_text)
-            save_xml(xml_crit, f"output_critica/{fn.replace('.txt', '.xml')}")
+            save_xml(crea_interpretativa(fn, raw_text), f"output_interpretativa/{fn.replace('.txt', '.xml')}")
+            save_xml(crea_critica(fn, raw_text), f"output_critica/{fn.replace('.txt', '.xml')}")
 
-print("Conversione completata con successo!")
+print("Finito! Le parole greche sono ora marcate con xml:lang='grc'.")
