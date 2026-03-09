@@ -48,6 +48,7 @@ def inject_xml_content(parent_element, xml_string, tei_ns):
 # --- FUNZIONI PRINCIPALI ---
 
 def crea_interpretativa(filename, content):
+    """ Ex crea_diplomatica: Focus sulla struttura fisica (lb, pb, span laterali) """
     tei_ns = "http://www.tei-c.org/ns/1.0"
     ET.register_namespace('', tei_ns)
     root = ET.Element(f"{{{tei_ns}}}TEI")
@@ -81,18 +82,26 @@ def crea_interpretativa(filename, content):
         if "|" in line:
             parts = line.split("|", 1)
             side = "left" if current_page % 2 == 0 else "right"
+            margin_xml = process_inline_tags(parts[0].strip())
             span_margin = ET.SubElement(ab, f"{{{tei_ns}}}span", {"type": f"sermo-bibl-{side}"})
-            inject_xml_content(span_margin, process_inline_tags(parts[0].strip()), tei_ns)
+            inject_xml_content(span_margin, margin_xml, tei_ns)
             clean_line = parts[1].strip()
 
+        # --- MODIFICA SILLABAZIONE ---
         if clean_line.endswith("//"):
-            prev_break_type = "//"; clean_line = clean_line[:-2].strip()
+            prev_break_type = "//"
+            # Sostituiamo // con il carattere ₌ a fine riga
+            text_content = clean_line[:-2].strip() + "₌"
         elif clean_line.endswith("/"):
-            prev_break_type = "/"; clean_line = clean_line[:-1].strip()
+            prev_break_type = "/"
+            # Se preferisci mantenere / o sostituire anche questo, puoi farlo qui
+            text_content = clean_line[:-1].strip() + "-" 
         else:
-            prev_break_type = None; clean_line = clean_line.strip()
+            prev_break_type = None
+            text_content = clean_line.strip()
 
-        inject_xml_content(ab, process_inline_tags(clean_line), tei_ns)
+        line_xml = process_inline_tags(text_content)
+        inject_xml_content(ab, line_xml, tei_ns)
 
     return root
 
