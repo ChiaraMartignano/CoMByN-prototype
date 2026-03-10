@@ -58,8 +58,8 @@ Qui enim recte sapit omnia complexus habet.
 Herodoti. | Par atque idem est, o rex, ut mihi quidem videtur, vel recte sapere, vel recta monenti
 velle parere.
 
-DE CASTITATE ET TEMPERANTIA,
-Sermo III.
+[c]DE CASTITATE ET TEMPERANTIA,[/c]
+[c]Sermo III.[/c]
 
 Matth. 5. | Qui aspexerit mulierem ad concupiscendum eam, iam ei stuprum intulit in cor//
 de suo.

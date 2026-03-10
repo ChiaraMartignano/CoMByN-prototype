@@ -1,10 +1,10 @@
 {
 	"editionUrls": [
-		"assets/data/gesner_critical.xml"
+		"assets/data/gesner_interpretative.xml"
 	],
 	"editionImagesSource": {
 		"manifest": {
-			"value": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0730/manifest.json",
+			"value": "https://api.onb.ac.at/iiif/presentation/v3/manifest/102B2A68",
 			"enable": false
 		},
 		"graphics": {
@@ -17,8 +17,8 @@
 		"double": "assets/data/images/double/"
 	},
 	"configurationUrls": {
-		"edition": "assets/config/edition_config_gesner_critical.json",
-		"ui": "assets/config/ui_config_gesner_critical.json",
+		"edition": "assets/config/edition_config_gesner_interpretative.json",
+		"ui": "assets/config/ui_config_gesner_interpretative.json",
 		"editorialConventions": "assets/config/editorial_conventions_config.json"
 	}
 }
