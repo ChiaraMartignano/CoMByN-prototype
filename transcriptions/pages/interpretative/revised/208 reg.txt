@@ -1,72 +1,73 @@
 208
-_Ex sententiis Epicteti et Isocratis.</span>
-Tum meliores fiunt homines, cum ad deum accedunt: illa autem deo similia ha
-<lb break="no" rend="="/>bent, beneficia praestare et vera dicere.
 
-<span type="sermo-bibl-left">Biantis.</span> Is cum aliquando una cum impiis quibusdam navigio veheretur, magnaque tempe
-<lb break="no" rend="="/>stas excitata esset, et illi deos invocarent: Silete, inquit, ne sentiant vos hic navigare.
-Eos qui a diis meliorem peterent mentem, nec se ipsi emendarent, stultos et hebe
-<lb break="no" rend="="/>tes esse dicebat: non enim pictorem precari a diis, ut lineam dent et elegantem colo
-<lb break="no" rend="="/>rem, nisi artem discat: neque ullam esse musicam propter preces et optata, nisi quae mu
-<lb break="no" rend="="/>sices sunt discantur. Eodem modo ne prudentem quidem ullum unquam evadere
+[c]Ex sententiis Epicteti et Isocratis.[/c]
+
+Tum meliores fiunt homines, cum ad deum accedunt: illa autem deo similia ha//
+bent, beneficia praestare et vera dicere.
+
+Biantis. | Is cum aliquando una cum impiis quibusdam navigio veheretur, magnaque tempe//
+stas excitata esset, et illi deos invocarent: Silete, inquit, ne sentiant vos hic navigare.
+Eos qui a diis meliorem peterent mentem, nec se ipsi emendarent, stultos et hebe//
+tes esse dicebat: non enim pictorem precari a diis, ut lineam dent et elegantem colo//
+rem, nisi artem discat: neque ullam esse musicam propter preces et optata, nisi quae mu//
+sices sunt discantur. Eodem modo ne prudentem quidem ullum unquam evadere
 precando, nisi earum rerum disciplinam colat.
 
-DE DOCTRINA ET SERMONE,
-Sermo XV.
+[c]DE DOCTRINA ET SERMONE,[/c]
+[c]Sermo XV.[/c]
 
-<span type="sermo-bibl-left">Matth.5.</span> Vere dico vobis, quisquis fecerit et docuerit, is magnus vocabitur in regno coe
-<lb break="no" rend="="/>lorum.
+Matth. 5. | Vere dico vobis, quisquis fecerit et docuerit, is magnus vocabitur in regno coe//
+lorum.
 
-<span type="sermo-bibl-left">Iacobi 1.</span> Sit omnis homo velox ad audiendum, et tardus ad loquendum. Quod si quis in
+Iacobi 1. | Sit omnis homo velox ad audiendum, et tardus ad loquendum. Quod si quis in
 sermone non labitur, hic perfectus est, qui possit etiam totum corpus frenare et
 regere.
 
 In aures insipientis nihil dicito, ne tuos irrideat sermones prudentiae plenos.
 
-<span type="sermo-bibl-left">Sirach 22.</span> Narratio stulti est quasi fascis in via: in labiis autem eius invenietur gratia.
+Sirach 22. | Narratio stulti est quasi fascis in via: in labiis autem eius invenietur gratia.
 
 Ne contemnas sapientium narrationes, et in prouerbiis eorum verseris.
 
-<span type="sermo-bibl-left">S. Basilii.</span> Cavendum est ne verborum nimia multitudine ea reddamus inutilia, quae magno
-labore a nobis collecta sunt: mens enim fatigata debiliorque, quam ut omnia possit si
-<lb break="no" rend="="/>mul complecti, eodem modo afficitur, quo venter qui propter nimiam saturitatem
+S. Basilii. | Cavendum est ne verborum nimia multitudine ea reddamus inutilia, quae magno
+labore a nobis collecta sunt: mens enim fatigata debiliorque, quam ut omnia possit si//
+mul complecti, eodem modo afficitur, quo venter qui propter nimiam saturitatem
 non possit cibos commissos concoquere.
 
-<span type="sermo-bibl-left">Theologi.</span> Tacitum factum praestat sermoni infecto:
+Theologi. | Tacitum factum praestat sermoni infecto:
 Sine vitae actione nemo adhuc evectus est:
 At sine verbo inaniter sonante multi.
 
 Aut non docendum, aut morum exemplo docendum est.
 
-Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#gesner"rend="italic">(Graecum exemplar ita corru
-<lb break="no" rend="="/>ptum est, ut possis etiam contrarium interpretari.)</note>
+Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#gesner">_(Graecum exemplar ita corru_//
+_ptum est, ut possis etiam contrarium interpretari._)</note>
 
-<span type="sermo-bibl-left">Chrysostomi.</span> Tum discipuli utiliter aemulantur, cum a magistris praeclara habent exempla.
+Chrysostomi. | Tum discipuli utiliter aemulantur, cum a magistris praeclara habent exempla.
 
-<span type="sermo-bibl-left">Nili.</span> Supervacanea est omnis oratio ad correctionem, quum ad deterius auditorum
+Nili. | Supervacanea est omnis oratio ad correctionem, quum ad deterius auditorum
 propendens voluntas et studium, consultorum dictis adversatur.
 
-<span type="sermo-bibl-left">Didymi.</span> 
-Tum aliquid perficit, et dicendo facit doctor, cum ex iis quae ipse agit, docet: secun
-<lb break="no"/><span type="sermo-bibl-left">†Demosthenis,</span> dum haec verba, Quemadmodum coepit lesus facere et docere.
-<span type="sermo-bibl-left">aliâs Demo</span> Ut corpora modicis laboribus augescunt: sic animus honestis et seriis sermonibus.
+Didymi. | Tum aliquid perficit, et dicendo facit doctor, cum ex iis quae ipse agit, docet: secun/
+† Demosthenis,// | dum haec verba, Quemadmodum coepit lesus facere et docere.
+alias Demo₌// | Ut corpora modicis laboribus augescunt: sic animus honestis et seriis sermonibus.
 
-<span type="sermo-bibl-left"><lb break="no" rend="="/>criti.</span> † Ut in speculis vultus figura, sic in colloquiis animi character cernitur.
+criti. | † Ut in speculis vultus figura, sic in colloquiis animi character cernitur.
 
-<span type="sermo-bibl-left">Clitarchi.</span> In conventu primo loco dicere ne contendas: nam post alios multos facilius, quae
+Clitarchi. | In conventu primo loco dicere ne contendas: nam post alios multos facilius, quae
 utilia sint, cernere poteris.
 
-<span type="sermo-bibl-left">Moschionis.</span> Trifariam nobiscum colloquentem considerare debemus, aut ut praestantiorem,
-aut inferiorem, aut aequalem: quod si praestantior fuerit, audi, et pare: si deterior, ne pa
-<lb break="no"/>re: si aequalis, assentire.
+Moschionis | Trifariam nobiscum colloquentem considerare debemus, aut ut praestantiorem,
+aut inferiorem, aut aequalem: quod si praestantior fuerit, audi, et pare: si deterior, ne pa/
+re: si aequalis, assentire.
 
-<span type="sermo-bibl-left">Demonactis.</span> Oratio quasi bonus figulus animi formam effingit et profert.
+Demonactis. | Oratio quasi bonus figulus animi formam effingit et profert.
 
 Hirundines serenitatem nobis futuram praesagiunt, sermones autem philosophici
 indolentiam et doloris vacuitatem.
 
-<span type="sermo-bibl-left">Solonis.</span> Quantum potest in bello ferrum, tantum in republica commoda valet oratio.
+Solonis. | Quantum potest in bello ferrum, tantum in republica commoda valet oratio.
 
 Idem orationem operum simulachrum esse dicebat.
 
-<span type="sermo-bibl-left">Diogenis.</span> Oratores ut bene dicerent, studere dicebat: at ut bene facerent, nullo modo.
+Diogenis. | Oratores ut bene dicerent, studere dicebat: at ut bene facerent, nullo modo.
