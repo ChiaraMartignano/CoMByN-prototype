@@ -23,6 +23,8 @@ def process_inline_tags(text):
     # Trasformiamo i marcatori in tag XML che inject_xml_content riconoscerà
     text = re.sub(r'\[u\](.*?)\[/u\]', r'<span type="float-under">\1</span>', text)
     text = re.sub(r'\[a\](.*?)\[/a\]', r'<span type="float-above">\1</span>', text)
+    text = re.sub(r'\[l\](.*?)\[/l\]', r'<span type="float-left">\1</span>', text)
+    text = re.sub(r'\[r\](.*?)\[/r\]', r'<span type="float-right">\1</span>', text)
     
     return text
     
