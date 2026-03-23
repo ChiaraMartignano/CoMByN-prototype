@@ -19,6 +19,6 @@
 	"configurationUrls": {
 		"edition": "assets/config/edition_config_gesner_critical.json",
 		"ui": "assets/config/ui_config_gesner_critical.json",
-		"editorialConventions": "assets/config/editorial_conventions_config_critical.json"
+		"editorialConventions": "assets/config/editorial_conventions_config.json"
 	}
 }
