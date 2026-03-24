@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http:₌www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,16 +25,12 @@
         <lb n="1"/>
         
         
-        <span rend="align-center">LOCI COMMUNES SEN</span>
-        
-        ₌
+        <span rend="align-center">LOCI COMMUNES SEN₌</span>
         
         <lb n="2" break="no" rend="="/>
         
         
-        <span rend="align-center">TENTIARUM, QUAS S. PATER MAXIMUS EX SA</span>
-        
-        ₌
+        <span rend="align-center">TENTIARUM, QUAS S. PATER MAXIMUS EX SA₌</span>
         
         <lb n="3" break="no" rend="="/>
         
@@ -63,9 +59,7 @@
         <lb n="7"/>
         
         
-        <hi rend="italic">QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per</hi>
-        
-        -
+        <hi rend="italic">QUUM in divinis libris versaris, noli tantum curare ut leviter percurras, et quae scripta sunt obiter per-</hi>
         
         <lb n="8" break="no"/>
         
@@ -82,16 +76,12 @@
         <lb n="10"/>
         
         
-        <hi rend="italic">modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun</hi>
-        
-        -
+        <hi rend="italic">modum: Aures et oculos cordis mei domine lesu Christe aperi, ut audiam et intelligam sermones tuos, et volun-</hi>
         
         <lb n="11" break="no"/>
         
         
-        <hi rend="italic">tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira</hi>
-        
-        ₌
+        <hi rend="italic">tati parcam tuae: peregrinus ego sum in terra, mandata tua ne me caelato. Patesac oculos meos, ut quae sunt admira₌</hi>
         
         <lb n="12" break="no" rend="="/>
         
@@ -108,7 +98,7 @@
         <lb n="14"/>
         
         
-        <span type="sermo-bibl-right">Math. 7.</span>
+        <span type="sermo-bibl-right">Matth. 7.</span>
         
         ANGUSTA via et arcta quae ad vitam deducit.
         
@@ -555,9 +545,7 @@
           
           † 
           
-          <span xml:lang="grc">γραμμάς</span>
-          
-          .
+          <w xml:lang="grc">γραμμάς</w>.
         
         </span>
         
@@ -648,9 +636,7 @@
           
           † 
           
-          <span xml:lang="grc">αξιόχρεον</span>
-          
-          .
+          <w xml:lang="grc">αξιόχρεον</w>.
         
         </span>
         
@@ -720,7 +706,7 @@
         <lb n="43"/>
         
         
-        <span type="sermo-bibl-right">Hittaci philo//</span>
+        <span type="sermo-bibl-right">Hittaci philo₌</span>
         
         Bonos viros dei quandam partem habere Aristoteles dicit: dei enim est, quae velit,
         
@@ -1466,9 +1452,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">διδύμων</span>
-          
-          .
+          <w xml:lang="grc">διδύμων</w>.
         
         </span>
         
@@ -1528,9 +1512,7 @@
         <lb n="1"/>
         
         
-        <span rend="align-center">Iamblichi ex una epistolarum quae ab illo de tem</span>
-        
-        ₌
+        <span rend="align-center">Iamblichi ex una epistolarum quae ab illo de tem₌</span>
         
         <lb n="2" break="no" rend="="/>
         
@@ -1667,9 +1649,7 @@
           
           † 
           
-          <span xml:lang="grc">άπόρον</span>
-          
-          .
+          <w xml:lang="grc">άπόρον</w>.
         
         </span>
         
@@ -1773,7 +1753,7 @@
         <lb n="48"/>
         
         
-        <span type="sermo-bibl-right">Demetrii Pha//</span>
+        <span type="sermo-bibl-right">Demetrii Pha₌</span>
         
         Demetrius Phalareus honestos adolescentes domi parentes revereri debere dicebat,
         
@@ -1811,7 +1791,7 @@
         <lb n="4"/>
         
         
-        <span type="sermo-bibl-left">Isocrat. ad De//</span>
+        <span type="sermo-bibl-left">Isocrat. ad De₌</span>
         
         Voluptas non omnis, sed quae honesta est, expeti debet.
         
@@ -1945,9 +1925,7 @@
           
           † 
           
-          <span xml:lang="grc">θάρσος κα</span>
-          
-          ὶ
+          <w xml:lang="grc">θάρσος</w> <w xml:lang="grc">καὶ</w>
         
         </span>
         
@@ -1959,9 +1937,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">θράσος</span>
-          
-          .
+          <w xml:lang="grc">θράσος</w>.
         
         </span>
         
@@ -1978,9 +1954,7 @@
           
           † 
           
-          <span xml:lang="grc">ασφαλείας</span>
-          
-          .
+          <w xml:lang="grc">ασφαλείας</w>.
         
         </span>
         
@@ -2147,7 +2121,7 @@
         <lb n="15"/>
         
         
-        <span type="sermo-bibl-right">Ex Nicolai Col//</span>
+        <span type="sermo-bibl-right">Ex Nicolai Col₌</span>
         
         Celtae, oceani accolae, domus aut parietis ruinam fugere turpe ducunt. Adventanti
         
@@ -2479,7 +2453,7 @@
         <lb n="33"/>
         
         
-        <span type="sermo-bibl-left">Ex dictis septen//</span>
+        <span type="sermo-bibl-left">Ex dictis septen₌</span>
         
         Optime agendum est, et maxime servanda democratia, ubi iniuriarum authores
         
@@ -2624,7 +2598,7 @@
         <lb n="9"/>
         
         
-        <span type="sermo-bibl-right">Socrates loqui//</span>
+        <span type="sermo-bibl-right">Socrates loqui₌</span>
         
         inquit: multi enim de iure loquentes iniuste agunt, ex his autem qui iusta faciunt ne
         
@@ -3051,7 +3025,7 @@
         <lb n="4"/>
         
         
-        <span type="sermo-bibl-right">Ex Dionis//</span>
+        <span type="sermo-bibl-right">Ex Dionis₌</span>
         
         Quot amicos pararis, tot oculos habes, quibus quae velis videas: tot aures quibus
         
@@ -3492,7 +3466,7 @@
         <lb n="46"/>
         
         
-        <span type="sermo-bibl-left">Pisomani Dio//</span>
+        <span type="sermo-bibl-left">Pisomani Dio₌</span>
         
         Quanto fortiores amicos reddideris, tanto ipse fortior evadis.
         
@@ -4045,7 +4019,7 @@
         <lb n="11"/>
         
         
-        <span type="sermo-bibl-right">Clementis Ro//</span>
+        <span type="sermo-bibl-right">Clementis Ro₌</span>
         
         Haud aequum est ut praeterito largitore et deserto, quae data fuerint, apud ingratos
         
@@ -4323,7 +4297,7 @@
         <lb n="17"/>
         
         
-        <span type="sermo-bibl-left">Heracliti physi//</span>
+        <span type="sermo-bibl-left">Heracliti physi₌</span>
         
         Oportuna gratia, quasi cibus fami conveniens, animi indigentiam sanat.
         
@@ -4785,9 +4759,7 @@
           
           † 
           
-          <span xml:lang="grc">άρχικος</span>
-          
-          .
+          <w xml:lang="grc">άρχικος</w>.
         
         </span>
         
@@ -5441,11 +5413,9 @@
         
         <span type="sermo-bibl-left">
           
-          † ό
+          † 
           
-          <span xml:lang="grc">ρακες</span>
-          
-          .
+          <w xml:lang="grc">όρακες</w>.
         
         </span>
         
@@ -5458,9 +5428,7 @@
           
           * 
           
-          <span xml:lang="grc">κόλακες</span>
-          
-          .
+          <w xml:lang="grc">κόλακες</w>.
         
         </span>
         
@@ -5537,11 +5505,9 @@
         
         <span type="sermo-bibl-right">
           
-          † uò
+          † 
           
-          <span xml:lang="grc">λακα</span>
-          
-          .
+          <w xml:lang="grc">κòλακα</w>.
         
         </span>
         
@@ -5554,13 +5520,7 @@
           
           * 
           
-          <span xml:lang="grc">κ</span>
-          
-          ό
-          
-          <span xml:lang="grc">ρακα</span>
-          
-          .
+          <w xml:lang="grc">κόρακα</w>.
         
         </span>
         
@@ -5584,7 +5544,7 @@
         <lb n="7"/>
         
         
-        <span type="sermo-bibl-right">Ex Phavorini//</span>
+        <span type="sermo-bibl-right">Ex Phavorini₌</span>
         
         Quemadmodum Actaeon a canibus quos ipse aluerat, interfectus est: sic adulato₌
         
@@ -5668,7 +5628,7 @@
         <lb n="22"/>
         
         
-        <span type="sermo-bibl-right">Sotionis ex lib.//</span>
+        <span type="sermo-bibl-right">Sotionis ex lib.₌</span>
         
         Delphini quousque undae subsunt, cum natatoribus natant, sed in siccum non se im₌
         
@@ -5686,7 +5646,7 @@
         <lb n="25"/>
         
         
-        <span type="sermo-bibl-right">Dionis Chryso//</span>
+        <span type="sermo-bibl-right">Dionis Chryso₌</span>
         
         Omnium vitiorum turpissimum adulationem invenies licet. Primum enim laudem rem pul₌
         
@@ -5840,9 +5800,7 @@
           
           † 
           
-          <span xml:lang="grc">ένεξία</span>
-          
-          .
+          <w xml:lang="grc">ένεξία</w>.
         
         </span>
         
@@ -5873,9 +5831,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">ωλεγμονί</span>
-          
-          .
+          <w xml:lang="grc">ωλεγμονί</w>.
         
         </span>
         
@@ -6385,7 +6341,7 @@
         <lb n="18"/>
         
         
-        <span type="sermo-bibl-left">Ex Phavorini//</span>
+        <span type="sermo-bibl-left">Ex Phavorini₌</span>
         
         Boeotus amplius septuaginta annos natus cum in thesaurum incidisset, sublato
         
@@ -6499,7 +6455,7 @@
         <lb n="39"/>
         
         
-        <span type="sermo-bibl-left">Xenophontis//</span>
+        <span type="sermo-bibl-left">Xenophontis₌</span>
         
         Paupertatem per se doctam philosophiam esse dicebat: quae enim haec verbo sua₌
         
@@ -6543,7 +6499,7 @@
         <lb n="47"/>
         
         
-        <span type="sermo-bibl-left">Ex Aristip.//</span>
+        <span type="sermo-bibl-left">Ex Aristip.₌</span>
         
         Non ut calceamentum maius inutile est, sic et possessio maior: illud enim dum uti₌
         
@@ -6573,11 +6529,7 @@
         
         <lb n="2" break="no" rend="="/>
         
-        tam non vitalem vixerit, aliis vitam reliquit. (
-        
-        <hi rend="italic">Bios, Graecis et vitam et victum significat.</hi>
-        
-        )
+        tam non vitalem vixerit, aliis vitam reliquit. (<hi rend="italic">Bios, Graecis et vitam et victum significat.</hi>)
         
         <lb n="3"/>
         
@@ -6589,7 +6541,7 @@
         
         <lb n="5"/>
         
-        Democriti, a₌// Divitum multos dicebat esse procuratores, non autem pecuniarum dominos.
+        <span type="sermo-bibl-right">lDemocriti, a₌</span> Divitum multos dicebat esse procuratores, non autem pecuniarum dominos.
         
         <lb n="6"/>
         
@@ -6660,13 +6612,13 @@
         <lb n="18"/>
         
         
-        <span rend="align-center">DE VIRTUTE QUA QUIS REBUS SUIS CON</span>
+        <span rend="align-center">DE VIRTUTE QUA QUIS REBUS SUIS CON₌</span>
         
-        ₌
+        
         
         <lb n="19" break="no" rend="="/>
         
-        [c]tentus est, Sermo XIII.[c]
+        <span rend="align-center">tentus est, Sermo XIII.</span>
         
         <lb n="20"/>
         
@@ -6913,14 +6865,14 @@
         <lb n="19"/>
         
         
-        <span type="sermo-bibl-left">Ex sententiis//</span>
+        <span type="sermo-bibl-left">Ex sententiis₌</span>
         
         Frugalitas sicut via brevis et delectabilis, gratiam quidem habet magnam, labo₌
         
         <lb n="20" break="no" rend="="/>
         
         
-        <span type="sermo-bibl-left">Epicteti et//</span>
+        <span type="sermo-bibl-left">Epicteti et₌</span>
         
         rem vero exiguum.
         
@@ -7140,13 +7092,7 @@
           
           † 
           
-          <span xml:lang="grc">πτρελκ</span>
-          
-          ῦ
-          
-          <span xml:lang="grc">σαι</span>
-          
-          .
+          <w xml:lang="grc">πτρελκῦσαι</w>.
         
         </span>
         
@@ -7452,9 +7398,8 @@
         
         Dicere quae decet, minoris aestimandum est, quam audire. &lt;note resp="#gesner"&gt;
         
-        <hi rend="italic">(Graecum exemplar ita corru</hi>
+        <hi rend="italic">(Graecum exemplar ita corru₌</hi>
         
-        ₌
         
         <lb n="30" break="no" rend="="/>
         
@@ -7491,14 +7436,14 @@
         <lb n="35" break="no"/>
         
         
-        <span type="sermo-bibl-left">† Demosthenis,//</span>
+        <span type="sermo-bibl-left">† Demosthenis,₌</span>
         
         dum haec verba, Quemadmodum coepit lesus facere et docere.
         
         <lb n="36"/>
         
         
-        <span type="sermo-bibl-left">alias Demo₌//</span>
+        <span type="sermo-bibl-left">alias Demo₌₌</span>
         
         Ut corpora modicis laboribus augescunt: sic animus honestis et seriis sermonibus.
         
@@ -7611,17 +7556,7 @@
           
           † 
           
-          <span xml:lang="grc">δ ε</span>
-          
-          u 
-          
-          <span xml:lang="grc">κρατε</span>
-          
-          ῖ
-          
-          <span xml:lang="grc">ν</span>
-          
-          .
+          <w xml:lang="grc">δ εu κρατε ν</w>.
         
         </span>
         
@@ -7700,7 +7635,7 @@
           
           † 
           
-          <span xml:lang="grc">άκρόασιν</span>
+          <w xml:lang="grc">άκρόασιν</w>
           
         
         </span>
@@ -7713,9 +7648,7 @@
         <span type="sermo-bibl-right">
           
           
-          <span xml:lang="grc">ποιούμενος</span>
-          
-          .
+          <w xml:lang="grc">ποιούμενος</w>.
         
         </span>
         
@@ -7862,7 +7795,7 @@
         <lb n="47"/>
         
         
-        <span type="sermo-bibl-right">Demetrii Pha//</span>
+        <span type="sermo-bibl-right">Demetrii Pha₌</span>
         
         De quibus enim amici non audent admonere reges, ea in libris perscripta reperiuntur.
         
@@ -8226,9 +8159,7 @@
           
           † 
           
-          <span xml:lang="grc">άναθύμασι</span>
-          
-          .
+          <w xml:lang="grc">άναθύμασι</w>.
         
         </span>
         
@@ -8482,9 +8413,7 @@
           
           † 
           
-          <span xml:lang="grc">ωομύημα</span>
-          
-          ₌
+          <w xml:lang="grc">ωομύημα</w>₌
         
         </span>
         
@@ -8496,9 +8425,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">τα</span>
-          
-          .
+          <w xml:lang="grc">τα</w>.
         
         </span>
         
@@ -8511,9 +8438,7 @@
           
           * 
           
-          <span xml:lang="grc">μύηματα</span>
-          
-          .
+          <w xml:lang="grc">μύηματα</w>.
         
         </span>
         
@@ -8526,7 +8451,7 @@
           
           † 
           
-          <span xml:lang="grc">παράτου</span>
+          <w xml:lang="grc">παράτου</w>
           
         
         </span>
@@ -8539,9 +8464,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">δαίμονα</span>
-          
-          .
+          <w xml:lang="grc">δαίμονα</w>.
         
         </span>
         
@@ -8809,13 +8732,7 @@
           
           † 
           
-          <span xml:lang="grc">παροινο</span>
-          
-          ῦ
-          
-          <span xml:lang="grc">σι</span>
-          
-          .
+          <w xml:lang="grc">παροινοσι</w>.
         
         </span>
         
@@ -8828,13 +8745,7 @@
           
           * 
           
-          <span xml:lang="grc">επαρανοο</span>
-          
-          ῦ
-          
-          <span xml:lang="grc">σι</span>
-          
-          .
+          <w xml:lang="grc">επαρανοοῦσι</w>.
         
         </span>
         
@@ -8955,7 +8866,7 @@
         <lb n="1"/>
         
         
-        <span type="sermo-bibl-left">Ex Phavorini//</span>
+        <span type="sermo-bibl-left">Ex Phavorini₌</span>
         
         Si secunda uteris fortuna, ne superbè te geras: sin adversa, ne deiiciaris: fortunae mu-
         
@@ -9025,7 +8936,7 @@
         <lb n="14"/>
         
         
-        <span type="sermo-bibl-left">Ex sententiis//</span>
+        <span type="sermo-bibl-left">Ex sententiis₌</span>
         
         Docti, palaestritarum more, etiamsi ceciderint, cito et industrie se ex miseriis erigunt.
         
@@ -9138,9 +9049,7 @@
           
           † 
           
-          <span xml:lang="grc">παθήματα</span>
-          
-          .
+          <w xml:lang="grc">παθήματα</w>.
         
         </span>
         
@@ -9153,9 +9062,7 @@
           
           * 
           
-          <span xml:lang="grc">μαθηματα</span>
-          
-          .
+          <w xml:lang="grc">μαθηματα</w>.
         
         </span>
         
@@ -9387,7 +9294,7 @@
         <lb n="31"/>
         
         
-        <span type="sermo-bibl-right">Dionysii Hali//</span>
+        <span type="sermo-bibl-right">Dionysii Hali₌</span>
         
         Irasci apud nos hoc termino finiendum est, ut peccata sedet: Irascimi enim, inquit
         
@@ -9543,7 +9450,7 @@
         <lb n="12"/>
         
         
-        <span type="sermo-bibl-left">Apollinis De//</span>
+        <span type="sermo-bibl-left">Apollinis De₌</span>
         
         Qui ob levia peccata vehementissime ira commovetur, non sinit discernere pec₌
         
@@ -9557,7 +9464,7 @@
         <lb n="14"/>
         
         
-        <span type="sermo-bibl-left">Sotionis ex di//</span>
+        <span type="sermo-bibl-left">Sotionis ex di₌</span>
         
         Sapientibus et doctis pro ira Heraclito lachrymae, Democrito risus movebatur.
         
@@ -9633,13 +9540,7 @@
           
           † 
           
-          <span xml:lang="grc">το</span>
-          
-          ῖ
-          
-          <span xml:lang="grc">ς πλη</span>
-          
-          //
+          <w xml:lang="grc">το ῖς πλη</w>₌
         
         </span>
         
@@ -9651,9 +9552,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">σίον</span>
-          
-          .
+          <w xml:lang="grc">σίον</w>.
         
         </span>
         
@@ -10225,9 +10124,7 @@
           
           † 
           
-          <span xml:lang="grc">επι στιβά</span>
-          
-          //
+          <w xml:lang="grc">επι</w> <w xml:lang="grc">στιβά</w>₌
         
         </span>
         
@@ -10239,9 +10136,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">δος</span>
-          
-          .
+          <w xml:lang="grc">δος</w>.
         
         </span>
         
@@ -10252,11 +10147,7 @@
         
         <span type="sermo-bibl-left">
           
-          * ἔ
-          
-          <span xml:lang="grc">ρηκος</span>
-          
-          .
+          * <w xml:lang="grc">ἔρηκος</w>.
         
         </span>
         
@@ -10930,11 +10821,9 @@
         
         <span type="sermo-bibl-right">
           
-          † u
+          † 
           
-          <span xml:lang="grc">βρ</span>
-          
-          is.
+          <w xml:lang="grc">uβρις</w>.
         
         </span>
         
@@ -11720,9 +11609,7 @@
           
           † 
           
-          <span xml:lang="grc">συναλλάκ</span>
-          
-          //
+          <w xml:lang="grc">συναλλάκ</w>₌
         
         </span>
         
@@ -11734,9 +11621,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">της</span>
-          
-          .
+          <w xml:lang="grc">της</w>
         
         </span>
         
@@ -12205,7 +12090,7 @@
         <lb n="11"/>
         
         
-        <span type="sermo-bibl-left">guntur in codi//</span>
+        <span type="sermo-bibl-left">guntur in codi₌</span>
         
         enim dormiunt, noctu dormiunt: et qui inebriantur, nocte fiunt ebrii: nos cum diei si-
         
@@ -12471,9 +12356,7 @@
           
           † 
           
-          <span xml:lang="grc">άψαύστων</span>
-          
-          .
+          <w xml:lang="grc">άψαύστων</w>.
         
         </span>
         
@@ -12488,11 +12371,9 @@
         
         <span type="sermo-bibl-right">
           
-          † ἀ
+          † 
           
-          <span xml:lang="grc">νθοσμίαν</span>
-          
-          .
+          <w xml:lang="grc">ἀνθοσμίαν</w>.
         
         </span>
         
@@ -12706,9 +12587,8 @@
         <lb n="8"/>
         
         
-        <span rend="align-center">DE LIBERTATE LOQUENDI, ET REDAR</span>
+        <span rend="align-center">DE LIBERTATE LOQUENDI, ET REDAR₌</span>
         
-        ₌
         
         <lb n="9" break="no" rend="="/>
         
@@ -12908,7 +12788,7 @@
         <lb n="46"/>
         
         
-        <span type="sermo-bibl-left">Hermis et Isi//</span>
+        <span type="sermo-bibl-left">Hermis et Isi₌</span>
         
         Reprehensio si agnoscatur (o maxime imperator) ad cupiditatem eorum quae prius
         
@@ -12967,7 +12847,7 @@
         
         <span type="sermo-bibl-right">2. Thess. 3.</span>
         
-        Ipsi nostis meis necessitatibus et eorum qui mecum sunt, has manus suppedi//,
+        Ipsi nostis meis necessitatibus et eorum qui mecum sunt, has manus suppedi₌
         
         <lb n="7"/>
         
@@ -13114,14 +12994,14 @@
         <lb n="32"/>
         
         
-        <span type="sermo-bibl-right">Democriti, Eu//</span>
+        <span type="sermo-bibl-right">Democriti, Eu₌</span>
         
         Idem rogatus, qua re industrii ab inertibus differrent: respondit, Quo impii a piis,
         
         <lb n="33"/>
         
         
-        <span type="sermo-bibl-right">chindii, lso//</span>
+        <span type="sermo-bibl-right">chindii, Iso₌</span>
         
         spe nimirum bona.
         
@@ -13673,7 +13553,7 @@
         <lb n="41"/>
         
         
-        <span type="sermo-bibl-right">Isidori Pelu//</span>
+        <span type="sermo-bibl-right">Isidori Pelu₌</span>
         
         Mendacium priore loco dictum, plus fidei facit, quam posteriore loco prolata
         
@@ -13687,7 +13567,7 @@
         <lb n="43"/>
         
         
-        <span type="sermo-bibl-right">Severiani Ga//</span>
+        <span type="sermo-bibl-right">Severiani Ga₌</span>
         
         Mendacium nisi speciem veritatis pro fundamento habeat, fidem non facit.
         
@@ -13758,7 +13638,7 @@
         <lb n="6"/>
         
         
-        <span type="sermo-bibl-left">Isocratis sen//</span>
+        <span type="sermo-bibl-left">Isocratis sen₌</span>
         
         sitae, quibus ius confunditur et obscuratur.
         
@@ -14507,7 +14387,7 @@
         <lb n="6"/>
         
         
-        <span type="sermo-bibl-right">Procopii So//</span>
+        <span type="sermo-bibl-right">Procopii So₌</span>
         
         Speratum bonum, si in contrarium cadat, intolerabile affert malum.
         
@@ -14675,9 +14555,7 @@
           
           † 
           
-          <span xml:lang="grc">όυσιαν</span>
-          
-          .
+          <w xml:lang="grc">όυσιαν</w>.
         
         </span>
         
@@ -14723,13 +14601,11 @@
           
           Graecis allusio verborum est 
           
-          <span xml:lang="grc">ποιν</span>
+          <w xml:lang="grc">ποινὴ</w>
           
-          ὴ et 
+           et 
           
-          <span xml:lang="grc">κοιν</span>
-          
-          ὴ.
+          <w xml:lang="grc">κοινὴ</w>.
         
         </span>
         
@@ -14791,9 +14667,7 @@
           
           † 
           
-          <span xml:lang="grc">σνκαθη</span>
-          
-          //
+          <w xml:lang="grc">σνκαθη</w>₌
         
         </span>
         
@@ -14805,9 +14679,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">μένη</span>
-          
-          .
+          <w xml:lang="grc">μένη</w>.
         
         </span>
         
@@ -15306,7 +15178,7 @@
         <lb n="3"/>
         
         
-        <span type="sermo-bibl-left">† Forte Gor//</span>
+        <span type="sermo-bibl-left">† Forte Gor₌</span>
         
         † Orgias cum ex eo quaesitum esset, qua victus ratione usus in longam senectutem
         
@@ -15393,7 +15265,7 @@
           
           † 
           
-          <span xml:lang="grc">μαηρθυμία</span>
+          <w xml:lang="grc">μαηρθυμία</w>
           
         
         </span>
@@ -15854,13 +15726,7 @@
           
           † 
           
-          <span xml:lang="grc">παρ</span>
-          
-          ό
-          
-          <span xml:lang="grc">ραμα</span>
-          
-          .
+          <w xml:lang="grc">παρόραμα</w>.
         
         </span>
         
@@ -16292,19 +16158,11 @@
         
         <lb n="45"/>
         
-        † ὰ
+        † 
         
-        <span xml:lang="grc">π</span>
+        <w xml:lang="grc">ὰπὸτι</w> <w xml:lang="grc">πρώτης</w> <w xml:lang="grc">λήψεως</w>, alas 
         
-        ὸ 
-        
-        <span xml:lang="grc">τι πρώτης λήψεως</span>
-        
-        , alas 
-        
-        <span xml:lang="grc">λίξεως</span>
-        
-        .
+        <w xml:lang="grc">λίξεως</w>.
         
         <lb n="46"/>
         
@@ -16341,7 +16199,7 @@
         <lb n="3"/>
         
         
-        <span type="sermo-bibl-left">Indus sagitta//</span>
+        <span type="sermo-bibl-left">Indus sagitta₌</span>
         
         Indum celeberrimum sagittarium, quique diceretur per annulum sagittam transmit-
         
@@ -16434,11 +16292,9 @@
         
         <span type="sermo-bibl-left">
           
-          † ὰ
+          †
           
-          <span xml:lang="grc">κατασα</span>
-          
-          //
+          <w xml:lang="grc">ὰκατασα</w>₌
         
         </span>
         
@@ -16450,9 +16306,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">σίαν</span>
-          
-          .
+          <w xml:lang="grc">σίαν</w>.
         
         </span>
         
@@ -16790,14 +16644,12 @@
         Saepe Deus nouas salutis rationes, easque admirandas profert, ad † humanitatem sua
         
         <lb n="34"/>
+
+        <span type="sermo-bibl-right">T
         
         † 
         
-        <span xml:lang="grc">φιλ</span>
-        
-        ἁ
-        
-        <span xml:lang="grc">νθρ</span>
+        <w xml:lang="grc">φιλἁνθρ</w>₌</span>
         
         o  se providentia accommodans.
         
@@ -16807,9 +16659,7 @@
         <span type="sermo-bibl-right">
           
           
-          <span xml:lang="grc">πον</span>
-          
-          .
+          <w xml:lang="grc">πον</w>.
         
         </span>
         
@@ -16873,9 +16723,9 @@
         
         <span type="sermo-bibl-right">
           
-          † ἀ
+          † 
           
-          <span xml:lang="grc">νιττομενος</span>
+          <w xml:lang="grc">ἀνιττομενος</w>
           
         
         </span>
@@ -17342,9 +17192,7 @@
           
           † 
           
-          <span xml:lang="grc">μεθοδείας</span>
-          
-          .
+          <w xml:lang="grc">μεθοδείας</w>.
         
         </span>
         
@@ -17504,27 +17352,13 @@
         
         Memoriae ipsum vocabulum indicat in animo manere eam non moueri. 
         
-        <span xml:lang="grc">Μυνήμ</span>
-        
-        ῃ 
-        
-        <span xml:lang="grc">πα</span>
+        <w xml:lang="grc">Μυνήμῃπα</w>
         
         
         <lb n="11"/>
         
         
-        <span xml:lang="grc">ρ</span>
-        
-        ὰ 
-        
-        <span xml:lang="grc">τ</span>
-        
-        ὸ 
-        
-        <span xml:lang="grc">μένειν</span>
-        
-        .
+        <w xml:lang="grc">ρὰτὸμένειν</w>.
         
         <lb n="12"/>
         
@@ -17533,13 +17367,7 @@
           
           † 
           
-          <span xml:lang="grc">άναπ</span>
-          
-          l
-          
-          <span xml:lang="grc">κ</span>
-          
-          //
+          <w xml:lang="grc">άναπlκ</w>₌
         
         </span>
         
@@ -17551,9 +17379,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">σιν</span>
-          
-          .
+          <w xml:lang="grc">σιν</w>.
         
         </span>
         
@@ -17773,9 +17599,7 @@
           
           † 
           
-          <span xml:lang="grc">ένα</span>
-          
-          .
+          <w xml:lang="grc">ένα</w>.
         
         </span>
         
@@ -18379,11 +18203,9 @@
         
         <span type="sermo-bibl-right">
           
-          † ῥ
+          † 
           
-          <span xml:lang="grc">αδιυργίαι</span>
-          
-          .
+          <w xml:lang="grc">ῥαδιυργίαι</w>.
         
         </span>
         
@@ -18554,27 +18376,10 @@
         
         <lb n="2"/>
         
-        Invenies formae sic tua principia. ῥ
+        Invenies formae sic tua principia. 
         
-        <span xml:lang="grc">ε</span>
-        
-        ῖ
-        
-        <span xml:lang="grc">α κ</span>
-        
-        ὲ
-        
-        <span xml:lang="grc">ν</span>
-        
-         ὥ
-        
-        <span xml:lang="grc">δε τύχης κάλλεος</span>
-        
-         ἀ
-        
-        <span xml:lang="grc">ρχετύπ</span>
-        
-        o.
+        <w xml:lang="grc">ῥεῖα</w> <w xml:lang="grc">κὲν</w> <w xml:lang="grc">ὥδε</w> <w xml:lang="grc">τύχης</w> <w xml:lang="grc">κάλλεος</w>
+        <w xml:lang="grc">ἀρχετύπo</w>.
         
         <lb n="3"/>
         
@@ -20051,7 +19856,7 @@
         <lb n="45"/>
         
         
-        <span type="sermo-bibl-right">Clementis Ro//</span>
+        <span type="sermo-bibl-right">Clementis Ro₌</span>
         
         Quod quis odit propter consequuntam aetatis prudentiam, id propter diuturnam
         
@@ -20146,9 +19951,7 @@
           
           † 
           
-          <span xml:lang="grc">λιτόν</span>
-          
-          .
+          <w xml:lang="grc">λιτόν</w>.
         
         </span>
         
@@ -20687,17 +20490,7 @@
           
           † 
           
-          <span xml:lang="grc">ε</span>
-          
-          ὶ
-          
-          <span xml:lang="grc">ς</span>
-          
-           ἰ
-          
-          <span xml:lang="grc">διωτισ</span>
-          
-          .
+          <w xml:lang="grc">εὶςἰδιωτισ</w>.
         
         </span>
         
@@ -20709,9 +20502,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">μόν</span>
-          
-          .
+          <w xml:lang="grc">μόν</w>.
         
         </span>
         
@@ -20865,9 +20656,7 @@
           
           † 
           
-          <span xml:lang="grc">αδόκιμος</span>
-          
-          .
+          <w xml:lang="grc">αδόκιμος</w>.
         
         </span>
         
@@ -21540,7 +21329,7 @@
         <lb n="26"/>
         
         
-        <span type="sermo-bibl-right">Math. 7.</span>
+        <span type="sermo-bibl-right">Matth. 7.</span>
         
         Intrate per angustam portam: quia lata et spatiosa est via, quae ad interitum ducit,
         
@@ -21741,9 +21530,7 @@
           
           † 
           
-          <span xml:lang="grc">παντάπα</span>
-          
-          //
+          <w xml:lang="grc">παντάπα</w>₌
         
         </span>
         
@@ -21755,9 +21542,7 @@
         <span type="sermo-bibl-left">
           
           
-          <span xml:lang="grc">σι</span>
-          
-          , id est, omni//
+          <w xml:lang="grc">σι</w>, id est, omni₌
         
         </span>
         
