@@ -8,7 +8,10 @@
 }
 
 *[rend="align-center"] {
+    display: block;
     text-align: center !important;
+    margin: 0;
+    padding: 0;
 }
 
 *[rend="strikethrough"] {

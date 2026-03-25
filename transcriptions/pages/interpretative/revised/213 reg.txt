@@ -39,9 +39,9 @@ Aegrotis medicos, miseris amicos adesse convenit.
 
 Plutarchi. | In ebrietatibus plurimi † bacchantur, in miseriis et calamitatibus * mente moventur.
 
-† παροινοῦσι. | Infirmo onus imponere, et animo indocto prosperitatem, prorsus idem est.
+† παροινουσι. | Infirmo onus imponere, et animo indocto prosperitatem, prorsus idem est.
 
-* επαρανοοῦσι. | Splendidae fortunae, quemadmodum vehementiores venti, magna efficiunt naufragia.
+* παρανοουσι. | Splendidae fortunae, quemadmodum vehementiores venti, magna efficiunt naufragia.
 
 Ut qui coelo navigant sereno, ea etiam parata habent quae sunt in tempestate ne//
 cessaria: sic qui sapiunt, in felicitate miseriae praeparant adiumenta.
