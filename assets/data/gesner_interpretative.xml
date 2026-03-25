@@ -5804,7 +5804,7 @@
         
         </span>
         
-        mala &lt;choice&gt;&lt;sic&gt;coporis&lt;/sic&gt;&lt;corr&gt;corporis&lt;/corr&gt;&lt;/choice&gt; † pinguitudo.
+        mala <choice><sic>coporis</sic><corr>corporis</corr></choice> † pinguitudo.
         
         <lb n="3"/>
         
@@ -6695,7 +6695,7 @@
         
         <span type="sermo-bibl-right">Theologi.</span>
         
-        Honeste pauca habere maius et pretiosius est, quam multa inhoneste&lt;choice&gt;&lt;sic&gt;,&lt;/sic&gt;&lt;corr&gt;.&lt;/corr&gt;&lt;/choice&gt;
+        Honeste pauca habere maius et pretiosius est, quam multa inhoneste<choice><sic>,</sic><corr>.</corr></choice>
         
         <lb n="34"/>
         
@@ -7396,7 +7396,7 @@
         
         <lb n="29"/>
         
-        Dicere quae decet, minoris aestimandum est, quam audire. &lt;note resp="#gesner"&gt;
+        Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#gesner">
         
         <hi rend="italic">(Graecum exemplar ita corru₌</hi>
         
@@ -7406,7 +7406,7 @@
         
         <hi rend="italic">ptum est, ut possis etiam contrarium interpretari.</hi>
         
-        )&lt;/note&gt;
+        )</note>
         
         <lb n="31"/>
         
@@ -18737,7 +18737,7 @@
         <lb n="23"/>
         
         
-        <span type="sermo-bibl-right">&lt;choice&gt;&lt;sic&gt;Leucppes&lt;/sic&gt;&lt;corr&gt;Leucippes&lt;/corr&gt;&lt;/choice&gt;.</span>
+        <span type="sermo-bibl-right"><choice><sic>Leucppes</sic><corr>Leucippes</corr></choice>.</span>
         
         Mansuetudo gratiam si adipiscatur, multo etiam magis augetur: contumelia au₌
         
@@ -19028,7 +19028,7 @@
         
         <span type="sermo-bibl-left">Solon.</span>
         
-        Solon legislator cum ex eo quidam quaesiisset, quemadmodum &lt;choice&gt;&lt;abbr&gt;respub.&lt;/abbr&gt;&lt;expan&gt;respublica&lt;/expan&gt;&lt;/choice&gt; optime ad₌
+        Solon legislator cum ex eo quidam quaesiisset, quemadmodum <choice><abbr>respub.</abbr><expan>respublica</expan></choice> optime ad₌
         
         <lb n="35" break="no" rend="="/>
         
@@ -21624,7 +21624,7 @@
         
         <span type="sermo-bibl-left">Philonis.</span>
         
-        Qui omnia propter se tantum agunt, amoris sui ipsorum maximum exercet &lt;choice&gt;&lt;sic&gt;u tium&lt;/sic&gt;&lt;corr&gt;vitium&lt;/corr&gt;&lt;/choice&gt;.
+        Qui omnia propter se tantum agunt, amoris sui ipsorum maximum exercet <choice><sic>u tium</sic><corr>vitium</corr></choice>.
         
         <lb n="31"/>
         
