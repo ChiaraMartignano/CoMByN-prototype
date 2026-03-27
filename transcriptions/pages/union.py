@@ -2,9 +2,11 @@ import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
-def merge_tei_files(input_folder, output_filename, edition_title):
+def merge_tei_files(input_folder, output_filename, edition_title, is_critica=False):
     tei_ns = "http://www.tei-c.org/ns/1.0"
+    xml_ns = "http://www.w3.org/XML/1998/namespace" # Namespace per xml:id
     ET.register_namespace('', tei_ns)
+    ET.register_namespace('xml', xml_ns)
     
     # 1. Creiamo la struttura radice del nuovo file unico
     root = ET.Element(f"{{{tei_ns}}}TEI")
@@ -22,7 +24,7 @@ def merge_tei_files(input_folder, output_filename, edition_title):
     text_el = ET.SubElement(root, f"{{{tei_ns}}}text")
     body_root = ET.SubElement(text_el, f"{{{tei_ns}}}body")
 
-    # 2. Otteniamo la lista dei file e li ordiniamo alfabeticamente/numericamente
+    # 2. Otteniamo la lista dei file ordinati
     files = sorted([f for f in os.listdir(input_folder) if f.endswith('.xml')])
     
     if not files:
@@ -37,22 +39,34 @@ def merge_tei_files(input_folder, output_filename, edition_title):
         try:
             tree = ET.parse(file_path)
             file_root = tree.getroot()
-            
-            # Cerchiamo il body del file singolo
             file_body = file_root.find(f".//{{{tei_ns}}}body")
             
             if file_body is not None:
-                # Aggiungiamo un commento XML per separare le sorgenti (utile per debug)
                 body_root.append(ET.Comment(f" Inizio file: {filename} "))
-                
-                # Appendiamo tutti i figli del body (ab, div, p, pb, ecc.)
                 for child in list(file_body):
                     body_root.append(child)
                     
         except Exception as e:
             print(f"Errore durante la lettura di {filename}: {e}")
 
-    # 4. Salvataggio finale
+    # 4. LOGICA DI NUMERAZIONE (Solo per l'edizione critica)
+    if is_critica:
+        div_counter = 1
+        # Cerchiamo tutti i div nel corpo unificato
+        for div in body_root.findall(f".//{{{tei_ns}}}div[@type='chapter']"):
+            # Assegnazione attributi alla div
+            div.set("n", str(div_counter))
+            div.set(f"{{{xml_ns}}}id", f"chap{div_counter}")
+            
+            # Numerazione paragrafi all'interno di questa div
+            p_counter = 1
+            for p in div.findall(f".//{{{tei_ns}}}p"):
+                p.set(f"{{{xml_ns}}}id", f"chap{div_counter}p{p_counter}")
+                p_counter += 1
+            
+            div_counter += 1
+
+    # 5. Salvataggio finale
     xml_str = ET.tostring(root, encoding='utf-8')
     pretty_xml = minidom.parseString(xml_str).toprettyxml(indent="  ")
     
@@ -62,20 +76,21 @@ def merge_tei_files(input_folder, output_filename, edition_title):
 
 # --- ESECUZIONE ---
 
-# Percorsi delle cartelle create dallo script precedente
 folder_interp = "output_interpretativa"
 folder_crit = "output_critica"
 
-# Creazione dell'edizione unificata Interpretativa
+# Creazione dell'edizione unificata Interpretativa (senza numerazione extra)
 merge_tei_files(
     folder_interp, 
     "Edizione_Interpretativa_Completa.xml", 
-    "Edizione Interpretativa Unificata"
+    "Edizione Interpretativa Unificata",
+    is_critica=False
 )
 
-# Creazione dell'edizione unificata Critica
+# Creazione dell'edizione unificata Critica (con numerazione div e p)
 merge_tei_files(
     folder_crit, 
     "Edizione_Critica_Completa.xml", 
-    "Edizione Critica Unificata"
+    "Edizione Critica Unificata",
+    is_critica=True
 )
