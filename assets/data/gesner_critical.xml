@@ -10751,7 +10751,8 @@
         <bibl type="source">Secundus.</bibl>
         
         Secundus ille sapiens quid esset mulier interrogatus, respondit: Viri naufragium          
-          domus tempestas, quietis impedimentum, vitae captivitas, quotidianum damnum, voluntaria pugna, sumptuosum bellum, belva conviva, solicitudo <note type="translation" resp="#CG">
+          domus tempestas, quietis impedimentum, vitae captivitas, quotidianum damnum, voluntaria pugna, sumptuosum bellum, belva conviva, solicitudo
+        <note type="translation" resp="#CG">
           <w xml:lang="grc" corresp="#grcw40">συγκαθημένη</w>.
         </note> <w xml:id="grcw40">considens</w>, leaena complectens, exornata Scylla, animal maliciosum, malum necessarium.
       
@@ -11219,20 +11220,14 @@
       
       </div>
       <div type="chapter" n="42" xml:id="EPchap42">
-            <head>
         
-        
-        <bibl type="source">
+        <head>
           
-          † 
-          
-          <w xml:lang="grc" corresp="#">μακροθυμία</w>
-          
+        <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grc41">μακροθυμία</w>
+        </note>       
         
-        </bibl>
-        
-        
-        <span rend="align-center">DE PATIENTIA ET † LENITATE, Sermo XLII.</span>
+        <seg rend="align-center">DE PATIENTIA ET <w xml:id="grcw41">LENITATE</w>, Sermo XLII.</seg>
         
       
       </head>
@@ -11616,17 +11611,10 @@
         
         Ne te superet pulchritudinis cupiditas, neque corripiaris palpebris tuis, vel usque ad
         
-        <bibl type="source">
-          
-          † 
-          
-          <w xml:lang="grc" corresp="#">παρόραμα</w>
-          
-          .
-        
-        </bibl>
-        
-        † contemptum, si fieri potest.
+        <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw42">παρόραμα</w>.
+        </note> 
+        <w xml:id="grcw42">contemptum</w>, si fieri potest.
       
       </p>
       
@@ -11932,29 +11920,13 @@
           
           <bibl type="source">Plutarchi.</bibl>
           
-          Plantae capiunt a radice incrementum, gloria vero † a prima sumptione augetur.† ἀ
-          
-          <w xml:lang="grc" corresp="#">πότινος</w>
-          
-          <w xml:lang="grc" corresp="#">πρ</w>
-          
-          ώ
-          
-          <w xml:lang="grc" corresp="#">της λ</w>
-          
-          ή
-          
-          <w xml:lang="grc" corresp="#">ψεως</w>
-          
-          , alias 
-          
-          <w xml:lang="grc" corresp="#">λ</w>
-          
-          ί
-          
-          <w xml:lang="grc" corresp="#">ξεως</w>
-          
-          .
+          Plantae capiunt a radice incrementum, gloria vero
+          <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#">ἀπό</w>
+            <w xml:lang="grc" corresp="#">τινος</w>
+            <w xml:lang="grc" corresp="#">πρώτης</w>
+            <w xml:lang="grc" corresp="#">λήψεως</w>, alias <w xml:lang="grc" corresp="#">λίξεως</w>.
+          </note> a prima sumptione augetur.
         
         </p>
         
@@ -12064,19 +12036,15 @@
         
         
         <p>
+          In multis lignis viget ignis: os autem detectum
+          <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#grcw43"><sic>ὰκατασασίαν</sic><corr>άκαταστασίαν</corr></w>
+          </note> <w xml:id="grcw43">seditionem</w> concitat.
+        </p>
+        
+        <p>
           
-          
-          <bibl type="source">
-            
-            † 
-            
-            <w xml:lang="grc" corresp="#">ὰκατασασίαν</w>
-          
-          </bibl>
-          
-          In multis lignis viget ignis: os autem detectum † seditionem concitat.
-          
-          * Quis dabitori meo custodiam, et labiis meis sigillum? ut ne excidam inde, et lin * Sirach 22. | gua mea pereat.
+          <bibl type="source">Sirach 22.</bibl> Quis dabitori meo custodiam, et labiis meis sigillum? ut ne excidam inde, et lingua mea pereat.
         
         </p>
         
@@ -12362,32 +12330,18 @@
           
           <bibl type="source">Theologi.</bibl>
           
-          Saepe Deus nouas salutis rationes, easque admirandas profert, ad † humanitatem sua† 
-          
-          <w xml:lang="grc" corresp="#">φιλ</w>
-          
-          ἁ
-          
-          <w xml:lang="grc" corresp="#">νθρ</w>
-          
-          o  se providentia accommodans.
+          Saepe Deus nouas salutis rationes, easque admirandas profert, ad
+          <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#grcw44">φιλάνθρωπον</w>.          
+          </note> <w xml:id="grcw44"></w>humanitatem sua se providentia accommodans.
         
         </p>
         
         
         <p>
-          
-          
           <bibl type="source">
-            
-            
-            <w xml:lang="grc" corresp="#">πον</w>
-            
-            .
-          
-          </bibl>
-          
-          * Nemo tam sibi parcit, quam deus nobis omnibus: multo enim magis ille vult no * Chrysostomi | bis nihil mali accidere, quam nosipsi.
+            Chrysostomi.
+          </bibl> Nemo tam sibi parcit, quam deus nobis omnibus: multo enim magis ille vult nobis nihil mali accidere, quam nosipsi.
         
         </p>
         
@@ -12410,11 +12364,10 @@
           
           <bibl type="source">Beati Ephraim</bibl>
           
-          Mundum deus toleranter et patienter inspicit, futura † obscure significans, et prae † 
-          
-          <w xml:lang="grc" corresp="#">ἀνιττομενος</w>
-          
-           | sens malum terminis concludens, et improbitatem praeceptis suis refrenans, per con scientiam vero sceleratas et maliciosas cogitationes puniens.
+          Mundum deus toleranter et patienter inspicit, futura <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#grcw45">ἀνιττομενος</w>
+          </note> <w xml:id="grcw45">obscure</w> significans,
+          et praesens malum terminis concludens, et improbitatem praeceptis suis refrenans, per con scientiam vero sceleratas et maliciosas cogitationes puniens.
         
         </p>
       
@@ -12845,19 +12798,9 @@
         
         
         <p>
-          
-          
-          <bibl type="source">
-            
-            † 
-            
-            <w xml:lang="grc" corresp="#">μεθοδείας</w>
-            
-            .
-          
-          </bibl>
-          
-          Fides, quae supra logicas † captiones animum ad consensum trahit, fides est non exgeometrica necessitate, sed efficacia spiritus ingenita.
+          Fides, quae supra logicas <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#grcw46">μεθοδείας</w>.            
+          </note> <w xml:id="grcw46">captiones</w> animum ad consensum trahit, fides est non exgeometrica necessitate, sed efficacia spiritus ingenita.
         
         </p>
         
@@ -12978,52 +12921,21 @@
         
         <bibl type="source">Idem in Cratylo.</bibl>
         
-        Memoriae ipsum vocabulum indicat in animo manere eam non moueri. 
-        
-        <w xml:lang="grc" corresp="#">Μυνήμ</w>
-        
-        ῃ 
-        
-        <w xml:lang="grc" corresp="#">πα</w>
-        
-        
-        <w xml:lang="grc" corresp="#">ρ</w>
-        
-        ὰ 
-        
-        <w xml:lang="grc" corresp="#">τ</w>
-        
-        ὸ 
-        
-        <w xml:lang="grc" corresp="#">μένειν</w>
-        
-        .
+        Memoriae ipsum vocabulum indicat in animo manere eam non moveri.        
+        <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#">Μυνήμῃ</w>
+          <w xml:lang="grc" corresp="#">παρὰ</w>
+          <w xml:lang="grc" corresp="#">τὸ</w>
+          <w xml:lang="grc" corresp="#">μένειν</w>.
+        </note>
       
       </p>
       
       
       <p>
-        
-        
-        <bibl type="source">
-          
-          † 
-          
-          <w xml:lang="grc" corresp="#">άναπ</w>
-          
-          l
-          
-          <w xml:lang="grc" corresp="#">κ</w>
-          
-          //
-        
-        </bibl>
-        
-        Receptaculum phantasmatum memoriam vocari, eorumque † agitationem recordatio 
-        
-        <w xml:lang="grc" corresp="#">σιν</w>
-        
-        .  | nem: et tardos fere meliore praeditos esse memoria: celeres autem et dociles, in remini scendo feliciores.
+        Receptaculum phantasmatum memoriam vocari, eorumque <note type="translation" resp="#CG">          
+          <w xml:lang="grc" corresp="#grcw47">άναπόλκσιν</w>.        
+        </note> <w xml:id="grcw47">agitationem</w> recordationem: et tardos fere meliore praeditos esse memoria: celeres autem et dociles, in remini scendo feliciores.
       
       </p>
       
@@ -13185,18 +13097,9 @@
         
         <bibl type="source">Moschionis.</bibl>
         
-        Omnibus mortalibus et terrestribus amissis, † unum aliquid immortale et coeleste
-        
-        <bibl type="source">
-          
-          † 
-          
-          <w xml:lang="grc" corresp="#">ένα</w>
-          
-          .
-        
-        </bibl>
-        
+        Omnibus mortalibus et terrestribus amissis, <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw48">ένα</w>.          
+        </note> <w xml:id="grcw48">unum</w> aliquid immortale et coeleste
         comparare praeoptato.
       
       </p>
@@ -13679,11 +13582,10 @@
         
         <bibl type="source">Socratis.</bibl>
         
-        Qui sponte in miseriis versatur, bona quadam spe laboribus laetatur: At † negligen † ῥ
-        
-        <w xml:lang="grc" corresp="#">αδιυργίαι</w>
-        
-        . | tia et momentaneae voluptates, neque corporis bonam constitutionem efficere possunt,neque animi ullam memoratu dignam scientiam ingenerant.
+        Qui sponte in miseriis versatur, bona quadam spe laboribus laetatur: At
+        <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw49">ῥαδιουργίαι</w>
+        </note> <w xml:id="grcw49"></w>negligentia et momentaneae voluptates, neque corporis bonam constitutionem efficere possunt,neque animi ullam memoratu dignam scientiam ingenerant.
       
       </p>
       
@@ -13821,27 +13723,12 @@
       
       <p>
         
-        Invenies formae sic tua principia. ῥ
-        
-        <w xml:lang="grc" corresp="#">ε</w>
-        
-        ῖ
-        
-        <w xml:lang="grc" corresp="#">α κ</w>
-        
-        ὲ
-        
-        <w xml:lang="grc" corresp="#">ν</w>
-        
-         ὥ
-        
-        <w xml:lang="grc" corresp="#">δε τύχης κάλλεος</w>
-        
-         ἀ
-        
-        <w xml:lang="grc" corresp="#">ρχετύπου</w>
-        
-        .
+        Invenies formae sic tua principia.
+        <note type="translation" resp="#CG">
+          <w xml:lang="grc">ῥεῖα</w> <w xml:lang="grc">κὲν</w>
+          <w xml:lang="grc">ὥδε</w> <w xml:lang="grc">τύχης</w>
+          <w xml:lang="grc">κάλλεος</w> <w xml:lang="grc">ἀρχετύπου</w>.
+        </note>
       
       </p>
       
@@ -15013,18 +14900,9 @@
       <p>
         
         Persae quod facere non licet, ne dicendum quidem putant: quod si patrem occiderit
-        
-        <bibl type="source">
-          
-          † 
-          
-          <w xml:lang="grc" corresp="#">λιτόν</w>
-          
-          .
-        
-        </bibl>
-        
-        aliquis, † simplicem eum iudicant: si quem rex flagris caedi iusserit, gratias agit quasialiquod bonum sit nactus quod sui rex meminerit: praemia pro liberorum multitudi ne accipiunt a rege. Liberi apud illos verum dicere, tanquam disciplinas discunt.
+        aliquis, <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw50">λιτόν</w>.          
+        </note> <w xml:id="grcw50">simplicem</w> eum iudicant: si quem rex flagris caedi iusserit, gratias agit quasialiquod bonum sit nactus quod sui rex meminerit: praemia pro liberorum multitudi ne accipiunt a rege. Liberi apud illos verum dicere, tanquam disciplinas discunt.
       
       </p>
       
@@ -15032,7 +14910,7 @@
       <p>
         
         
-        <bibl type="source">Theocrii.</bibl>
+        <bibl type="source">Theocriti.</bibl>
         
         Insidiosos mores et aliquid semper mali contra omnes machinari, non soleriae, utnonnulli existimant, sed pessimae parti attribuo.
       
@@ -15375,39 +15253,18 @@
       <p>
         
         
-        <bibl type="source">Ex Epicteti sen/</bibl>
+        <bibl type="source">Ex Epicteti sententiis./</bibl>
         
-        Nimium fuge risum, et risum movere caveto: est enim locus hic lubricus, † ad vul tentiis.  | gi ineptias.
+        Nimium fuge risum, et risum movere caveto: est enim locus hic lubricus, <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw51">εὶς</w>
+          <w xml:lang="grc" corresp="#grcw52">ἰδιωτισμόν</w>
+        </note> <w xml:id="grcw51">ad</w> <w xml:id="grcw52">vulgi</w> ineptias.
       
       </p>
       
       
       <p>
-        
-        
-        <bibl type="source">
-          
-          † 
-          
-          <w xml:lang="grc" corresp="#">ε</w>
-          
-          ὶ
-          
-          <w xml:lang="grc" corresp="#">ς</w>
-          
-           ἰ
-          
-          <w xml:lang="grc" corresp="#">διωτισ</w>
-          
-          //
-        
-        </bibl>
-        
-        Risus profusus ne sit: quare in coenis multis et externis et plebeiis ne versator fre 
-        
-        <w xml:lang="grc" corresp="#">μόν</w>
-        
-        . | quenter: si tamen occasio fert, cave tibi. Scito enim, quod si alter fuerit pollutus, alte rum quoque impleri necesse est.
+        Risus profusus ne sit: quare in coenis multis et externis et plebeiis ne versator frequenter: si tamen occasio fert, cave tibi. Scito enim, quod si alter fuerit pollutus, alte rum quoque impleri necesse est.
       
       </p>
       
@@ -15516,19 +15373,10 @@
           
           <bibl type="source">Ioan. Climacis.</bibl>
           
-          Somniis credens, ad omnia † ineptus est.
+          Somniis credens, ad omnia <note type="translation" resp="#CG">
+            <w xml:lang="grc" corresp="#grcw53">ἀδόκιμος</w>.          
+          </note> <w xml:id="grcw53">ineptus</w> est.
           
-          <bibl type="source">
-            
-            † 
-            
-            <w xml:lang="grc" corresp="#">αδόκιμος</w>
-            
-            .
-          
-          </bibl>
-          
-        
         </p>
     
       <!--pb n="259"/-->
@@ -16229,32 +16077,20 @@
           
           <bibl type="source">Sirach 37.</bibl>
           
-          Fili in vita tua explora animum tuum, et vide quid sit illi pernitiosum, nec id ei con † 
-          
-          <w xml:lang="grc" corresp="#">παντάπα</w>
-          
-          // | cesseris: non enim † omnia omnibus conferunt.
+          Fili in vita tua explora animum tuum, et vide quid sit illi pernitiosum,
+          nec id ei concesseris: non enim <note type="translation" resp="#CG">            
+            <w xml:lang="grc" corresp="#">παντάπασι</w>, id est, omnino enim non confert.
+          </note> omnia omnibus conferunt.
         
         </p>
         
         
         <p>
-          
-          
           <bibl type="source">
-            
-            
-            <w xml:lang="grc" corresp="#">σι</w>
-            
-            , id est, omni//
+            Basilii.
+          </bibl> Magnum certe dedecus est illi qui vere sit nomine viri dignus, comptum et corporis studiosum esse, aut alio aliquo vitio non generose affectum: nam omnem adhibere
           
-          </bibl>
-          
-          * Magnum certe dedecus est illi qui vere sit nomine viri dignus, comptum et corpo no enim non | ris studiosum esse, aut alio aliquo vitio non generose affectum: nam omnem adhibere
-          
-          <bibl type="source">confert.</bibl>
-          
-          diligentiam et studium, ut quam pulcherrimum sit corpus, eius est qui seipse non agno * Basilii. | scit, nec praeceptum sapientiae plenum intelligit.
+          diligentiam et studium, ut quam pulcherrimum sit corpus, eius est qui seipse non agnoscit, nec praeceptum sapientiae plenum intelligit.
         
         </p>
         

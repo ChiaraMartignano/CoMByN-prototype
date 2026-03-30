@@ -117,3 +117,9 @@ span.lb{
     float: right;
     margin-right: 2em;
 }
+
+*[type="source"] {
+    float: right;
+    font-style: italic;
+    margin-left: 2em;
+}
