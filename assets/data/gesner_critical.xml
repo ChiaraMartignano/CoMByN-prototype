@@ -3905,6 +3905,7 @@
         
         
         <bibl type="source">Matth. 10. et</bibl>
+        <bibl type="source">Lucae 18.</bibl>
         
         Facilius est camelum per foramen acus intrare, quam divitem in regnum coelorum.
       
@@ -3912,11 +3913,8 @@
       
       
       <p>
-        
-        
-        <bibl type="source">Lucae 18.</bibl>
-        
-        † Duitibus huius saeculi praecipe ne superbe de se sentiant, nec spem ponant in divi † 1. Tim. 6. | tiis incertis, sed in deo, qui nobis omnia praebet opulente, quibus fruamur.
+        <bibl type="source">1. Tim. 6.</bibl>
+        Duitibus huius saeculi praecipe ne superbe de se sentiant, nec spem ponant in divitiis incertis, sed in deo, qui nobis omnia praebet opulente, quibus fruamur.
       
       </p>
       
@@ -5878,7 +5876,10 @@
       
       
       <p>
-        Stilpo Megaricus philosophus patria eius a Demetrio tyranno capta et direpta, du * Socrates. | ctus ad regem, interrogatusque an quicquam ipse etiam amisisset: De meo nihil, in *Stilponis. | quit: rationem enim et eruditionem habeo: caetera cur mea magis sint, quam obsi dentium?
+        <bibl type="source">
+          Stilponis.
+        </bibl>
+        Stilpo Megaricus philosophus patria eius a Demetrio tyranno capta et direpta, ductus ad regem, interrogatusque an quicquam ipse etiam amisisset: De meo nihil, inquit: rationem enim et eruditionem habeo: caetera cur mea magis sint, quam obsi dentium?
       
       </p>
       
@@ -6160,9 +6161,9 @@
       <p>
         
         
-        <bibl type="source">Ex Phavorini//</bibl>
+        <bibl type="source">Ex Phavorini commentariis.</bibl>
         
-        Si secunda uteris fortuna, ne superbè te geras: sin adversa, ne deiiciaris: fortunae mu commentariis. | tationes fac scias fortiter ferre.
+        Si secunda uteris fortuna, ne superbè te geras: sin adversa, ne deiiciaris: fortunae mutationes fac scias fortiter ferre.
       
       </p>
       
@@ -6590,9 +6591,9 @@
       <p>
         
         
-        <bibl type="source">Apollinis De//</bibl>
+        <bibl type="source">Apollinis Democratis.</bibl>
         
-        Qui ob levia peccata vehementissime ira commovetur, non sinit discernere pec mocratis. | cantem, utrum leviter, an graviter deliquerit.
+        Qui ob levia peccata vehementissime ira commovetur, non sinit discernere peccantem, utrum leviter, an graviter deliquerit.
       
       </p>
       
@@ -6600,7 +6601,7 @@
       <p>
         
         
-        <bibl type="source">Sotionis ex di//</bibl>
+        <bibl type="source">Sotionis ex disputatione de ira.</bibl>
         
         Sapientibus et doctis pro ira Heraclito lachrymae, Democrito risus movebatur.
       
@@ -6610,9 +6611,9 @@
       <p>
         
         
-        <bibl type="source">sputatione de/</bibl>
+        <bibl type="source"></bibl>
         
-        Ut naves egregiae sunt, non quae sereno coelo navigant, sed quae tempestati resi ira. | stunt et servantur: sic homines irae et motui resistentes magni sunt et fortes.
+        Ut naves egregiae sunt, non quae sereno coelo navigant, sed quae tempestati resistunt et servantur: sic homines irae et motui resistentes magni sunt et fortes.
       
       </p>
       
@@ -7183,9 +7184,9 @@
       <p>
         
         
-        <bibl type="source">Ex Aristippi/</bibl>
+        <bibl type="source">Ex Aristippi sententiis.</bibl>
         
-        Quum quidam ei diceret, Propter te periit fundus: An non, inquit, melius est fun sententiis. | dum propter me, quam propter fundum me periisse?
+        Quum quidam ei diceret, Propter te periit fundus: An non, inquit, melius est fundum propter me, quam propter fundum me periisse?
       
       </p>
       
@@ -7624,9 +7625,9 @@
       <p>
         
         
-        <bibl type="source">Ex Acliani/</bibl>
+        <bibl type="source">Ex Acliani historia.</bibl>
         
-        Prima et octogesima Olympiade Aetnam ferunt fluxisse, quo tempore Philono historia. | mus et Callias Catanaei, caeteris omnibus rebus contemptis, patres suos in humerosimpositos per mediam flammam sustulerunt, pro qua pietate divinitus remuneratio nem acceperunt: ignis enim currentibus illis, interruptus stetit ea parte qua transierunt.
+        Prima et octogesima Olympiade Aetnam ferunt fluxisse, quo tempore Philonomus et Callias Catanaei, caeteris omnibus rebus contemptis, patres suos in humerosimpositos per mediam flammam sustulerunt, pro qua pietate divinitus remuneratio nem acceperunt: ignis enim currentibus illis, interruptus stetit ea parte qua transierunt.
       
       </p>
       
@@ -7634,21 +7635,16 @@
       <p>
         
         
-        <bibl type="source">Ex Epicteti En/</bibl>
+        <bibl type="source">Ex Epicteti Enchiridio, et Isocrate.</bibl>
         
         Liberos doctiores, quam ditiores relinquere studeto.
-        
-        <bibl type="source">chiridio, et</bibl>
-        
+        <lb/>        
         Filia aliena quaedam possessio est patri.
       
       </p>
       
       
-      <p>
-        
-        
-        <bibl type="source">Isocrate.</bibl>
+      <p>        
         
         Idem liberis pudorem magis, quam aurum telinquendum esse consulebat.
       
