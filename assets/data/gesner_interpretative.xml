@@ -112,7 +112,7 @@
         <lb n="16"/>
         
         
-        <span type="sermo-bibl-right">Solomonis</span>
+        <span type="sermo-bibl-right">Solomonis.</span>
         
         Virtutis quidem signum nullum ostendere possumus: in vitio au-
         
@@ -123,7 +123,7 @@
         <lb n="18"/>
         
         
-        <span type="sermo-bibl-right">Eiusdem</span>
+        <span type="sermo-bibl-right">Eiusdem.</span>
         
         Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retra₌
         
@@ -146,7 +146,7 @@
         <lb n="23"/>
         
         
-        <span type="sermo-bibl-right">Sirach. 7</span>
+        <span type="sermo-bibl-right">Sirach. 7.</span>
         
         Noli mala facere, et te mala non apprehendent.
         
@@ -2201,7 +2201,7 @@
         
         <lb n="30" break="no" rend="="/>
         
-        ruus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde
+        tuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde
         
         <lb n="31"/>
         
@@ -2553,7 +2553,10 @@
         
         <span type="sermo-bibl-right">Zenonis.</span>
         
-        Zeno Stoicus philosophus, cum ex eo quidam familiarium quaerere, tqua possent
+        Zeno Stoicus philosophus, cum ex eo quidam familiarium quaerere, <choice>
+          <sic>tqua</sic>
+          <corr>qua</corr>
+        </choice> possent
         
         <lb n="2"/>
         
