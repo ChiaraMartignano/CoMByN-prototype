@@ -57,7 +57,7 @@ quendam, interdum in ea quae nobis adhaerent.
 Infortunium tuum occulta, ne tuos hostes afficias laetitia.
 
 Isocratis. | Calamitatem nemini exprobres: communis enim fortuna, et quod futurum incertum est.
-Nihil rerum humanarum firmum putato. Sic enim nec in prosperitate nimium lae
+Nihil rerum humanarum firmum putato. Sic enim nec in prosperitate nimium lae/
 tus eris, nec in calamitatibus nimium tristis.
 
 Democriti. | Generum assecutus bonum, reperit filium: malum autem, perdidit et filiam.
