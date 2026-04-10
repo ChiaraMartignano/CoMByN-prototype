@@ -8,7 +8,7 @@ Theopompi. | Neque authorem malorum deum credito, neque nos sine eo versari in m
 Socratis. | Si quid cura potest, cures: at si deus ipse iubebo
 Te curat, cur tu solicitus tibi sis?
 
-Platonis. | Cum vult deus beatam esse civitatem, bonos efficit viros: cum autem misera est fu//
+Platonis. | Cum vult deus beatam esse civitatem, bonos efficit viros: cum autem misera est fu
 tura civitas, ex ea bonos eximit viros.
 
 Eiusdem. | Ita fit ut virtus nec sub doctrinam cadat, nec sit naturalis, sed divino fato inest is
@@ -18,8 +18,8 @@ Eiusdem. | Deus omnia, et secundum deum, fortuna et occasio humana gubernant uni
 
 Demadis. | Quantum numen iustos adiuvat, tantum iniustis adversatur.
 
-[c]DE ANIMI ABIECTIONE, AUT HUMILITATE,[/c]
-[c]Sermo XLIX.[/c]
+DE ANIMI ABIECTIONE, AUT HUMILITATE,
+Sermo XLIX.
 
 Lucae 14. | Quisquis se extulerit, deiicietur: et qui se demiserit, extolletur.
 
@@ -48,7 +48,7 @@ Isocratis. | Legi, et principi, et sapientiori cedere, modestum.
 
 Socratis. | In navigando gubernatori, in vivendi ratione melius ratiocinanti parendum est.
 
-[c]DE MEDICIS, SERMO L.[/c]
+DE MEDICIS, SERMO L.
 
 Lucae 5. | Non egent medico valentes, sed male habentes.
 
@@ -67,9 +67,9 @@ quae in deo habenda est, non excidimus.
 Indoctus medicus ad aegrotos admissus, cum sanitatem illis restituere deberet, id
 etiam exiguum, quod habebant reliquum, virium aufert.
 
-Theologi. | Nostram medicinam ea quae circa corpus versatur, longe difficiliorem puto, atque id//
-circo honoratiorem: quod illa pauca quaedam in profundo latentia consyderans, plu//
-rimum circa ea quae sub oculos cadunt, versetur: nos autem in occulto hominis cor//
+Theologi. | Nostram medicinam ea quae circa corpus versatur, longe difficiliorem puto, atque id
+circo honoratiorem: quod illa pauca quaedam in profundo latentia consyderans, plu
+rimum circa ea quae sub oculos cadunt, versetur: nos autem in occulto hominis cor
 de sanando omne studium et curam ponamus.
 
 Indigus atque mali insatiabilis hulcera celans

@@ -3,10 +3,10 @@ The transcriptions in this folder present a **light custom markup** created to q
 This light markup is temporary. It will be removed, after the final release of the TEI critical and interpretative editions.
 
 # Custom Markup
-* Centered-aligned text: `[c]text[/c]`
-* Text in italic: `_text_`
-* Text positioned under the line it belongs to: `[u]text[/u]`
-* Text positioned above the line it belongs to: `[a]text[/a]`
+* Centered-aligned text: `text`
+* Text in italic: `text`
+* Text positioned under the line it belongs to: `text`
+* Text positioned above the line it belongs to: `text`
 * Line break within a word: `te\xt`
 * Line break within a word signalled with a character: `te\\xt`
 * Marginalia: `text |` at the beginning of a line

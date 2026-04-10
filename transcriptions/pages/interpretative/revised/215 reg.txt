@@ -13,7 +13,7 @@ Sirach 30. | Ira et furor minuunt dies.
 
 Basilii. | Dum te ulcisceris, et par pari refers convitiatori, quid excusationis habes? an quod
 prior ille irritarit? sed istud qua venia dignum est? non enim scortator in meretricem
-transferens culpam quod ad peccatum ipsum invitarit, condemnationem vitat. Et neque coro//
+transferens culpam quod ad peccatum ipsum invitarit, condemnationem vitat. Et neque coro
 nae sine adversariis quaeruntur, neque quisquam cadit in lucta sine colluctatore.
 
 Ira quid insipientius? Si iram contineas, pudore affecisti iniuriam facientem, re ipsa
@@ -22,11 +22,11 @@ temperantiam ostendens.
 Theologi. | Caeca est ira et molesta, idque maxime cum iusta est indignandi causa.
 
 Chrysostomi. | Si quis tibi iniuriam et convitium facit, consydera cruciatum quo ille cruciatur, et 
-non solum non irasceris, verum etiam lachrymabere: non enim quisquam febricitan//
+non solum non irasceris, verum etiam lachrymabere: non enim quisquam febricitan
 ti irascitur, aut inflammationem patienti, sed miseretur omnino et lachrymis eum pro
 sequitur. Quod si eum ulcisci vis, tace, et magnam periculosamque dedisti plagam. Sin
-vero morsus referis convitia, ut vera existimari possint, quae in te dicuntur, tu tibi au//
-thor es. Cur enim dives qui sit, si quis eum pauperem dicat, ridet? quod paupertatis si/
+vero morsus referis convitia, ut vera existimari possint, quae in te dicuntur, tu tibi au
+thor es. Cur enim dives qui sit, si quis eum pauperem dicat, ridet? quod paupertatis si
 bi non sit conscius. Si igitur contumelias rideremus et convitia, maximam daremus
 significationem, eorum quae nobis obiicerentur nos non esse conscios.
 
@@ -40,10 +40,10 @@ Cyrilli. | Quae bestia tam saeua et immanis est, ut iracundus, et irae immoderat
 tyranno cuidam parens?
 
 Ex patribus. | Quatuor ex rebus ira nascitur, ex dandi ratione et accipiendi, ex eo quod quis suae
-morem gerat voluntati, ex studio litium, et prudentiae opinione, _id est ex eo quod quis se_
-_prudentem esse iudicat._
+morem gerat voluntati, ex studio litium, et prudentiae opinione, id est ex eo quod quis se
+prudentem esse iudicat.
 
-Dionysii Hali// | Irasci apud nos hoc termino finiendum est, ut peccata sedet: Irascimi enim, inquit
+Dionysii Hali | Irasci apud nos hoc termino finiendum est, ut peccata sedet: Irascimi enim, inquit
 carnassei. | scriptura, et ne peccatote.
 
 Apollonii. | Irae affectus, si sermone non deliniatur et curetur, naturalis efficitur morbus.
@@ -54,7 +54,7 @@ Ut feroces equi frenis, sic irae affectus ratione coercentur.
 
 Ut temperata aqua inflammationes, sic lenis oratio iram sedare solet.
 
-Aristotelis. | Ut fumus oculos laedens impedit quo minus prospicere possimus quod est ante pe/
+Aristotelis. | Ut fumus oculos laedens impedit quo minus prospicere possimus quod est ante pe
 des positum: Sic ira rationem tenebris offundit, ut absurditates mente cernere non
 sinat.
 
@@ -62,7 +62,7 @@ An non vides eorum, qui ira perturbantur, rationem perigrinari? quippe quae iram
 quasi tyrannum quendam acerbum fugiat.
 
 Ira est perturbatio quaedam beluarum motui similis, quae perpetuo premit, dura et
-violenta quadam vi praedita, homicidiorum causa, calamitatum socia, incommodo//
+violenta quadam vi praedita, homicidiorum causa, calamitatum socia, incommodo
 rum conciliatrix et infamiae, pecuniarum consumptrix, denique corruptelae dux et princeps.
 
 Eveni. | Prodidit ira viri mentem, quae saepe lateret,

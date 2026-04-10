@@ -2,12 +2,12 @@
 tis videtur, mihi autem decem dare non satis.
 
 Idem discum ossibus refertum Diogeni philosopho Cynico misit: quem cum accepisset
-Diogenes: Est quidem, inquit, cibus Cynicus, _id est, caninus_, sed donum minime regium.
+Diogenes: Est quidem, inquit, cibus Cynicus, id est, caninus, sed donum minime regium.
 
 Idem dicebat in eodem ponendum vitio, dare indignis et dignis non dare.
 
-Diogenes a quodam rogatus, quam ob causam homines mendicis darent, philoso//
-phis vero nihil largirentur: Quia, inquit, se claudos et caecos fore sperare possunt, phi//
+Diogenes a quodam rogatus, quam ob causam homines mendicis darent, philoso
+phis vero nihil largirentur: Quia, inquit, se claudos et caecos fore sperare possunt, phi
 losophos autem minime.
 
 Philistionis. | Praestat terrae mutuum dare, quam hominibus:
@@ -25,31 +25,31 @@ Sexti. | Amico beneficia ne exprobrato: eris enim quasi non dederis.
 Demosthenes. | Idem dicebat, eum qui beneficium praestitisset, statim oblivisci oportere: qui autem
 accepisset, perpetuo meminisse.
 
-Heracliti physi// | Oportuna gratia, quasi cibus fami conveniens, animi indigentiam sanat.
+Heracliti physi | Oportuna gratia, quasi cibus fami conveniens, animi indigentiam sanat.
 
 ci. Socratis. | Bonis benefacito: pulcher enim thesaurus est apud virum bonum gratia debita.
 
-Thespidis. | Consumi non potest beneficentiae opulentia: in dando enim accipitur, et in disper//
+Thespidis. | Consumi non potest beneficentiae opulentia: in dando enim accipitur, et in disper
 gendo colligitur.
 
 Menandri. | Si quis tibi de re aliqua non amplius dare volet,
 Accipe particulam: nam quod minus est accipere,
 Multo tibi amplius erit, quam nihil accipere omnino.
 
-[c]DE MAGISTRATU ET POTESTATE,[/c]
-[c]Sermo IX.[/c]
+DE MAGISTRATU ET POTESTATE,
+Sermo IX.
 
 Lucae 3. | Rogabant eum et milites, dicentes: Et nos quid faciemus? Et dixit illis: Neminem
 concutiatis, nec calumniemini, et contenti sitis stipendiis vestris.
 
-Rom. 13. | Subiecti estote cuiuis humanae creaturae propter dominum, sive regi tanquam prae//
+Rom. 13. | Subiecti estote cuiuis humanae creaturae propter dominum, sive regi tanquam prae
 cellenti: sive praesidibus, tanquam ab eo missis ad improbos supplicio, bonos autem
 laude afficiendos.
 
-Proverb. 14. | In numeroso populo consistit regis gloria: in paucitate autem populi abiectio et im//
+Proverb. 14. | In numeroso populo consistit regis gloria: in paucitate autem populi abiectio et im
 minutio principis est.
 
-Sirach 10. | Qualis populi iudex, tales eius ministri: et qualis est civitatis rector, tales sunt om//
+Sirach 10. | Qualis populi iudex, tales eius ministri: et qualis est civitatis rector, tales sunt om
 nes illius civitatis incolae.
 
 Vide ne tua laus in reprehensionem incurrat, et tempore honoris ne extollaris.
@@ -63,7 +63,7 @@ tales esse qui ducuntur necesse sit.
 
 Decet ut semper deteriori praestantior praesit.
 
-Praefectum non debet dignitas efferre, ne amittat beatitudinem animorum humi//
+Praefectum non debet dignitas efferre, ne amittat beatitudinem animorum humi
 litati promissam.
 
 Theologi. | Confusio reipublicae magistratu carentis signum est, ordo autem magistratum ostendit.

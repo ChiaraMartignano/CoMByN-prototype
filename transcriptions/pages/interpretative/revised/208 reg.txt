@@ -1,22 +1,22 @@
 208
 
-[c]Ex sententiis Epicteti et Isocratis.[/c]
+Ex sententiis Epicteti et Isocratis.
 
-Tum meliores fiunt homines, cum ad deum accedunt: illa autem deo similia ha//
+Tum meliores fiunt homines, cum ad deum accedunt: illa autem deo similia ha
 bent, beneficia praestare et vera dicere.
 
-Biantis. | Is cum aliquando una cum impiis quibusdam navigio veheretur, magnaque tempe//
+Biantis. | Is cum aliquando una cum impiis quibusdam navigio veheretur, magnaque tempe
 stas excitata esset, et illi deos invocarent: Silete, inquit, ne sentiant vos hic navigare.
-Eos qui a diis meliorem peterent mentem, nec se ipsi emendarent, stultos et hebe//
-tes esse dicebat: non enim pictorem precari a diis, ut lineam dent et elegantem colo//
-rem, nisi artem discat: neque ullam esse musicam propter preces et optata, nisi quae mu//
+Eos qui a diis meliorem peterent mentem, nec se ipsi emendarent, stultos et hebe
+tes esse dicebat: non enim pictorem precari a diis, ut lineam dent et elegantem colo
+rem, nisi artem discat: neque ullam esse musicam propter preces et optata, nisi quae mu
 sices sunt discantur. Eodem modo ne prudentem quidem ullum unquam evadere
 precando, nisi earum rerum disciplinam colat.
 
-[c]DE DOCTRINA ET SERMONE,[/c]
-[c]Sermo XV.[/c]
+DE DOCTRINA ET SERMONE,
+Sermo XV.
 
-Matth. 5. | Vere dico vobis, quisquis fecerit et docuerit, is magnus vocabitur in regno coe//
+Matth. 5. | Vere dico vobis, quisquis fecerit et docuerit, is magnus vocabitur in regno coe
 lorum.
 
 Iacobi 1. | Sit omnis homo velox ad audiendum, et tardus ad loquendum. Quod si quis in
@@ -30,7 +30,7 @@ Sirach 22. | Narratio stulti est quasi fascis in via: in labiis autem eius inven
 Ne contemnas sapientium narrationes, et in prouerbiis eorum verseris.
 
 S. Basilii. | Cavendum est ne verborum nimia multitudine ea reddamus inutilia, quae magno
-labore a nobis collecta sunt: mens enim fatigata debiliorque, quam ut omnia possit si//
+labore a nobis collecta sunt: mens enim fatigata debiliorque, quam ut omnia possit si
 mul complecti, eodem modo afficitur, quo venter qui propter nimiam saturitatem
 non possit cibos commissos concoquere.
 
@@ -40,17 +40,17 @@ At sine verbo inaniter sonante multi.
 
 Aut non docendum, aut morum exemplo docendum est.
 
-Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#gesner">_(Graecum exemplar ita corru_//
-_ptum est, ut possis etiam contrarium interpretari.)_</note>
+Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#gesner">(Graecum exemplar ita corru
+ptum est, ut possis etiam contrarium interpretari.)<note>
 
 Chrysostomi. | Tum discipuli utiliter aemulantur, cum a magistris praeclara habent exempla.
 
 Nili. | Supervacanea est omnis oratio ad correctionem, quum ad deterius auditorum
 propendens voluntas et studium, consultorum dictis adversatur.
 
-Didymi. | Tum aliquid perficit, et dicendo facit doctor, cum ex iis quae ipse agit, docet: secun/
-† Demosthenis,// | dum haec verba, Quemadmodum coepit lesus facere et docere.
-alias Demo// | Ut corpora modicis laboribus augescunt: sic animus honestis et seriis sermonibus.
+Didymi. | Tum aliquid perficit, et dicendo facit doctor, cum ex iis quae ipse agit, docet: secun
+† Demosthenis, | dum haec verba, Quemadmodum coepit lesus facere et docere.
+alias Demo | Ut corpora modicis laboribus augescunt: sic animus honestis et seriis sermonibus.
 
 criti. | † Ut in speculis vultus figura, sic in colloquiis animi character cernitur.
 
@@ -58,7 +58,7 @@ Clitarchi. | In conventu primo loco dicere ne contendas: nam post alios multos f
 utilia sint, cernere poteris.
 
 Moschionis | Trifariam nobiscum colloquentem considerare debemus, aut ut praestantiorem,
-aut inferiorem, aut aequalem: quod si praestantior fuerit, audi, et pare: si deterior, ne pa/
+aut inferiorem, aut aequalem: quod si praestantior fuerit, audi, et pare: si deterior, ne pa
 re: si aequalis, assentire.
 
 Demonactis. | Oratio quasi bonus figulus animi formam effingit et profert.

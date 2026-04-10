@@ -14,18 +14,18 @@ Quales in te vis illos esse.
 
 Chrysostomi. | Deus non solum cum beneficiis nos afficit, sed etiam cum suppliciis, bonus est et
 humanus. Nam illius etiam animadversiones et cruciatus magna pars beneficii sunt,
-quando et medicus est non modo cum in hortos et prata educit aegrotum, aut in bal//
-nea et piscinas: verum etiam cum inedia curat, cum secat, cum amara adhibet pharma//
+quando et medicus est non modo cum in hortos et prata educit aegrotum, aut in bal
+nea et piscinas: verum etiam cum inedia curat, cum secat, cum amara adhibet pharma
 ca, tum quoque medicus est aeque, magisque suam benevolentiam declarat.
 
 Greg Nyss. | Natura bonus, bona omnino libenter largitur.
 
 Proprium est bonorum, iuvare.
 
-Dionysii Areo/ | Nihil usquam omnibus modis bonitatis expers aut fuit aut futurum est, aut denique
+Dionysii Areo | Nihil usquam omnibus modis bonitatis expers aut fuit aut futurum est, aut denique
 pagitae. | esse potest.
 
-Menandri. | Non me mones quae te decent, nec me impulit ad officium sermo tuus, aut mo//
+Menandri. | Non me mones quae te decent, nec me impulit ad officium sermo tuus, aut mo
 res mei.
 
 Non improbam rem fecit unquam vir probus.
@@ -34,7 +34,7 @@ Nihil improbis permittendum omnino,
 Sed resistendum: sin secus, vita nostra nobis impudentibus
 Sursum ac deorsum versata evertetur.
 
-<choice><sic>Leucppes</sic><corr>Leucippes</corr></choice>. | Mansuetudo gratiam si adipiscatur, multo etiam magis augetur: contumelia au//
+<choice><sic>Leucppes<sic><corr>Leucippes<corr><choice>. | Mansuetudo gratiam si adipiscatur, multo etiam magis augetur: contumelia au
 tem affecta, ad iram commovetur.
 
 Multis opibus benignitas utilior est.
@@ -51,17 +51,17 @@ Quorum mores sunt bene compositi, eorum vita quoque simul moderata est.
 Posidippi. | Arte quidem familiares mihi multos
 Paravi, sed propter mores plurimos amicos.
 
-Themistocles. | Themistocles praedium cum venderet praeconem iussit dicere, bonum etiam habe/
+Themistocles. | Themistocles praedium cum venderet praeconem iussit dicere, bonum etiam habe
 re vicinum.
 
 Demosthenis. | Non tam oratio quam boni mores persuadere possunt.
 
-[c]DE LEGE, SERMO LVIII.[/c]
+DE LEGE, SERMO LVIII.
 
 Ioannis 8. | Iudicium meum verum est, quia solus non sum, sed ego et is qui me misit: et in lege
 vestra scriptum est, duorum hominum testimonium verum esse.
 
-Rom. 2. | Quicunque sine lege peccarunt, sine lege etiam peribunt: et quicunque in lege pecca//
+Rom. 2. | Quicunque sine lege peccarunt, sine lege etiam peribunt: et quicunque in lege pecca
 runt, per legem iudicabuntur.
 
 Solom. 29. | Legem nosse bonae mentis est.
@@ -69,6 +69,6 @@ Solom. 29. | Legem nosse bonae mentis est.
 Sirach 32. | Qui servat legem domini, cogitationem suam continet.
 
 S. Basilii. | Si rationis expertes animantes suae consulunt saluti et tuentur, et piscis quid fugiendum
-et sequendum sit, novit: quid dicemus nos qui rationis et orationis munere decorati su/
+et sequendum sit, novit: quid dicemus nos qui rationis et orationis munere decorati su
 mus, et legibus instituti, promissionibus invitati, spiritu docti, alienius tamen a ratione
 quod nostram salutem attinet, quam pisces rationis expartes affecti sumus, legi parere recusantes?
