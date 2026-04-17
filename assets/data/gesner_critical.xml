@@ -387,7 +387,7 @@
       <p>
         
         
-        <bibl type="source">Euripidis ex</bibl>
+        <bibl type="source">Euripidis ex Andromacha.</bibl>
         
         Bonorum virorum reliquias tempus non abolet, sed etiam defunctis eis virtus relucet.
       
@@ -395,15 +395,10 @@
       
       
       <p>
-        
-        
-        <bibl type="source">Andromacha.</bibl>
-        
         Multi mali divites sunt, boni autem pauperes.
         <lb/>Sed nos cum istorum divitiis virtutem
         <lb/>Nolimus mutare: quoniam haec semper firma est:
-        <lb/>>Pecunias autem bominum alias alius habet.
-      
+        <lb/>Pecunias autem bominum alias alius habet.      
       </p>
       
       
@@ -520,7 +515,7 @@
       <p>
         <bibl type="source">Sirach 22.</bibl>
         Ut compages        
-        <hi rend="italic">(vel, subscudes)</hi>        
+        <note type="translation" resp="#CG"><hi rend="italic">(vel, subscudes)</hi></note>        
         et iugamenta lignea aedificio indita concussu non dissolvuntur: sic animus perpenso consilio, nullo tempore pertimescet.
       </p>
       
@@ -601,7 +596,7 @@
         
         Insipiens eodem die iram suam enunciat. Omnis insipiens parvo etiam praeditus est animo: non enim est constans. 
         
-        <hi rend="italic">Hic aliquid deest.</hi>
+        <note type="translation" resp="#CG"><hi rend="italic">Hic aliquid deest.</hi></note>
         
       
       </p>
@@ -1001,11 +996,7 @@
     
       <pb n="185" xml:id="p185" facs="185.jpg"/>
       <p>
-        
-        
         <span rend="align-center">Iamblichi ex una epistolarum quae ab illo de temperantia scriptae sunt.</span>
-        
-      
       </p>
       
       
@@ -1491,16 +1482,14 @@
       <p>
         
         
-        <bibl type="source">Ex Plutarchi</bibl>
+        <bibl type="source">Ex Plutarchi Historiis.</bibl>
         
-        Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit:
-        
-        <bibl type="source">Historiis.</bibl>
-        
+        Darius Persarum rex cum trecentis militum milibus ad Marathonem castra posuit:        
         Athenienses mille adversus illos miserunt, quorum duces erant Polyzelus, Callimachus,
         Cynaegirus, et Miltiades: confligentibus autem excercitibus utrisque, Polyzelus
         visum admirabile ac supra hominem cum vidisset cernendi sensum amisit, caecusque
-        factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mortuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Undea Pantelio haec scripta esse dicuntur:
+        factus octo et quadraginta interfecit. Callimachus multis transfossus hastis etiam mortuus stabat. Cynaegiro navem, quae Persas vehebat, retinenti manus abscissa est. Unde
+        a Pantelio haec scripta esse dicuntur:
       
       </p>
       
@@ -1837,9 +1826,7 @@
         
         Si linguis hominum loquar et angelorum, charitate autem vacem, sum tanquam aes sonans aut cymbalum tinniens. 
         
-        <hi rend="italic">Et paulo post</hi>
-        
-        , Ac si omnia bona in alimentacontulero, corpusque meum exurendum tradidero sine charitate, nihil effeci.
+        <note type="translation" resp="#CG"><hi rend="italic">Et paulo post,</hi></note> Ac si omnia bona in alimenta contulero, corpusque meum exurendum tradidero sine charitate, nihil effeci.
       
       </p>
       
@@ -2939,10 +2926,8 @@
       <p>
         
         Idem discum ossibus refertum Diogeni philosopho Cynico misit: quem cum accepisset
-        Diogenes: Est quidem, inquit, cibus Cynicus, 
-        
-        <hi rend="italic">id est, caninus,</hi>
-        
+        Diogenes: Est quidem, inquit, cibus Cynicus,        
+        <note type="translation" resp="#CG"><hi rend="italic">id est, caninus,</hi></note>        
          sed donum minime regium.
       
       </p>
@@ -4239,10 +4224,8 @@
         
         <bibl type="source">Chrysostomi.</bibl>
         
-        O quanta dignitas paupertatis est? dei fit persona 
-        
-        <hi rend="italic">(vel dei sustinet personam)</hi>
-        
+        O quanta dignitas paupertatis est? dei fit persona        
+        <note type="translation" resp="#CG"><hi rend="italic">(vel dei sustinet personam)</hi></note>        
          latet in paupertate deus. Et pauper est qui manum protendit, sed deus est qui recipit.
       
       </p>
@@ -4737,7 +4720,7 @@
       <p>
         <bibl type="source">Demosthenis.</bibl>        
         Demosthenes cum animadvertisset avarum quendam efferri: Iste, inquit, cum vitam non vitalem vixerit, aliis vitam reliquit.        
-        <hi rend="italic">(Bios, Graecis et vitam et victum significat.)</hi>      
+        <note type="translation" resp="#CG"><hi rend="italic">(Bios, Graecis et vitam et victum significat.)</hi></note>      
       </p>
       
       
@@ -5332,8 +5315,7 @@
         
         <p>
           
-          Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#CG" type="translation">
-          
+          Dicere quae decet, minoris aestimandum est, quam audire. <note resp="#CG" type="translation">          
           <hi rend="italic">(Graecum exemplar ita corruptum est, ut possis etiam contrarium interpretari.)</hi></note>
         
         </p>
@@ -6767,11 +6749,8 @@
         <bibl type="source">Ex patribus.</bibl>
         
         Quatuor ex rebus ira nascitur, ex dandi ratione et accipiendi, ex eo quod quis suae
-        morem gerat voluntati, ex studio litium, et prudentiae opinione, 
-        
-        <hi rend="italic">id est ex eo quod quis se prudentem esse iudicat.</hi>
-        
-      
+        morem gerat voluntati, ex studio litium, et prudentiae opinione,        
+        <note type="translation" resp="#CG"><hi rend="italic">id est ex eo quod quis se prudentem esse iudicat.</hi></note>
       </p>
       
       
@@ -7350,7 +7329,7 @@
           <p>
             
             
-            <bibl type="source">lob.</bibl>
+            <bibl type="source">Iob.</bibl>
             
             Si conquiescas, nemo tibi bellum inferet: qui irridet magnam civitatis turbam, accusationem exactoris non audit.
             
@@ -10259,45 +10238,33 @@
         </p>
         
         
-        <p>
-          
-          
-          <bibl type="source">Solomonis.</bibl>
-          
-          Perfectus 
-          
-          <hi rend="italic">(vel, Defunctus, iuxta Hebraeos)</hi>
-          
-           paucis longa complevit tempora: placebat enim domino animus eius, quare ex media improbitate propere sublatus est.
-        
+        <p>          
+          <bibl type="source">Solomonis.</bibl>          
+          Perfectus           
+          <note type="translation" resp="#CG"><hi rend="italic">(vel, Defunctus, iuxta Hebraeos)</hi></note>
+          paucis longa complevit tempora: placebat enim domino animus eius, quare ex media improbitate propere sublatus est.        
         </p>
         
         
         <p>
-          
-          
-          <bibl type="source">Sirach 30.</bibl>
-          
-          Melior est mors, quam vita acerba, aut diuturnus morbus.
-        
+          <bibl type="source">Sirach 30.</bibl>          
+          Melior est mors, quam vita acerba, aut diuturnus morbus.        
         </p>
         
         
-        <p>Fili, super mortuos funde lachrymas, et luge ex ordine constituto unum diem, vel
+        <p>
+          Fili, super mortuos funde lachrymas, et luge ex ordine constituto unum diem, vel
           duos, vitandae calumniae causa: et consolare teipsum, et abducitor a dolore: scito enim
           nullum illis esse reditum: nec quicquam hac ratione profeceris, et teipsum afflixeris:
-          a dolore enim proficiscitur mors.</p>
+          a dolore enim proficiscitur mors.
+        </p>
         
         
-        <p>
-          
-          
-          <bibl type="source">S. Basilii.</bibl>
-          
+        <p>          
+          <bibl type="source">S. Basilii.</bibl>          
           Quemadmodum qui in navigiis dormiunt, a ventis ultro aguntur, etiam si nihil
           sentiant, sed cursus eos ad exitum et portum defert: sic et nos, tempore nostrae vitae
           praeterfluente, quasi motu quodam perpetuo et indefesso, ad suum quisque finem occulto cursu vitae nostrae festinamus.
-        
         </p>
         
         
@@ -13026,12 +12993,9 @@
         
         <bibl type="source">Demadis.</bibl>
         
-        Asclepiadeis 
-        
-        <hi rend="italic">(id est medicis)</hi>
-        
-         maior debetur gratia, qui imminentem morbum repellunt, quam iis qui iam occupantem sanant.
-      
+        Asclepiadeis         
+        <note type="translation" resp="#CG"><hi rend="italic">(id est medicis)</hi></note>        
+         maior debetur gratia, qui imminentem morbum repellunt, quam iis qui iam occupantem sanant.      
       </p>
         
         </div>
@@ -14563,10 +14527,8 @@
           
           <bibl type="source">Sirach 27.</bibl>
           
-          In concussione cribri remanent sordes? sic spurcitiae hominis in ratiocinatione ipsius. 
-          
-          <hi rend="italic">(Scilicet inhaerent, vel discernuntur ab ea)</hi>
-          
+          In concussione cribri remanent sordes? sic spurcitiae hominis in ratiocinatione ipsius.          
+          <note type="translation" resp="#CG"><hi rend="italic">(Scilicet inhaerent, vel discernuntur ab ea)</hi></note>          
           
         </p>
         
@@ -15021,7 +14983,7 @@
           <span rend="align-center">
             
             
-            <hi rend="italic">Deest hic sententia quaedam ex Evangelio.</hi>
+            <note type="translation" resp="#CG"><hi rend="italic">Deest hic sententia quaedam ex Evangelio.</hi></note>
             
           
           </span>
