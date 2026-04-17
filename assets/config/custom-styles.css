@@ -8,7 +8,7 @@
 }
 
 *[rend="align-center"] {
-    display: inline-block;
+    display: block;
     text-align: center !important;
     margin: 0;
     padding: 0;
