@@ -417,7 +417,7 @@
         <bibl type="source">Lycurgus.</bibl>
         
         Lycurgus legislator <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw2">αξιόχρεον</w>.        
+          <w xml:lang="grc" corresp="#grcw2">ἀξιόχρεον</w>.        
         </note> <w xml:id="grcw2">assiduum</w>
         esse dignumque cui debitum credas, in opibus: at
         fide dignum, in moribus situm esse dicebat.
@@ -1073,7 +1073,7 @@
         
         Si quae non decet, amas, quae decet non amabis: est enim inexplebilis cupiditas,
         ideoque <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw4">άπόρον</w>.        
+          <w xml:lang="grc" corresp="#grcw4">ἄπορον</w>.        
         </note> <w xml:id="grcw4">infinita</w>.
       
       </p>
@@ -1315,7 +1315,7 @@
         inter se tamen plurimum disiuncta sunt significatu) et fortitudinem esse dicimus et
         timiditatem: nam in loco confidere, fortitudinis est, ut contra diffidere et cedere timiditatis. In maius autem periculum se offerre, et irruere, nec se retrahere, temeritatis et
         audaciae est: declinare et retrocedere, <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw8">ασφαλείας</w>.
+          <w xml:lang="grc" corresp="#grcw8">ἀσφαλείας</w>.
         </note> <w xml:id="grcw8">securitatis</w>.
       
       </p>
@@ -3379,7 +3379,7 @@
         <bibl type="source">Isocratis.</bibl>
         
         Fac sis <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw9">άρχικος</w>.
+          <w xml:lang="grc" corresp="#grcw9">ἀρχικός</w>.
         </note> <w xml:id="grcw9">dignus</w> magistratu, non asperitate, nec severius puniendo: sed talem te gerendo, ut consilio tuo omnes vincantur, et cedant.
       
       </p>
@@ -3924,7 +3924,7 @@
         <p>
           
           Ut <note type="translation" resp="#CG">
-            <w xml:lang="grc" corresp="#grcw10">κόρακες</w>.            
+            <w xml:lang="grc" corresp="#grcw10">κόρακες</w>.            
           </note> <w xml:id="grcw10">corvi</w> involantes cadaverum oculos effodiunt: sic 
           <note type="translation" resp="#CG">
             <w xml:lang="grc" corresp="#grcw11">κόλακες</w>.
@@ -4210,7 +4210,7 @@
         
         Praestat paupertas non iustae possessioni: sic etiam morbus praeoptandus est quam
         mala <choice><sic>coporis</sic><corr>corporis</corr></choice> <note type="translation" resp="#CG">
-         <w xml:lang="grc" corresp="#grcw14">ένεξία</w>.         
+         <w xml:lang="grc" corresp="#grcw14">εὐεξία</w>.         
        </note> <w xml:id="grcw14">pinguitudo</w>.
       
       </p>
@@ -5114,7 +5114,7 @@
       
       <p>
         Saepenumero deus differt, quae petimus dare: non quia velit nos <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw16">προσελκύσαι</w>.        
+          <w xml:lang="grc" corresp="#grcw16">παρελκῦσαι</w>.        
         </note> <w xml:id="grcw16">praeterire</w>, sed ut
         cunctatione donandi, assiduitatem orandi perpetuam doceat. Sic enim et liberorum
         amantes patres in liberos negligentes se gerunt, quos ad lusus pueriles currentes saepe
@@ -5454,7 +5454,7 @@
       
       <p>
         Non ex verbis res, sed ex rebus verba sunt <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw17">ἀεὶ κρατεῖν</w>.          
+          <w xml:lang="grc" corresp="#grcw17">δεῖ κρατεῖν</w>.          
         </note> <w xml:id="grcw17">tenenda</w>: non enim propter verba resperficiuntur, sed ex rebus verba.
       
       </p>
@@ -5523,7 +5523,7 @@
         <bibl type="source">Hieronis.</bibl>
         
         Hic <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw18">άκρόασιν</w>
+          <w xml:lang="grc" corresp="#grcw18">ἀκρόασιν</w>
           <w xml:lang="grc" corresp="#grcw19">ποιούμενος</w>
         </note> <w xml:id="grcw19">facta</w> sibi <w xml:id="grcw18">audientia</w>, tria sibi proposita esse dicebat, intelligentes iuvare, imperitos docere, invidos afficere dolore.
       
@@ -5932,7 +5932,7 @@
         <bibl type="source">Socratis.</bibl>
         
         Urbes <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw20">άναθύμασι</w>.          
+          <w xml:lang="grc" corresp="#grcw20">ἀναθήμασι</w>.          
         </note> <w xml:id="grcw20">donariis</w>, animi autem disciplinis ornandi.
       
       </p>
@@ -6118,9 +6118,9 @@
       <p>
         
         Idem dicebat doctorum libros esse <note resp="#CG" type="translation">
-          <w corresp="#grcw0" xml:lang="grc">πρoμυήματα</w>
+          <w corresp="#grcw0" xml:lang="grc">ὑπομνήματα</w>
         </note> <w xml:id="grcw0">commentaria</w>, indoctorum vero <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw21">μύηματα</w>.          
+          <w xml:lang="grc" corresp="#grcw21">μνήματα</w>.          
         </note> <w xml:id="grcw21">monimenta</w>.
       
       </p>
@@ -6129,7 +6129,7 @@
       <p>
         
         Idem dicebat, mentem esse <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#">παραίτιου</w>
+          <w xml:lang="grc" corresp="#">παραίτιον</w>
           <w xml:lang="grc" corresp="#grcw22">δαίμονα</w>.
         </note> <w xml:id="grcw22">genium</w>, eruditis bonum, ineruditis malum.
       
@@ -6321,9 +6321,9 @@
         <bibl type="source">Plutarchi.</bibl>
         
         In ebrietatibus plurimi <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw23">παροινουσι</w>.          
+          <w xml:lang="grc" corresp="#grcw23">παροινοῦσι</w>.          
         </note> <w xml:id="grcw23">bacchantur</w>, in miseriis et calamitatibus <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw24 #grcw25">παρανοουσι</w>.          
+          <w xml:lang="grc" corresp="#grcw24 #grcw25">παρανοοῦσι</w>.          
         </note> <w xml:id="grcw24">mente</w> <w xml:id="grcw25">moventur</w>.
       
       </p>
@@ -6580,7 +6580,7 @@
         Idem dicebat <note type="translation" resp="#CG">
           <w xml:lang="grc" corresp="#grcw26">παθήματα</w>.          
         </note> <w xml:id="grcw26">mala</w> hominibus vitae esse <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw27">μαθηματα</w>.          
+          <w xml:lang="grc" corresp="#grcw27">μαθήματα</w>.          
         </note> <w xml:id="grcw27">documenta</w>. Nam multi cum ratione futura providere non possint, ferendo sentiunt praesentia.
       
       </p>
@@ -7398,7 +7398,7 @@
         <bibl type="source">Evagrif.</bibl>
         
         Praestat in <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#">επι</w> <w xml:lang="grc" corresp="#grcw29">στιβάδος</w>.
+          <w xml:lang="grc" corresp="#">ἐπὶ</w> <w xml:lang="grc" corresp="#grcw29">στιβάδος</w>.
         </note> <w xml:id="grcw29">storea</w> cum fiducia iacere, quam in lecto aureo perturbari.
       
       </p>
@@ -9107,7 +9107,7 @@
         
         Et pauperes quidem hoc modo vivunt: nos autem splendidi splendide accubabimus, in lectis mollibus et sublimibus, et excellentibus,
         et <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw34">άψαύστων</w>
+          <w xml:lang="grc" corresp="#grcw34">ἀψαύστων</w>
         </note> <w xml:id="grcw34">pretiosis</w> stragulis. Illis aquae potus est satis: nobis autem ad ebrietatem usque vini crateres, immo et supra ebrietatem
         intemperantioribus dantur. Vina alia in vini numero non habemus, alia <note type="translation" resp="#CG">
           <w xml:lang="grc" corresp="#grcw35 #grcw36">ἀνθοσμίαν</w>.          
@@ -10950,7 +10950,7 @@
           <bibl type="source">Chrysostomi.</bibl>
           
           Grave est pauperem ducere uxorem, graue quoque divitem: illud enim viri <note type="translation" resp="#CG">
-            <w xml:lang="grc" corresp="#grcw37">όυσιαν</w>.          
+            <w xml:lang="grc" corresp="#grcw37">οὐσίαν</w>.          
           </note> <w xml:id="grcw37">bonis</w> nocet, hoc vero authoritati et libertati.
         
         </p>
@@ -12204,7 +12204,7 @@
           Plantae capiunt a radice incrementum, gloria vero
           <note type="translation" resp="#CG">
             <w xml:lang="grc" corresp="#">ἀπό</w>
-            <w xml:lang="grc" corresp="#">τινος</w>
+            <w xml:lang="grc" corresp="#">τῆς</w>
             <w xml:lang="grc" corresp="#">πρώτης</w>
             <w xml:lang="grc" corresp="#">λήψεως</w>, alias <w xml:lang="grc" corresp="#">λίξεως</w>.
           </note> a prima sumptione augetur.
@@ -12319,7 +12319,7 @@
         <p>
           In multis lignis viget ignis: os autem detectum
           <note type="translation" resp="#CG">
-            <w xml:lang="grc" corresp="#grcw43"><sic>ὰκατασασίαν</sic><corr>άκαταστασίαν</corr></w>
+            <w xml:lang="grc" corresp="#grcw43"><sic>ἀκαταστασίαν</sic><corr>άκαταστασίαν</corr></w>
           </note> <w xml:id="grcw43">seditionem</w> concitat.
         </p>
         
@@ -12644,7 +12644,7 @@
           <bibl type="source">Beati Ephraim</bibl>
           
           Mundum deus toleranter et patienter inspicit, futura <note type="translation" resp="#CG">
-            <w xml:lang="grc" corresp="#grcw45">ἀνιττομενος</w>
+            <w xml:lang="grc" corresp="#grcw45">αἰνιττόμενος</w>
           </note> <w xml:id="grcw45">obscure</w> significans,
           et praesens malum terminis concludens, et improbitatem praeceptis suis refrenans, per conscientiam vero sceleratas et maliciosas cogitationes puniens.
         
@@ -13192,7 +13192,7 @@
         
         Memoriae ipsum vocabulum indicat in animo manere eam non moveri.        
         <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#">Μυνήμῃ</w>
+          <w xml:lang="grc" corresp="#">μνήμη</w>
           <w xml:lang="grc" corresp="#">παρὰ</w>
           <w xml:lang="grc" corresp="#">τὸ</w>
           <w xml:lang="grc" corresp="#">μένειν</w>.
@@ -13203,7 +13203,7 @@
       
       <p>
         Receptaculum phantasmatum memoriam vocari, eorumque <note type="translation" resp="#CG">          
-          <w xml:lang="grc" corresp="#grcw47">άναπόλκσιν</w>.        
+          <w xml:lang="grc" corresp="#grcw47">ἀναπόλησιν</w>.        
         </note> <w xml:id="grcw47">agitationem</w> recordationem: et tardos fere meliore praeditos esse memoria: celeres autem et dociles, in reminiscendo feliciores.
       
       </p>
@@ -13361,7 +13361,7 @@
         <bibl type="source">Moschionis.</bibl>
         
         Omnibus mortalibus et terrestribus amissis, <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw48">ένα</w>.          
+          <w xml:lang="grc" corresp="#grcw48">ἕνα</w>.          
         </note> <w xml:id="grcw48">unum</w> aliquid immortale et coeleste
         comparare praeoptato.
       
@@ -13837,7 +13837,7 @@
         
         Qui sponte in miseriis versatur, bona quadam spe laboribus laetatur: At
         <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw49">ῥαδιουργίαι</w>
+          <w xml:lang="grc" corresp="#grcw49">ῥᾳδιουργία</w>
         </note> <w xml:id="grcw49"></w>negligentia et momentaneae voluptates, neque corporis bonam constitutionem efficere possunt,
         neque animi ullam memoratu dignam scientiam ingenerant.
       
@@ -13974,7 +13974,7 @@
         Invenies formae sic tua principia.
         <note type="translation" resp="#CG">
           <w xml:lang="grc">ῥεῖα</w> <w xml:lang="grc">κὲν</w>
-          <w xml:lang="grc">ὥδε</w> <w xml:lang="grc">τύχης</w>
+          <w xml:lang="grc">ὧδε</w> <w xml:lang="grc">τύχης</w>
           <w xml:lang="grc">κάλλεος</w> <w xml:lang="grc">ἀρχετύπου</w>.
         </note>
       
@@ -15125,7 +15125,7 @@
         
         Persae quod facere non licet, ne dicendum quidem putant: quod si patrem occiderit
         aliquis, <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw50">λιτόν</w>.          
+          <w xml:lang="grc" corresp="#grcw50">λιτὸν</w>.          
         </note> <w xml:id="grcw50">simplicem</w> eum iudicant: si quem rex flagris caedi iusserit, gratias agit quasi
         aliquod bonum sit nactus quod sui rex meminerit: praemia pro liberorum multitudine accipiunt a rege. Liberi apud illos verum dicere, tanquam disciplinas discunt.
       
@@ -15472,7 +15472,7 @@
         <bibl type="source">Ex Epicteti sententiis.</bibl>
         
         Nimium fuge risum, et risum movere caveto: est enim locus hic lubricus, <note type="translation" resp="#CG">
-          <w xml:lang="grc" corresp="#grcw51">εὶς</w>
+          <w xml:lang="grc" corresp="#grcw51">εἰς</w>
           <w xml:lang="grc" corresp="#grcw52">ἰδιωτισμόν</w>
         </note> <w xml:id="grcw51">ad</w> <w xml:id="grcw52">vulgi</w> ineptias.
       
