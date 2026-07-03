@@ -82,103 +82,122 @@
         </p>        
         
         <p xml:id="EP_c1_p3" n="3">
-          <bibl type="source"><choice><abbr>Solomonis.</abbr><expan></expan></choice></bibl>
+          <bibl type="source">
+            <choice>
+              <abbr>Solomonis.</abbr>
+              <expan>Solomonis.</expan>
+            </choice>
+          </bibl>
           Virtutis quidem signum nullum ostendere possumus: in vitio autem consumpti sumus.
         </p>
         
         
-        <p xml:id="EP_c_p" n="">
-          
-          
-          <bibl type="source"><choice><abbr>Eiusdem.</abbr><expan></expan></choice></bibl>
-          
+        <p xml:id="EP_c1_p4" n="4">
+          <bibl type="source">
+            <choice>
+              <abbr>Eiusdem.</abbr>
+              <expan></expan>
+            </choice>
+          </bibl>          
           Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retrahe pedem tuum a semitis illorum, quod pedes ipsorum ad vitia currant.
+        </p>        
         
-        </p>
+        <p xml:id="EP_c1_p5" n="5">
+          Qui rem aliquam contemnit, contemnetur ab ipsa.
+        </p>        
         
+        <p xml:id="EP_c1_p6" n="6">
+          Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis violatio violatoribus.
+        </p>        
         
-        <p xml:id="EP_c_p" n="">Qui rem aliquam contemnit, contemnetur ab ipsa.</p>
+        <p xml:id="EP_c1_p7" n="7">
+          <bibl type="source">
+            <choice>
+              <abbr>Sirach.</abbr>
+              <expan></expan>
+            </choice> 7.
+          </bibl>          
+          Noli mala facere, et te mala non apprehendent.        
+        </p>        
         
+        <p xml:id="EP_c1_p8" n="8">
+          Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
+        </p>        
         
-        <p xml:id="EP_c_p" n="">Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis violatio violatoribus.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">
-          
-          
-          <bibl type="source"><choice><abbr>Sirach. 7.</abbr><expan></expan></choice></bibl>
-          
-          Noli mala facere, et te mala non apprehendent.
-        
-        </p>
-        
-        
-        <p xml:id="EP_c_p" n="">Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">
-          
-          
-          <bibl type="source"><choice><abbr>Basilii.</abbr><expan></expan></choice></bibl>
-          
+        <p xml:id="EP_c1_p9" n="9">
+          <bibl type="source">
+            <choice>
+              <abbr>Basilii.</abbr>
+              <expan></expan>
+            </choice>
+          </bibl>          
           Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actiones necessario sequitur aliquod emolumentum.
-        
         </p>
         
+        <p xml:id="EP_c1_p10" n="10">
+          Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredientibus spectaculum.
+        </p>
         
-        <p xml:id="EP_c_p" n="">Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredientibus spectaculum.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">
-          
-          
-          <bibl type="source"><choice><abbr>Theologi.</abbr><expan></expan></choice></bibl>
-          
+        <p xml:id="EP_c1_p11" n="11">
+          <bibl type="source">
+            <choice>
+              <abbr>Theologi.</abbr>
+              <expan></expan>
+            </choice>
+          </bibl>
           Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam superans.
+        </p>        
         
+        <p xml:id="EP_c1_p12" n="12">
+          Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.
+        </p>        
+        
+        <p xml:id="EP_c1_p13" n="13">
+          Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
+          ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et a sua ipsa prole, videlicet flammis, consumuntur.
         </p>
         
+        <p xml:id="EP_c1_p14" n="14">
+          Non est admodum facile virtutum victricem invenire, atque huic dare munera honoraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
+          vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratumet aspectum ad se trahat, et ad se decerpendum primum invitet.
+        </p>
         
-        <p xml:id="EP_c_p" n="">Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
-          ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et a sua ipsa prole, videlicet flammis, consumuntur.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">Non est admodum facile virtutum victricem invenire, atque huic dare munera honoraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
-          vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratumet aspectum ad se trahat, et ad se decerpendum primum invitet.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">
-          
-          
-          <bibl type="source"><choice><abbr>Chrysostomi</abbr><expan></expan></choice></bibl>
-          
+        <p xml:id="EP_c1_p15" n="15">
+          <bibl type="source">
+            <choice>
+              <abbr>Chry<!-- i? -->sostomi</abbr>
+              <expan></expan>
+            </choice>
+          </bibl>
           Non potest fieri quin virtutis studiosus multos habeat hostes.
+        </p>
         
+        <p xml:id="EP_c1_p16" n="16">
+          Non locus virtutem, sed virtus locum augustiorem reddere solet.
+        </p>
+        
+        <p xml:id="EP_c1_p17" n="17">
+          Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
+          magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?
         </p>
         
         
-        <p xml:id="EP_c_p" n="">Non locus virtutem, sed virtus locum augustiorem reddere solet.</p>
-        
-        
-        <p xml:id="EP_c_p" n="">Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
-          magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?</p>
-        
-        
-        <p xml:id="EP_c_p" n="">Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi <!--pb n="180" xml:id="p180" facs="180.jpg"/-->percurrendi sunt numerose et decenter: sic et in animi virtute non satis est nobis ad
-          salutem lex una, sed universae summa cum diligentia observandae sunt.</p>
+        <p xml:id="EP_c1_p18" n="18">
+          Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi <!--pb n="180" xml:id="p180" facs="180.jpg"/-->percurrendi sunt numerose et decenter: sic et in animi virtute non satis est nobis ad
+          salutem lex una, sed universae summa cum diligentia observandae sunt.
+        </p>
       
+      <p xml:id="EP_c1_p19" n="19">
+        Ne igitur dicamus hunc natura bonum, et illum natura malum. Si enim natura bonus est, nunquam poterit fieri malus: et si natura malus, nunquam fiet bonus.
+      </p>
       
-      <p xml:id="EP_c_p" n="">Ne igitur dicamus hunc natura bonum, et illum natura malum. Si enim natura bonus est, nunquam poterit fieri malus: et si natura malus, nunquam fiet bonus.</p>
+      <p xml:id="EP_c1_p20" n="20">
+        Mali quies principium est motionis ad virtutem.
+      </p>
       
-      
-      <p xml:id="EP_c_p" n="">Mali quies principium est motionis ad virtutem.</p>
-      
-      
-      <p xml:id="EP_c_p" n="">Non sustinent tenebrae lucis praesentiam, non morbus valetudine recuperata consistit, nihil agunt perturbationes si adsit tranquillitas et perturbationum vacuitas.</p>
-      
+      <p xml:id="EP_c1_p21" n="21">
+        Non sustinent tenebrae lucis praesentiam, non morbus valetudine recuperata consistit, nihil agunt perturbationes si adsit tranquillitas et perturbationum vacuitas.
+      </p>
       
       <p xml:id="EP_c_p" n="">Liberam esse convenit ab omni metu virtutem et dominatu.</p>
       
@@ -498,7 +517,7 @@
       
       </div>
       
-      <div type="chapter" n="2" xml:id="EPchap2">        
+      <div type="chapter" n="2" xml:id="EP_c2">        
         
         <head rend="align-center bold">
           DE PRUDENTIA ET CONSILIO, SERMO II.
@@ -842,7 +861,7 @@
         
       </div>
       
-      <div type="chapter" n="3" xml:id="EPchap3">        
+      <div type="chapter" n="3" xml:id="EP_c3">        
         
         <head rend="align-center bold">DE CASTITATE ET TEMPERANTIA, Sermo III.</head>
       
@@ -1251,7 +1270,7 @@
         
         </div>
       
-      <div type="chapter" n="4" xml:id="EPchap4">
+      <div type="chapter" n="4" xml:id="EP_c4">
         
         
         <head rend="align-center bold">DE FORTITUDINE ET ROBORE, Sermo IIII.</head>
@@ -1518,7 +1537,7 @@
       
       
       </div>
-        <div type="chapter" n="5" xml:id="EPchap5">
+        <div type="chapter" n="5" xml:id="EP_c5">
         
         
         <head  rend="align-center">DE IUSTITIA, SERMO V.</head>
@@ -1816,7 +1835,7 @@
       </p>
           
       </div>
-      <div type="chapter" n="6" xml:id="EPchap6">
+      <div type="chapter" n="6" xml:id="EP_c6">
         
         
         <head rend="align-center bold">DE AMICIS ET FRATERNA DILECTIONE, Sermo VI.</head>
@@ -2444,7 +2463,7 @@
         </div>
       
       
-      <div type="chapter" n="7" xml:id="EPchap7">
+      <div type="chapter" n="7" xml:id="EP_c7">
         
         
         <head rend="align-center bold">DE ELEEMOSYNA, SERMO VII.</head>
@@ -2703,7 +2722,7 @@
         
       </div>
       
-      <div type="chapter" n="8" xml:id="EPchap8">
+      <div type="chapter" n="8" xml:id="EP_c8">
       
       
       <head rend="align-center bold">DE BENEFICENTIA ET GRATIA, Sermo VIII.</head>      
@@ -3049,7 +3068,7 @@
       
       </p>
         </div>
-      <div type="chapter" n="9" xml:id="EPchap9">
+      <div type="chapter" n="9" xml:id="EP_c9">
       
       
       <head rend="align-center bold">DE MAGISTRATU ET POTESTATE, Sermo IX.</head>
@@ -3490,7 +3509,7 @@
       </p>
         
       </div>
-        <div type="chapter" n="10" xml:id="EPchap10">
+        <div type="chapter" n="10" xml:id="EP_c10">
       
       
       <head  rend="align-center">DE VITUPERATIONE ET CALUMNIA, Sermo X.</head>
@@ -3812,7 +3831,7 @@
         Quippe qui totum auditorem suum reddat et occupet, eiusque aures obturet, et posteriori sermoni clausas reddat calumnia iam repletas.</p>
       
       </div>
-      <div type="chapter" n="11" xml:id="EPchap11">
+      <div type="chapter" n="11" xml:id="EP_c11">
         
         
         <head rend="align-center bold">DE ADULATIONE, SERMO XI.</head>
@@ -4116,7 +4135,7 @@
       </p>
         
         </div>
-        <div type="chapter" n="12" xml:id="EPchap12">
+        <div type="chapter" n="12" xml:id="EP_c12">
       
       
       <head rend="align-center bold">DE DIVITIIS, PAUPERTATE, ET AVARITIA, Sermo XII.</head>
@@ -4798,7 +4817,7 @@
         </div>
       
       
-      <div type="chapter" n="13" xml:id="EPchap13">
+      <div type="chapter" n="13" xml:id="EP_c13">
         
         
         <head rend="align-center bold">DE VIRTUTE QUA QUIS REBUS SUIS CONtentus est, Sermo XIII.</head>
@@ -5026,7 +5045,7 @@
         </div>
       
       
-      <div type="chapter" n="14" xml:id="EPchap14">
+      <div type="chapter" n="14" xml:id="EP_c14">
         
         
         <head rend="align-center bold">DE PRECATIONE. SERMO XIIII.</head>
@@ -5256,7 +5275,7 @@
       
       </div>
       
-      <div type="chapter" n="15" xml:id="EPchap15">
+      <div type="chapter" n="15" xml:id="EP_c15">
         
         
         <head rend="align-center bold">DE DOCTRINA ET SERMONE, Sermo XV.</head>
@@ -5558,7 +5577,7 @@
       
       </div>
       
-      <div type="chapter" n="16" xml:id="EPchap16">
+      <div type="chapter" n="16" xml:id="EP_c16">
         
         
         <head rend="align-center bold">DE ADMONITIONE, SERMO XVI.</head>
@@ -5743,7 +5762,7 @@
         
       </div>
       
-      <div type="chapter" n="17" xml:id="EPchap17">
+      <div type="chapter" n="17" xml:id="EP_c17">
       
       
       <head rend="align-center bold">DE ERUDITIONE ET PHILOSOPHIA, Sermo XVII.</head>
@@ -6209,7 +6228,7 @@
       
       </div>
         
-      <div type="chapter" n="18" xml:id="EPchap18">
+      <div type="chapter" n="18" xml:id="EP_c18">
         
         
         <head rend="align-center bold">DE FELICITATE ET INFELICITATE, Sermo XVIII.</head>
@@ -6638,7 +6657,7 @@
       </div>
       
       
-      <div type="chapter" n="19" xml:id="EPchap19">
+      <div type="chapter" n="19" xml:id="EP_c19">
         
         
         <head rend="align-center bold">DE IRA ET FURORE, SERMO XIX.</head>
@@ -7007,7 +7026,7 @@
       
       </div>
         
-      <div type="chapter" xml:id="EPchap20" n="20">
+      <div type="chapter" xml:id="EP_c20" n="20">
         
         
         <head rend="align-center bold">DE TACITURNITATE ET ARCANIS, Sermo XX.</head>
@@ -7313,7 +7332,7 @@
       
       </div>
         
-        <div type="chapter" n="21" xml:id="EPchap21">
+        <div type="chapter" n="21" xml:id="EP_c21">
         
         
         <head rend="align-center bold">DE CURIOSITATE VEL DISTRACTIONE IN mundi negotiis, et quiete vel tranquillitate, Sermo XXI.</head>
@@ -7532,7 +7551,7 @@
       
       </div>
         
-      <div type="chapter" n="22" xml:id="EPchap22">
+      <div type="chapter" n="22" xml:id="EP_c22">
         
         
         <head rend="align-center bold">DE AVARITIA, SERMO XXII.</head>
@@ -7741,7 +7760,7 @@
       
       </div>
         
-        <div type="chapter" n="23" xml:id="EPchap23">
+        <div type="chapter" n="23" xml:id="EP_c23">
         
         
         <head rend="align-center bold">DE HONORE PARENTUM, ET LIBERORUM amore, Sermo XXIII.</head>
@@ -7975,7 +7994,7 @@
       
       </div>
       
-      <div type="chapter" n="24" xml:id="EPchap24">
+      <div type="chapter" n="24" xml:id="EP_c24">
         
         
         <head rend="align-center bold">DE METU, SERMO XXIIII.</head>
@@ -8132,7 +8151,7 @@
       
       </div>
       
-      <div type="chapter" n="25" xml:id="EPchap25">
+      <div type="chapter" n="25" xml:id="EP_c25">
         
         
         <head rend="align-center bold">DE IIS QUI FACILE MUTANTUR ET AD vitia redeunt, item de poenitentia, Sermo XXV.</head>
@@ -8271,7 +8290,7 @@
       
       </div>
         
-        <div type="chapter" n="26" xml:id="EPchap26">
+        <div type="chapter" n="26" xml:id="EP_c26">
         
         
         <head rend="align-center bold">DE PECCATO ET CONFESSIONE Sermo XXVI.</head>
@@ -8500,7 +8519,7 @@
       </div>
       
       
-      <div type="chapter" n="27" xml:id="EPchap27">
+      <div type="chapter" n="27" xml:id="EP_c27">
         
         
         <head rend="align-center bold">DE INCONTINENTIA ET GULOSITATE, Sermo XXVII.</head>
@@ -8737,7 +8756,7 @@
         </div>
       
       
-      <div type="chapter" n="28" xml:id="EPchap28">
+      <div type="chapter" n="28" xml:id="EP_c28">
         
         
         <head rend="align-center bold">DE DOLORE ET TRISTITIA, SERMO XXVIII.</head>
@@ -8915,7 +8934,7 @@
       
       </div>
       
-      <div type="chapter" n="29" xml:id="EPchap29">
+      <div type="chapter" n="29" xml:id="EP_c29">
         
         
         <head rend="align-center bold">DE SOMNO, SERMO XXIX.</head>
@@ -9042,7 +9061,7 @@
       </div>
       
       
-      <div type="chapter" n="30" xml:id="EPchap30">
+      <div type="chapter" n="30" xml:id="EP_c30">
         
         
         <head rend="align-center bold">DE EBRIETATE, SERMO XXX.</head>
@@ -9278,7 +9297,7 @@
         
       </div>      
       
-      <div type="chapter" n="31" xml:id="EPchap31">
+      <div type="chapter" n="31" xml:id="EP_c31">
         
         
         <head rend="align-center bold">DE LIBERTATE LOQUENDI, ET REDARgutione, Sermo XXXI.</head>
@@ -9468,7 +9487,7 @@
       
       </div>
         
-      <div type="chapter" xml:id="EPchap32" n="32">
+      <div type="chapter" xml:id="EP_c32" n="32">
         
         
         <head rend="align-center bold">DE LABORE ET INDUSTRIA, Sermo XXXII.</head>
@@ -9667,7 +9686,7 @@
      </div>
       
       
-      <div type="chapter" n="33" xml:id="EPchap33">
+      <div type="chapter" n="33" xml:id="EP_c33">
         
         
         <head rend="align-center bold">DE IUREIURANDO, SERMO XXXIII.</head>
@@ -9804,7 +9823,7 @@
       
       </div>
       
-      <div type="chapter" n="34" xml:id="EPchap34">
+      <div type="chapter" n="34" xml:id="EP_c34">
         
         
         <head rend="align-center bold">DE INANI GLORIA, SERMO XXXIIII.</head>
@@ -10031,7 +10050,7 @@
       
       </div>
       
-      <div type="chapter" n="35" xml:id="EPchap35">
+      <div type="chapter" n="35" xml:id="EP_c35">
         
         
         <head rend="align-center bold">DE VERITATE ET MENDACIO, Sermo XXXV.</head>
@@ -10223,7 +10242,7 @@
       </div>
       
       
-      <div type="chapter" n="36" xml:id="EPchap36">
+      <div type="chapter" n="36" xml:id="EP_c36">
         
         
         <head rend="align-center bold">DE MORTE, SERMO XXXVI.</head>
@@ -10534,7 +10553,7 @@
       </div>
       
       
-      <div type="chapter" n="37" xml:id="EPchap37">
+      <div type="chapter" n="37" xml:id="EP_c37">
         
         
         <head rend="align-center bold">DE PACE ET BELLO, SERMO XXXVII.</head>
@@ -10681,7 +10700,7 @@
       
       </div>
       
-      <div type="chapter" n="38" xml:id="EPchap38">
+      <div type="chapter" n="38" xml:id="EP_c38">
         
         
         <head rend="align-center bold">DE SPE, SERMO XXXVIII.</head>
@@ -10877,7 +10896,7 @@
         </div>
       
       
-      <div type="chapter" n="39" xml:id="EPchap39">
+      <div type="chapter" n="39" xml:id="EP_c39">
         
         
         <head rend="align-center bold">DE MULIERIBUS, SERMO XXXIX.</head>
@@ -11064,7 +11083,7 @@
       
       </div>
         
-        <div type="chapter" xml:id="EPchap40" n="40">
+        <div type="chapter" xml:id="EP_c40" n="40">
         
         
         <head rend="align-center bold">DE CONTRADICTIONE, ET AUDACIA, et contentione, Sermo XL.</head>
@@ -11264,7 +11283,7 @@
           
       
       </div>
-          <div type="chapter" n="41" xml:id="EPchap41">
+          <div type="chapter" n="41" xml:id="EP_c41">
         
         
         <head rend="align-center bold">DE SENECTUTE ET IUVENTUTE, Sermo XLI.</head>
@@ -11514,7 +11533,7 @@
       <p xml:id="EP_c_p" n="">Robur et pulchritudo iuventutis bonum est, senectus autem prudentiae flos.</p>
       
       </div>
-      <div type="chapter" n="42" xml:id="EPchap42">
+      <div type="chapter" n="42" xml:id="EP_c42">
         
         <head>
           
@@ -11678,7 +11697,7 @@
       </p>
       
       </div>
-      <div type="chapter" n="43" xml:id="EPchap43">
+      <div type="chapter" n="43" xml:id="EP_c43">
         
         
         <head rend="align-center bold">DE LAUDE, SERMO XLIII.</head>
@@ -11829,7 +11848,7 @@
       </div>
       
       
-      <div type="chapter" n="44" xml:id="EPchap44">
+      <div type="chapter" n="44" xml:id="EP_c44">
         
         
         <head rend="align-center bold">DE PULCHRITUDINE, SERMO XLIIII.</head>
@@ -11999,7 +12018,7 @@
       
       </div>
       
-      <div type="chapter" n="45" xml:id="EPchap45">
+      <div type="chapter" n="45" xml:id="EP_c45">
         
         
         <head rend="align-center bold">DE FUTURO IUDICIO, SERMO XLV.</head>
@@ -12130,7 +12149,7 @@
         </div>
       
       
-      <div type="chapter" n="46" xml:id="EPchap46">
+      <div type="chapter" n="46" xml:id="EP_c46">
         
         
         <head rend="align-center bold">DE GLORIA, SERMO XLVI.</head>
@@ -12281,7 +12300,7 @@
         </div>
       
       
-      <div type="chapter" n="47" xml:id="EPchap47">
+      <div type="chapter" n="47" xml:id="EP_c47">
         
         
         <head rend="align-center bold">DE LOQUACITATE, SERMO XLVII.</head>
@@ -12558,7 +12577,7 @@
       </div>
       
       
-      <div type="chapter" n="48" xml:id="EPchap48">
+      <div type="chapter" n="48" xml:id="EP_c48">
         
         
         <head rend="align-center bold">DE PROVIDENTIA, SERMO XLVIII.</head>
@@ -12737,7 +12756,7 @@
       
       </div>
         
-        <div type="chapter" n="49" xml:id="EPchap49">
+        <div type="chapter" n="49" xml:id="EP_c49">
         
         
         <head rend="align-center bold">DE ANIMI ABIECTIONE, AUT HUMILITATE, Sermo XLIX.</head>
@@ -12858,7 +12877,7 @@
           </div>
       
       
-      <div type="chapter" n="50" xml:id="EPchap50">
+      <div type="chapter" n="50" xml:id="EP_c50">
         
         
         <head rend="align-center bold">DE MEDICIS, SERMO L.</head>
@@ -13014,7 +13033,7 @@
         </div>
       
       
-      <div type="chapter" n="51" xml:id="EPchap51">
+      <div type="chapter" n="51" xml:id="EP_c51">
         
         
         <head rend="align-center bold">DE FIDE, SERMO LI.</head>
@@ -13108,7 +13127,7 @@
         
         </div>
         
-        <div type="chapter" n="52" xml:id="EPchap52">
+        <div type="chapter" n="52" xml:id="EP_c52">
           
           
           <head rend="align-center bold">DE MEMORIA, ET RECORDATIONE, Sermo LII.</head>
@@ -13256,7 +13275,7 @@
           
       </div>
       
-      <div type="chapter" n="53" xml:id="EPchap53">
+      <div type="chapter" n="53" xml:id="EP_c53">
         
         
         <head rend="align-center bold">DE ANIMA, SERMO LIII.</head>
@@ -13426,7 +13445,7 @@
         </div>
       
       
-      <div type="chapter" n="54" xml:id="EPchap54">
+      <div type="chapter" n="54" xml:id="EP_c54">
         
         
         <head rend="align-center bold">DE INVIDIA, SERMO LIIII.</head>
@@ -13702,7 +13721,7 @@
         <p xml:id="EP_c_p" n="">Nemini invidendum: boni enim prospero successu digni sunt: mali vero si fortuna utantur secunda, male vivunt.</p>
         
       </div>
-        <div type="chapter" n="55" xml:id="EPchap55">
+        <div type="chapter" n="55" xml:id="EP_c55">
         
         
         <head rend="align-center bold">DE VOLUNTARIO ET NON VOLUNTARIO, Sermo LV.</head>
@@ -13900,7 +13919,7 @@
       
       </div>
       
-      <div type="chapter" n="56" xml:id="EPchap56">
+      <div type="chapter" n="56" xml:id="EP_c56">
         
         
         <head rend="align-center bold">DE COGNITIONE SUI, SERMO LVI.</head>
@@ -14132,7 +14151,7 @@
       
       </div>
         
-        <div type="chapter" n="57" xml:id="EPchap57">
+        <div type="chapter" n="57" xml:id="EP_c57">
         
         
         <head rend="align-center bold">DE BENI GNITATE, SERMO LVII.</head>
@@ -14309,7 +14328,7 @@
         
         </div>
       
-      <div type="chapter" n="58" xml:id="EPchap58">
+      <div type="chapter" n="58" xml:id="EP_c58">
         
         
         <head rend="align-center bold">DE LEGE, SERMO LVIII.</head>
@@ -14499,7 +14518,7 @@
       
       </div>
       
-      <div type="chapter" n="59" xml:id="EPchap59">
+      <div type="chapter" n="59" xml:id="EP_c59">
         
         
         <head rend="align-center bold">DE RATIONALE ET RATIOCINATIONE, Sermo LIX.</head>
@@ -14663,7 +14682,7 @@
         </div>
       
       
-      <div type="chapter" n="60" xml:id="EPchap60">
+      <div type="chapter" n="60" xml:id="EP_c60">
         
         
         <head rend="align-center bold">DE INSIPIENTIA, SERMO LX.</head>
@@ -14818,7 +14837,7 @@
         
       </div>
         
-        <div type="chapter" n="61" xml:id="EPchap61">
+        <div type="chapter" n="61" xml:id="EP_c61">
         
         
         <head rend="align-center bold">DE LUXURIA, SERMO LXI.</head>
@@ -14984,7 +15003,7 @@
         </div>
       
       
-      <div type="chapter" n="62" xml:id="EPchap62">
+      <div type="chapter" n="62" xml:id="EP_c62">
         
         
         <head rend="align-center bold">DE CONSUETUDINE, SERMO LXII.</head>
@@ -15191,7 +15210,7 @@
       
       </div>
       
-      <div type="chapter" n="63" xml:id="EPchap63">
+      <div type="chapter" n="63" xml:id="EP_c63">
         
         
         <head rend="align-center bold">DE NOBILITATE ET IGNOBILITATE, Sermo LXIII.</head>
@@ -15397,7 +15416,7 @@
       
       </div>
       
-      <div type="chapter" n="64" xml:id="EPchap64">
+      <div type="chapter" n="64" xml:id="EP_c64">
         
         
         <head rend="align-center bold">DE RISU, SERMO LXIIII.</head>
@@ -15512,7 +15531,7 @@
         
       
       </div>
-        <div type="chapter" n="65" xml:id="EPchap65">
+        <div type="chapter" n="65" xml:id="EP_c65">
         
         
         <head rend="align-center bold">DE SOMNIIS, SERMO LXV.</head>
@@ -15630,7 +15649,7 @@
       
       </div>
       
-      <div type="chapter" n="66" xml:id="EPchap66">
+      <div type="chapter" n="66" xml:id="EP_c66">
         
         
         <head rend="align-center bold">DE SIMPLICITATE VEL INNOCENTIA, ET iniuriarum recordatione, Sermo LXVI.</head>
@@ -15788,7 +15807,7 @@
         </div>
       
       
-      <div type="chapter" n="67" xml:id="EPchap67">
+      <div type="chapter" n="67" xml:id="EP_c67">
         
         
         <head rend="align-center bold">DE VITAE INAEQUALITATE, SERMO LXVII.</head>
@@ -15983,7 +16002,7 @@
       
       </div>
         
-        <div type="chapter" xml:id="EPchap68" n="68">
+        <div type="chapter" xml:id="EP_c68" n="68">
         
         <head rend="align-center bold">DE HONORANDA VIRTUTE, ET PUNIENDO vitio, Sermo LXVIII.</head>
       
@@ -16129,7 +16148,7 @@
       
       
       </div>
-        <div type="chapter" xml:id="EPchap69" n="69">
+        <div type="chapter" xml:id="EP_c69" n="69">
         
         
         <head rend="align-center bold">FACILE ESSE VITIUM ET DIFFICILEM virtutem, Sermo LXIX.</head>
@@ -16238,7 +16257,7 @@
       
       </div>
       
-      <div type="chapter" n="70" xml:id="EPchap70">
+      <div type="chapter" n="70" xml:id="EP_c70">
         
         
         <head rend="align-center bold">DE AMORE SUI, SERMO LXX.</head>
@@ -16404,7 +16423,7 @@
         
         </div>
         
-        <div type="chapter" xml:id="EPchap71" n="71">
+        <div type="chapter" xml:id="EP_c71" n="71">
           
           
           <head rend="align-center bold">MAIOREM PARTEM NON SEMPER ESSE meliorem, Sermo LXXI.</head>
