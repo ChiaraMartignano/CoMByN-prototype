@@ -1,17 +1,6 @@
-.w .lb {
-    display: none;
-}
-
 .ab[rend="align-center"] {
     display: block;
     text-align: center;
-}
-
-*[rend="align-center"] {
-    display: block;
-    text-align: center !important;
-    margin: 0;
-    padding: 0;
 }
 
 *[rend="strikethrough"] {
@@ -44,36 +33,12 @@
     display: block;
 }
 
-*[place="superscript"] {
+*[rend="sup"] {
     vertical-align: text-bottom;
 }
 
-evt-page :not(evt-apparatus-entry-detail) .head {
-    font-weight: bold;
-    display: inline-block;
-    padding: 0.5em 0.1em 0.5em 0em;
-}
-
-evt-page :not(evt-apparatus-entry-detail) .closer {
-    display: block;
-}
-
-evt-page :not(evt-apparatus-entry-detail) .signed {
-    display: inline-block;
-    /* font-style: italic; */
-}
-
-evt-page :not(evt-apparatus-entry-detail) .retrace {
-    font-weight: bolder;
-}
-
-evt-page :not(evt-apparatus-entry-detail) .verse-num {
-    color:black !important;
-}
-
-evt-page :not(evt-apparatus-entry-detail) .verse-num:before {
-    border:none !important;
-    background: none !important;
+*[place="superscript"] {
+    vertical-align: text-bottom;
 }
 
 .metamark[rend="line"] {
@@ -81,11 +46,6 @@ evt-page :not(evt-apparatus-entry-detail) .verse-num:before {
     border: 1px solid black;
     margin-top:-1em;
     margin-right:70%;
-}
-
-evt-reading evt-note,
-evt-addition evt-note {
-  display: none;
 }
 
 .fw {
@@ -97,29 +57,28 @@ evt-addition evt-note {
     margin-top: -1.5rem;
 }
 
-[type="sermo-bibl-right"]{
-    float: right;
-    font-style: italic;
-}
-[type="sermo-bibl-left"]{
-    float: right;
-    font-style: italic;
+evt-reading evt-note,
+evt-addition evt-note {
+  display: none;
 }
 
-div[type="sermo"] p {
-    margin-bottom: 0 !important;
-}
-span.lb{
-    height: 0;
+.flash-highlight {
+  animation: flash-bg 1s ease-in-out 3, hold-yellow 0.4s ease forwards;
+  animation-delay: 0s, 3s; /* second animation starts after the 3 flashes */
 }
 
-*[type="float-under"], *[type="float-above"] {
-    float: right;
-    margin-right: 2em;
+@keyframes flash-bg {
+  0%   { background-color: transparent; }
+  50%  { background-color: #ffeb3b80; }
+  100% { background-color: transparent; }
 }
 
-*[type="source"] {
-    float: right;
-    font-style: italic;
-    margin-left: 2em;
+@keyframes hold-yellow {
+  from { background-color: transparent; }
+  to   { background-color: #ffeb3b80; }
+}
+
+.clickable:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
