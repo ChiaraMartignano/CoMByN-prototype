@@ -82,3 +82,12 @@ evt-addition evt-note {
     text-decoration: underline;
     cursor: pointer;
 }
+
+.ref[data-type="source"] {
+    float: right;
+    font-style: italic;
+}
+
+*[data-rend="align-right"] {
+    text-align: right !important;
+}

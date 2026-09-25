@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_drama.dtd">
+<?xml-stylesheet href="provaCss.css" type="text/css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Rawda 1-5</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gili </p>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="V">Vat. ar. 111 (14th century), fols 99r-160r (beginning of the
+                        introduction missing)</witness>
+                    <witness xml:id="S">Sinai ar. 66 (year 1266), fols 260r-375v (breaks off in the
+                        middle of chapter 69)</witness>
+                    <witness xml:id="T">Sinai ar. 456 (13th century), fols 18v-60v (lacks the
+                        introduction and is truncated at the very end of chapter 71)</witness>
+                    <witness xml:id="B">Tripoli, Dayr Sayyidat al-Balamand (17th century?)</witness>
+                    <witness xml:id="R">Beirut, Bibliothèque Orientale 545 (1851)</witness>
+                    <witness xml:id="Q">Beirut, Bibliothèque Orientale 544 (19th century)</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+        <revisionDesc>
+            <change>
+                <date when="2026/05/03"/>
+				<name>Anna</name>
+				<desc>Rawda</desc>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="1" rend="align-right">
+            <p n="title">
+                <app>
+                    <lem wit="#V #R #B #S">الباب</lem>
+                    <rdg wit="#T">... الأبّ والابن والروح القدس الاه واحد الباب</rdg>
+                    <rdg wit="#Q">بسم الأب والابن والروخ القدس الباب</rdg>
+                </app>
+                الأوّل <app>
+                    <lem wit="#V #S #T"><app>
+                            <lem wit="#V #S">من</lem>
+                            <rdg wit="#T">في</rdg>
+                        </app> كتاب الروضة </lem>
+                    <rdg wit="#B #R #Q" type="om"></rdg>
+                </app><app>
+                    <lem wit="#Q #V #R #S">في</lem>
+                    <rdg wit="#T" type="om"/>
+                </app> الفضيلة <app>
+                    <lem wit="#V #Q #B #R #S">وما قِيلَ فيها</lem>
+                    <rdg wit="#T">وما فها</rdg>
+                </app></p>
+            <p n="def"> الفضيلة هي سيرة الاهية <app>
+                    <lem>وهي</lem>
+                    <rdg wit="#S" type="om_margin">وهي</rdg>
+                </app> عرض لأنّ <app>
+                    <lem wit="#V #R #S">المقابل</lem>
+                    <rdg wit="#T">المقابلت</rdg>
+                    <rdg wit="#Q #B">المقاتل</rdg>
+                </app> لها <app>
+                    <lem wit="#V #Q #R #B #S">الرذيلة</lem>
+                    <rdg wit="#T">الردّ</rdg>
+                </app> وهما جنسان تحت الكيفية.</p>
+            <p> قال الأنجيل المقدّس: <app>
+                    <lem wit="#V #B #R #S">إنّ</lem>
+                    <rdg wit="#T" type="om"/>
+                </app> السبيل <app>
+                    <lem wit="#V #R #B #Q #S">التي</lem>
+                    <rdg wit="#T">الذي</rdg>
+                </app>
+                    <app>
+                    <lem wit="#V #B #Q #R #S">تؤدّي</lem>
+                    <rdg wit="#T">يؤدّي</rdg>
+                </app> إلى <app>
+                    <lem wit="#V #B #Q #T #S">الحياة</lem>
+                    <rdg wit="#R">الحيوة</rdg>
+                </app> حرجة وضيقه. قال الرسول: لا
+                تنقهر من الشرّ لكنّ استول عليه <app>
+                    <lem wit="#S #T #V">بالخير</lem>
+                    <rdg wit="#B #R #Q">من الخير</rdg>
+                </app>. قال <app>
+                    <lem wit="#V #R #S">سليمن</lem>
+                    <rdg wit="#T">سلمن</rdg>
+                    <rdg wit="#Q #B">سليمان</rdg>
+                </app> الحكيم: كما أنّ الحصرم يضرّ <app>
+                    <lem wit="#T #V">الأسنان</lem>
+                    <rdg wit="#B #Q #R #S">بالأسنان</rdg>
+                </app> والدخان <app>
+                    <lem wit="#V #B #Q #S">للعيون</lem>
+                    <rdg wit="#R">بالعيون</rdg>
+                    <rdg wit="#T">العيون</rdg>
+                </app>، هكذا النفاق يؤذي مستعمله. قال <app>
+                    <lem wit="#V #Q #R #T #S">سيراخ</lem>
+                    <rdg wit="#B">شيراخ</rdg>
+                </app> : لا <app>
+                    <lem wit="#V #B #Q #R #T">تعملن</lem>
+                    <rdg wit="#S">تعمل</rdg>
+                </app>  <app>
+                    <lem wit="#V #R #B #S">شرّا</lem>
+                    <rdg wit="#Q #T">شرّ</rdg>
+                </app> فما يلمّ <app>
+                    <lem wit="#T #Q #B #R #S">بك</lem>
+                    <rdg wit="#V">وبك</rdg>
+                </app>  <app>
+                    <lem wit="#T #V">ولا الشرّ</lem>
+                    <rdg wit="#B #R #Q">الشرّ</rdg>
+                    <rdg wit="#S">والشرّ</rdg>
+                </app>. قال القديس باسيليوس: تعلّم
+                الفضيلة قنية كريمة <app>
+                    <lem wit="#T #Q #B #R #V">لمقتنيها</lem>
+                    <rdg wit="#S">لمفتنيها</rdg>
+                </app> ومنظر عذب <app>
+                    <lem wit="#V #B #Q #R #S">للخاضرين</lem>
+                    <rdg wit="#T">للحاظرين</rdg>
+                </app> . قال <app>
+                    <lem wit="#T #Q #R #S">الثولوغس</lem>
+                    <rdg wit="#B">الثالوغس</rdg>
+                    <rdg wit="#V">الثاولوغس</rdg>
+                </app>: ليس الفعل الميمون يوجب <app>
+                    <lem wit="#T #B #Q #R #V">الصيت</lem>
+                    <rdg wit="#S">الصبت</rdg>
+                </app> ، للأنام فقط <app>
+                    <lem wit="#V #B #Q #S">لكنّ الشرّ </lem>
+                    <rdg wit="#R">لكنّ والشرّ</rdg>
+                    <rdg wit="#T">للشرّ </rdg>
+                </app> القامع <app>
+                    <lem wit="#S #V #R #Q #B">سورة الخبثاء</lem>
+                    <rdg wit="#T">صورة الحيا</rdg>
+                </app> . <app>
+                    <lem wit="#T #S">قال</lem>
+                    <rdg wit="#B #R">قال القديس</rdg>
+                    <rdg wit="#Q">قال قال القديس</rdg>
+                    <rdg wit="#V">والقدس</rdg>
+                    <rdg wit="#S" hand="#S1" type="add_margin">القديس يحنا</rdg>
+                </app>
+                يحنا الذهبي الفم: ليس أعداء <app>
+                    <lem wit="#B #R #V">المهتمين</lem>
+                    <rdg wit="#S"><subst>
+                            <del>المهمتمين</del>
+                            <add>المهتمين</add>
+                        </subst></rdg>
+                    <rdg wit="#T">المقيدين</rdg>
+                </app> بالفضيلة قليلين. قال <app><!--
+                        quù
+                        -->
+                    <lem wit="#V #B #Q #S">اغريغوريوس </lem>
+                    <rdg wit="#R">غريغوريوس</rdg>
+                    <rdg wit="#T">اغريغوريو</rdg>
+                </app><app>
+                    <lem wit="#V #T #Q #B">أسقف</lem>
+                    <rdg wit="#S"><subst>
+                            <del>أسقق</del>
+                            <add>أسقف</add>
+                        </subst></rdg>
+                    <rdg wit="#R" type="om"></rdg><!-- qui -->
+                </app> نيسس: وقوف الرذيلة ابتدأ
+                نهضة الفضيلة. <app>
+                    <lem wit="#V #S"
+                        type="lem" i="قال فيلن" f="الشرّ">قال فيلن: خروج الفضيلة يجترح ولوج الرذيلة
+                كما، <app>
+                            <lem wit="#R #V">بعكسه</lem>
+                            <rdg wit="#B #Q #S">يعكسه</rdg>
+                        </app>، إذا ابتعد
+                الخير توطّد الشرّ </lem>
+                    <rdg wit="#T" type="om"></rdg>
+                </app>. قال <app>
+                    <lem wit="#S #B #Q #R #V">قليمس</lem>
+                    <rdg wit="#T">اقليمس</rdg>
+                </app>: <app>
+                    <lem wit="#S #B #Q #R #V">التخلّف</lem>
+                    <rdg wit="#T">التحاىق</rdg>
+                </app> عن الرذايل مبدئ <app>
+                    <lem wit="#S #B #R #Q #V">الخلاص</lem>
+                    <rdg wit="#T">الخير والأخلاض</rdg>
+                </app>. <app>
+                    <lem wit="#S #V" type="lem"
+                        i="قال نيلس" f="الميناء"> قال نيلس: اجذل إذا فعلت الفضيلة <app>
+                            <lem wit="#B #Q #R #V">لكنّ</lem>
+                            <rdg wit="#S" type="om"/>
+                        </app> لا تترفع لئلًا
+                يعرض لك العطب في الميناء. </lem>
+                    <rdg wit="#T" type="om"></rdg>
+                </app> قال <app>
+                    <lem wit="#V #Q #R #B #S">كيرللس</lem>
+                    <rdg wit="#T">كبر الس</rdg>
+                </app> . النفس تتدنس<app>
+                    <lem wit="#V #R #Q #B #S">بأربعة</lem>
+                    <rdg wit="#T">بأربع</rdg>
+                </app> أشياء, بالمشي في المدينة وترك
+                غضّ الطرف، <app>
+                    <lem wit="#V #R #B #S">وبالتعرّف</lem>
+                    <rdg wit="#T">وبالنعُزف</rdg>
+                </app> بالنساء، وبمصادقة رؤساء
+                العالم، وبمودة المفاوضة بالجسدية والكلام الباطل. <app>
+                    <lem wit="#V #B #S" type="lem"
+                        i="قال بلوطرخس" f="الله"> قال <app>
+                            <lem wit="#V #S #B">بلوطرخس</lem>
+                            <rdg wit="#R #Q">بوليطرخس</rdg>
+                        </app>: أمّا
+                الغذاء فيظهر عذبًا <app>
+                            <lem wit="#V #R #B #Q">المرتاضين</lem>
+                            <rdg wit="#S">للمرتاضين</rdg>
+                        </app> وأمّا
+                الفضيلة فللمتأدبين. قال افلاطون. إنّ الرجل الجبان الضعيف المستغرم بالثروة والتنعّم
+                لا يفي قدره <app>
+                            <lem wit="#V #S #R #B">بالكلب</lem>
+                            <rdg wit="#Q">بالكلية</rdg>
+                        </app> ولا العير. قال <app>
+                            <lem wit="#V">فليطرخس</lem>
+                            <rdg wit="#B #R #Q">بوليطرخس</rdg>
+                            <rdg wit="#S"><subst>
+                                    <del>قليطرخوس</del>
+                                    <add>قليطرخس</add>
+                                </subst></rdg>
+                        </app>:
+                إن تكن لك فضيلة <app>
+                            <lem wit="#V #S">فكلّ</lem>
+                            <rdg wit="#B #R #Q">فكلًا</rdg>
+                        </app> لك <app>
+                            <lem wit="#V">وإن تكن لك</lem>
+                            <rdg wit="#Q #R #B">وإن لم تكن لك</rdg>
+                            <rdg wit="#S" type="om"/>
+                            <rdg wit="#S" hand="#S1" type="add_margin">وإن تكن لك</rdg>
+                        </app>
+                    <app>
+                            <lem wit="#V #S">رذيلة</lem>
+                            <rdg wit="#R #Q #B">فضيلة</rdg><!-- verifica Q B-->
+                        </app> فولا ذاتك
+                لك. قال ديمقريطس: فعلك ما ليس بأهل الله <app>
+                            <lem wit="#V #Q #R #B">يجعلك</lem>
+                            <rdg wit="#S"><subst>
+                                    <del>تجعلك</del>
+                                    <add>يجعلك</add>
+                                </subst></rdg>
+                        </app>
+                غير مستحق له. قال لافن. وقد سُئِلَ <app>
+                            <lem wit="#V #Q #B">ولماذا</lem>
+                            <rdg wit="#R">لماذا</rdg>
+                            <rdg wit="#S"><subst>
+                                    <del>وكلما</del>
+                                    <add>ولماذا</add>
+                                </subst></rdg>
+                        </app> <app>
+                            <lem type="syn"><app>
+                                    <lem type="#conieci">اسبرتي</lem>
+                                    <rdg wit="#Q #R #B">اسمرني</rdg>
+                                    <rdg wit="#V">اسبرتي اسم مدينة</rdg>
+                                    <rdg wit="#S">اسبرني</rdg>
+                                </app></lem>
+                            <rdg wit="#S" type="add_margin">اسم مدينة</rdg>
+                        </app>
+                بلا سور لا <app>
+                            <lem type="syn"><app>
+                                    <lem wit="#V #Q #B">يمين</lem>
+                                    <rdg wit="#S">تمين</rdg>
+                                    <rdg wit="#R">الأيمن</rdg>
+                                </app></lem>
+                            <rdg wit="#S" type="add_margin">أي تكذب</rdg>
+                            <rdg wit="#V" type="add_margin">لا يمين أي يكذب</rdg>
+                        </app>
+                لأنّها قد سُوِّرَت بمناقب القاطنين <app>
+                            <lem wit="#V #S">القاطنين</lem>
+                            <rdg wit="#B #R #Q">القاطنين بها</rdg>
+                        </app> .
+                قال ايسيطاقوس: إنّ الاخيار من الناس لهم <app>
+                            <lem wit="#B #Q #R #V">جزء ما</lem>
+                            <rdg wit="#S">حذما</rdg>
+                        </app> من الله </lem>
+                    <rdg wit="#T" type="om"></rdg>
+                </app><!-- الباب الثالث في
+                    العفة.
+                    <app>
+                    <rdg wit="#T #V"/>
+                    <rdg wit="#S">العفة</rdg>
+                </app> قلّة <app>
+                    <rdg wit="#V #S">الانقياد</rdg>
+                    <rdg wit="#T">الانفياد إلى الشهورات والجوف</rdg>
+                </app>  <app>
+                    <rdg wit="#V">للشهوات</rdg>
+                    <rdg wit="#S">للشهورات</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">والخوف</rdg>
+                    <rdg wit="#T"/>
+                </app> من التانيب <app>
+                    <rdg wit="#V">واستقامة</rdg>
+                    <rdg wit="#T #S">واستقامه</rdg>
+                </app> الطريقة في <app>
+                    <rdg wit="#V">إننان</rdg>
+                    <rdg wit="#S">إثناء</rdg>
+                    <rdg wit="#T">أبنات</rdg>
+                </app> الأمور <app>
+                    <rdg wit="#V #S">الكبيرة والصغيرة</rdg>
+                    <rdg wit="#T">الكبير والصغير</rdg>
+                </app> . قال الانجيل <app>
+                    <rdg wit="#V"/>
+                    <rdg wit="#T #S">المقدس</rdg>
+                </app> . من نظر إلى امرأة <app>
+                    <rdg wit="#V #S">ليشتهيها</rdg>
+                    <rdg wit="#T">واشتهافي نفسه</rdg>
+                </app> فقد <app>
+                    <rdg wit="#V">رتابها</rdg>
+                    <rdg wit="#S">رنابها</rdg>
+                    <rdg wit="#T">زنابها</rdg>
+                </app> في قلبه. قال الرسول <app>
+                    <rdg wit="#V #S">.</rdg>
+                    <rdg wit="#T">يولص</rdg>
+                </app> أمّا علمتم أنّ <app>
+                    <rdg wit="#V">أعضائكم</rdg>
+                    <rdg wit="#S">أجسامكم</rdg>
+                    <rdg wit="#T">أغضاكم أغضاء</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">أعضاء</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">المسيح</rdg>
+                    <rdg wit="#T #S">المسايح</rdg>
+                </app>  <app>
+                    <rdg wit="#T #V">هي</rdg>
+                    <rdg wit="#S"/>
+                </app>  <app>
+                    <rdg wit="#V #S">أفأصلح</rdg>
+                    <rdg wit="#T">فأصلح</rdg>
+                </app> أو صال <app>
+                    <rdg wit="#V #S">المسيح</rdg>
+                    <rdg wit="#T">المسايح</rdg>
+                </app> أو صال <app>
+                    <rdg wit="#V">الخلبن</rdg>
+                    <rdg wit="#T #S">الخلين</rdg>
+                </app> كلا أو ما عرفتم أنّ المتلصق
+                بالفاجرة <app>
+                    <rdg wit="#V #S">جسد</rdg>
+                    <rdg wit="#T">جسدًا</rdg>
+                </app> واحد هو <app>
+                    <rdg wit="#V #S">والسادك</rdg>
+                    <rdg wit="#T">والسادل</rdg>
+                </app> بالله <app>
+                    <rdg wit="#V #S">روح واحد</rdg>
+                    <rdg wit="#T">روحًا واحدًا</rdg>
+                </app> هو. قال ايوب. <app>
+                    <rdg wit="#V">إن</rdg>
+                    <rdg wit="#T #S">إنّ</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">قفا قلبي</rdg>
+                    <rdg wit="#T">تفاقبني</rdg>
+                </app> امرأة رجل أخر <app>
+                    <rdg wit="#V">وواظبت</rdg>
+                    <rdg wit="#T #S">واطنبت</rdg>
+                </app> الجلوس على بابها <app>
+                    <rdg wit="#V #S">فسيترضي</rdg>
+                    <rdg wit="#T">فسترخا</rdg>
+                </app> امرأتي <app>
+                    <rdg wit="#V #S">رجلًا</rdg>
+                    <rdg wit="#T">رجل</rdg>
+                </app> غيري. قال القديس باسيليوس العفّة في
+                الهرم ليست عفة لكنّ ضعفًا عن الفجور. <app>
+                    <rdg wit="#V #S">قال الثاولوغس. انقياض الشيمة أفضل بانبساطها والأنا الداثر لا</rdg>
+                    <rdg wit="#T">من</rdg>
+                </app>  <app>
+                    <rdg wit="#V">يوثق</rdg>
+                    <rdg wit="#S">يوتق</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">به على الطبيب. من</rdg>
+                    <rdg wit="#T"/>
+                </app> كتاب <app>
+                    <rdg wit="#V #S">اقليمقس.</rdg>
+                    <rdg wit="#T">اقليمس</rdg>
+                </app> الخادم <app>
+                    <rdg wit="#T #V">بطنه</rdg>
+                    <rdg wit="#S">بظنه</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">والموثران</rdg>
+                    <rdg wit="#T">والموثر أنّ</rdg>
+                </app> يقهر <app>
+                    <rdg wit="#V #S">الروح</rdg>
+                    <rdg wit="#T">روح الر… يظاهي للمطفى</rdg>
+                </app>  <app>
+                    <rdg wit="#V">الزنايضا</rdg>
+                    <rdg wit="#S">الرتايضا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">هي للمطفي</rdg>
+                    <rdg wit="#T"/>
+                </app> النار <app>
+                    <rdg wit="#V #S">بالدهن. قال</rdg>
+                    <rdg wit="#T">بالرهن</rdg>
+                </app>  <app>
+                    <rdg wit="#V">مسخيون</rdg>
+                    <rdg wit="#S">مسحيون</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ليس العفيف</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">الجانح</rdg>
+                    <rdg wit="#S">الحانح</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">عن</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">المحطور</rdg>
+                    <rdg wit="#S">المحظور</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">عليه لكنّ</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">الصنين</rdg>
+                    <rdg wit="#S">الظنين</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">بالمسامح فيه</rdg>
+                    <rdg wit="#T"/>
+                </app> . قال سقراط العفة هي <app>
+                    <rdg wit="#V #S">قمع</rdg>
+                    <rdg wit="#T">قمح</rdg>
+                </app> اللذة بالجسد <app>
+                    <rdg wit="#V #S">. قال</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">ديوجانس</rdg>
+                    <rdg wit="#S">ذيوجانس</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. صعب هو أن تستولى المجاهدون</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">والمعيون</rdg>
+                    <rdg wit="#S">والمعنون</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">على امساك البطن واللذات أمّا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">هولاء</rdg>
+                    <rdg wit="#S">هو لا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">فلإجل الضرب وأمّا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">أولايك</rdg>
+                    <rdg wit="#S">أولايط</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">فمن جزاء الجسد وأمّا من قبل العفة فليس أحد يتهاون بها. قال
+                ذيمقراطس. عفة الأب وصية عظمي للأولاد. قال</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">دمتريوس</rdg>
+                    <rdg wit="#S">ذيمتريوس</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. ينبغي لسكان المدن من الشبات أن</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">يستحيوا</rdg>
+                    <rdg wit="#S">يستحوا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">من</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">الوالذين</rdg>
+                    <rdg wit="#S">الو للذين.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">في البيوت. وأمّا في الطريق</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">من</rdg>
+                    <rdg wit="#S">فمن</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">المجتازين وأمّا في التنايف فمن أنفسهم. قال فيثاغورس. التعيد</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">للألام</rdg>
+                    <rdg wit="#S">الألام</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">أصعب من التعبد للسلاطين</rdg>
+                    <rdg wit="#T"/>
+                </app> . الباب الرابع في النجدة. النجدة <app>
+                    <rdg wit="#V #S">هي</rdg>
+                    <rdg wit="#T">هية</rdg>
+                </app> قلّة <app>
+                    <rdg wit="#V #S">الفرق</rdg>
+                    <rdg wit="#T">العرق</rdg>
+                </app> من الحمام. قال الانجيل <app>
+                    <rdg wit="#V"/>
+                    <rdg wit="#S">المقدس</rdg>
+                    <rdg wit="#T">الظاهر. من أراد أن يجئ ورأي فليتححد ذاته ويحمل ضليبه ويتبعني. قال
+                الرسول البسوا كلّ سلام الله لتقدر وإن تتبنو اتجاه خيل المحال فإنّه ليس ضر أعنا مع دم
+                رلحم بل الرسات والسطات وضابطي هذا العالم. قال سليمان الحكيم</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">. من أراد أن</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">يجئ وراي فليححد ذاته</rdg>
+                    <rdg wit="#S">يحي وأري فليتحجد نفسه</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ويحمل</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">صلبيه</rdg>
+                    <rdg wit="#S">صليبه</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ويتبعني. قال الرسول البسوا كلّ سلام الله لتقدروا إن تثبتوا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">تجاة</rdg>
+                    <rdg wit="#S">تحاه</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">حيل المحال فإنّه ليس ضر أعنا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">مع دم</rdg>
+                    <rdg wit="#S">لدم</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ولحم بل للرياسات والسطات</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">وصابطي</rdg>
+                    <rdg wit="#S">وضابطي</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">هذا العالم. قال سليمن</rdg>
+                    <rdg wit="#T"/>
+                </app> . ليست للإنسان حكمة ولا <app>
+                    <rdg wit="#V">شجاعة</rdg>
+                    <rdg wit="#T #S">سجاعة</rdg>
+                </app> ولا رأي لدى الله الفرس تعد
+                ليوم القتال والمعونة من <app>
+                    <rdg wit="#T #V">الله</rdg>
+                    <rdg wit="#S">الربّ</rdg>
+                </app> . قال باسيليوس الأمور التي تهوي
+                الحياة من أجلها <app>
+                    <rdg wit="#V #S">والاتتوان تموت</rdg>
+                    <rdg wit="#T">ولا ننوانا فتموت</rdg>
+                </app> من قبلها <app>
+                    <rdg wit="#V #S">. سأل</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">خلان</rdg>
+                    <rdg wit="#S">خلام</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">الإسكندر له إن نصع على</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">مناصبيه</rdg>
+                    <rdg wit="#S">مناصبة</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">القتال لءلّا قتال لست سرقة الغلبة من شيم الملوك</rdg>
+                    <rdg wit="#T"/>
+                </app> . قال سقراط القوّة مع العقل نافعة <app>
+                    <rdg wit="#V #S">وخلو</rdg>
+                    <rdg wit="#T">وحلوا</rdg>
+                </app> منه <app>
+                    <rdg wit="#V">ضارّة</rdg>
+                    <rdg wit="#S">ضاره</rdg>
+                    <rdg wit="#T">ضار امعتنها</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">مقتنيها.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">توجّه</rdg>
+                    <rdg wit="#S">توجد</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">لاونيدس. نحو مقاتلة الفرس بيسير من الجند فقال له بعض الناس</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">أتمضى</rdg>
+                    <rdg wit="#S">تمضى</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">بهذه العدة فقط فقال نعم لأنّهم</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">دووا</rdg>
+                    <rdg wit="#S">ذو</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">رأي</rdg>
+                    <rdg wit="#T"/>
+                </app> . قال <app>
+                    <rdg wit="#V #S">رسطاطاليس</rdg>
+                    <rdg wit="#T">ارطاطاليس</rdg>
+                </app> إنّ البطل عندي القاهر لشهواته
+                بأكثر من <app>
+                    <rdg wit="#V #S">محاربته</rdg>
+                    <rdg wit="#T">مخاربته</rdg>
+                </app> لناس منظورين لأنّه صعب <app>
+                    <rdg wit="#V #S">جدًّا</rdg>
+                    <rdg wit="#T">جلدًا</rdg>
+                </app>  <app>
+                    <rdg wit="#V">إلاستيلاء</rdg>
+                    <rdg wit="#T #S">إلّا</rdg>
+                </app>  <app>
+                    <rdg wit="#V"/>
+                    <rdg wit="#S">ستيلًا</rdg>
+                    <rdg wit="#T">سيلًا</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">على الذات. الباب الخامس في العدل. العدل هو</rdg>
+                    <rdg wit="#T">على الذات. الباب الخامس في العدل. العدل هو</rdg>
+                </app>  <app>
+                    <rdg wit="#V">إيثار</rdg>
+                    <rdg wit="#S">اثيار</rdg>
+                    <rdg wit="#T">ايثار وفعل</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">فعل</rdg>
+                    <rdg wit="#T"/>
+                </app> ما يجب الله والملايكة والناس. قال الانجيل <app>
+                    <rdg wit="#T #V"/>
+                    <rdg wit="#S">المقدس</rdg>
+                </app> . <app>
+                    <rdg wit="#V">مغبوطون</rdg>
+                    <rdg wit="#S">مغبوطوت</rdg>
+                    <rdg wit="#T">يعبوطوت الساعيون والظماا في</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">الساغيون</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">والظماء</rdg>
+                    <rdg wit="#S">والطماء</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ألى</rdg>
+                    <rdg wit="#T"/>
+                </app> العدل فإنّهم <app>
+                    <rdg wit="#V #S">يسيشبعون</rdg>
+                    <rdg wit="#T">يسيشون</rdg>
+                </app> . قال <app>
+                    <rdg wit="#V">الرسول</rdg>
+                    <rdg wit="#T #S"/>
+                </app> الرسول. أمّا <app>
+                    <rdg wit="#V #S">علمتم إنّ</rdg>
+                    <rdg wit="#T">علتم …</rdg>
+                </app> من تقفون ذاتكم له <app>
+                    <rdg wit="#V">عبيدًا لطاعته</rdg>
+                    <rdg wit="#T #S">عبيد الطاعته</rdg>
+                </app> أنتم <app>
+                    <rdg wit="#V">عبيدًا</rdg>
+                    <rdg wit="#T #S">عبيد</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">لمن تطيعونه</rdg>
+                    <rdg wit="#T">المن تطيعون ه</rdg>
+                </app> أمّا بموت <app>
+                    <rdg wit="#V">الحطية</rdg>
+                    <rdg wit="#S">الخطية</rdg>
+                    <rdg wit="#T">الخطير</rdg>
+                </app> أمّا بعدل الطاعة <app>
+                    <rdg wit="#V #S">. قال سليمن. من حفر</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">لقريبه</rdg>
+                    <rdg wit="#S">لقربيه</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">وهذه سيهوى فيها ومن دحرج حجرًا على حوباية يدحرجها</rdg>
+                    <rdg wit="#T"/>
+                </app> . قال الذهبي الفم. ليس يحكم الله على الكلّ
+                بما يحكم به <app>
+                    <rdg wit="#V #S">هاهنا</rdg>
+                    <rdg wit="#T">ها هنا</rdg>
+                </app> لئلًا <app>
+                    <rdg wit="#V #S">ييس</rdg>
+                    <rdg wit="#T">بيس</rdg>
+                </app> القيامة وتقطع أملك من الدينونه <app>
+                    <rdg wit="#V #S">إذا لكلّ</rdg>
+                    <rdg wit="#T">إذ الكلّ</rdg>
+                </app> هاهنا يعطون <app>
+                    <rdg wit="#V #S">جوابًا عن</rdg>
+                    <rdg wit="#T">جرًاباعن</rdg>
+                </app> فعلهم ولا <app>
+                    <rdg wit="#V #S"/>
+                    <rdg wit="#T">…</rdg>
+                </app> يعفي الكلّ إن يمضوا <app>
+                    <rdg wit="#V #S">بلا</rdg>
+                    <rdg wit="#T">لا</rdg>
+                </app> عقاب لئلًا تظنّ أيضًا إنّ الأمور
+                كلّها غير مسوسة. <app>
+                    <rdg wit="#V #S">قال</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">ايواغريوس</rdg>
+                    <rdg wit="#S">اواغريوس</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. الحاكم الظالم علم مدنس.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">قال</rdg>
+                    <rdg wit="#T #S"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ديمسانس.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">لنظلمني</rdg>
+                    <rdg wit="#S">ليظلمني</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">الموسر لا المعسر فإنّه سهل احتمال تمدّد الاكاير.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">قال اىىاريدس</rdg>
+                    <rdg wit="#S">ابناريدس</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. لأمرين</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">تمتنع</rdg>
+                    <rdg wit="#S">يمتنع</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">الناس من الغسم وهما الفزع</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">والحياة</rdg>
+                    <rdg wit="#S">والحيا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. قال فيليمن. الرجل العادل ليس هو الذي لا يظلم بل القادر على
+                الغشم فلا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">يرأه</rdg>
+                    <rdg wit="#S">يرأ</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">. قال بعض الفلاسفة. لا منفعة في النجدة إذا لم يحضر العدل ومتى
+                كان الكلّ منصفين لم يفتقروا إلى التحمس. سأل زينن بعض اقرباية أن كيف يتيسر لنا
+                الأبخور فقال إذا ظننتم دائمًا أنّني معكم</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">حاصر</rdg>
+                    <rdg wit="#S">حاظر</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#T #V">ن</rdg>
+                    <rdg wit="#S">لناس منظورين</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">لأنّه صعب جدًّا</rdg>
+                    <rdg wit="#T">الحمام</rdg>
+                </app>  <app>
+                    <rdg wit="#V">إلاستيلاء</rdg>
+                    <rdg wit="#S">إلّا ستيلًا</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">على الذات. الباب الخامس في العدل. العدل هو</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">إيثار</rdg>
+                    <rdg wit="#S">اثيار</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">فعل ما يجب الله والملايكة والناس</rdg>
+                    <rdg wit="#T"/>
+                </app> . قال الانجيل <app>
+                    <rdg wit="#V"/>
+                    <rdg wit="#S">المقدس</rdg>
+                    <rdg wit="#T">الظاهر. من أراد أن يجئ ورأي فليتححد ذاته ويحمل ضليبه ويتبعني. قال
+                الرسول البسوا كلّ سلام الله لتقدر وإن تتبنو اتجاه خيل المحال فإنّه ليس ضر أعنا مع دم
+                رلحم بل الرسات والسطات وضابطي هذا العالم. قال سليمان الحكيم. ليست للإ</rdg>
+                </app>  <app>
+                    <rdg wit="#V #S">.</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">مغبوطون</rdg>
+                    <rdg wit="#S">مغبوطوت</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">الساغيون</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">والظماء</rdg>
+                    <rdg wit="#S">والطماء</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">ألى العدل فإنّهم يسيشبعون. قال</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">الرسول</rdg>
+                    <rdg wit="#T #S"/>
+                </app>  <app>
+                    <rdg wit="#V #S">الرسول. أمّا علمتم إنّ من تقفون ذاتكم له</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">عبيدًا لطاعته</rdg>
+                    <rdg wit="#S">عبيد الطاعته</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">أنتم</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">عبيدًا</rdg>
+                    <rdg wit="#S">عبيد</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">لمن تطيعونه أمّا بموت</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">الحطية</rdg>
+                    <rdg wit="#S">الخطية</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">أمّا بعدل الطاعة. قال سليمن. من حفر</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V">لقريبه</rdg>
+                    <rdg wit="#S">لقربيه</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#V #S">وهذه سيهوى فيها ومن دحرج حجرًا على حوباية يدحرجها. قال الذهبي
+                الفم. ليس يحكم الله على الكلّ بما يحكم به هاهنا لئلًا ييس القيامة وتقطع أملك من
+                الدينونه إذا لكلّ هاهنا يعطون جوابًا عن فعلهم ولا يعفي الكلّ إن يمضوا بلا عقاب لئلًا
+                تظنّ أيضًا إنّ الأمور كلّها غير</rdg>
+                    <rdg wit="#T"/>
+                </app>  <app>
+                    <rdg wit="#T #V"/>
+                    <rdg wit="#S">مسوسة. قال اواغريوس. ال</rdg>
+                </app> -->
+            </p></div>
+        </body>
+    </text>
+</TEI>

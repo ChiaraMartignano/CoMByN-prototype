@@ -9,14 +9,19 @@ editionTextSourcesConfig:
   # In case your edition includes more files you can have different values for "type" besides main, e.g. you could have
   # "type: witness" or "type: translation" or other values
   - type: main
-    url: assets/data/gesner_critical.xml
+    url: assets/data/greek.xml
     enable: true
-    friendlyName: Testo critico
+    friendlyName: Greco
 
   - type: translation
-    url: assets/data/gesner_interpretative.xml
+    url: assets/data/arabic.xml
     enable: true
-    friendlyName: Trascrizione interpretativa
+    friendlyName: Arabo
+
+  - type: translation
+    url: assets/data/latin.xml
+    enable: true
+    friendlyName: Editio princeps
 
     # A friendly name displayed instead of the url
     # friendlyName: Saba
@@ -76,13 +81,13 @@ edition:
       # Note that "label" the fallback value, EVT is going to look into the localization files (i18n folder) for the actual text
       label: diplomatic
       # Enable this edition level
-      enable: true
+      enable: false
       # Make it visible in the selector
       hidden: false
 
     - id: interpretative
       label: interpretative
-      enable: true
+      enable: false
       hidden: false
 
     - id: critical
@@ -364,13 +369,13 @@ ui:
       iconSet: evt
       id: textText
       label: Text Text
-      enable: false
+      enable: true
 
     - icon: collation
       iconSet: evt
       id: collation
       label: Collation
-      enable: false
+      enable: true
 
     - icon: srcTxt
       iconSet: evt

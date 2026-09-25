@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Edizione Critica Unificata</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Edizione integrale unificata</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Unione di file XML/TEI sorgente</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      
+      
+      <div type="chapter" n="1" xml:id="L_c1">
+        
+        <head rend="align-center bold">De vitae virtute et vitio. Sermo I.</head>
+        
+        <p xml:id="L_c1_p1" n="1" corresp="#G_c1_p1">
+          <ref type="source">Matth. 7.</ref>       
+          ANGUSTA via et arcta quae ad vitam deducit.        
+        </p>        
+        
+        <p xml:id="L_c1_p2" n="2">
+          <ref type="source">Rom.
+             12.
+          </ref>
+          Noli vinci a malo, sed per bonum vince malum.
+        </p>        
+        
+        <p xml:id="L_c1_p3" n="3">
+          <ref type="source">Solomonis.</ref>
+          Virtutis quidem signum nullum ostendere possumus: in vitio autem consumpti sumus.
+        </p>
+        
+        
+        <p xml:id="L_c1_p4" n="4">
+          <ref type="source">Eiusdem.</ref> Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retrahe pedem
+          tuum a semitis illorum, quod pedes ipsorum ad vitia currant. </p>        
+        
+        <p xml:id="L_c1_p5" n="5">
+          Qui rem aliquam contemnit, contemnetur ab ipsa.
+        </p>        
+        
+        <p xml:id="L_c1_p6" n="6">
+          Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis violatio violatoribus.
+        </p>        
+        
+        <p xml:id="L_c1_p7" n="7">
+          <ref type="source">Sirach.
+             7.</ref>          
+          Noli mala facere, et te mala non apprehendent.        
+        </p>        
+        
+        <p xml:id="L_c1_p8" n="8">
+          Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
+        </p>        
+        
+        <p xml:id="L_c1_p9" n="9">
+          <ref type="source">Basilii.</ref>          
+          Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actiones necessario sequitur aliquod emolumentum.
+        </p>
+        
+        <p xml:id="L_c1_p10" n="10">
+          Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredientibus spectaculum.
+        </p>
+        
+        <p xml:id="L_c1_p11" n="11">
+          <ref type="source">Theologi.</ref>
+          Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam superans.
+        </p>        
+        
+        <p xml:id="L_c1_p12" n="12">
+          Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.
+        </p>        
+        
+        <p xml:id="L_c1_p13" n="13">
+          Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
+          ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et a sua ipsa prole, videlicet flammis, consumuntur.
+        </p>
+        
+        <p xml:id="L_c1_p14" n="14">
+          Non est admodum facile virtutum victricem invenire, atque huic dare munera honoraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
+          vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratumet aspectum ad se trahat, et ad se decerpendum primum invitet.
+        </p>
+        
+        <p xml:id="L_c1_p15" n="15">
+          <ref type="source">
+              Chrisostomi</ref>
+          Non potest fieri quin virtutis studiosus multos habeat hostes.
+        </p>
+        
+        <p xml:id="L_c1_p16" n="16">
+          Non locus virtutem, sed virtus locum augustiorem reddere solet.
+        </p>
+        
+        <p xml:id="L_c1_p17" n="17">
+          Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
+          magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?
+        </p>
+        
+        
+        <p xml:id="L_c1_p18" n="18">
+          Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi <!--pb n="180" xml:id="p180" facs="180.jpg"/-->percurrendi sunt numerose et decenter: sic et in animi virtute non satis est nobis ad
+          salutem lex una, sed universae summa cum diligentia observandae sunt.
+        </p>
+      
+      <p xml:id="L_c1_p19" n="19">
+        Ne igitur dicamus hunc natura bonum, et illum natura malum. Si enim natura bonus est, nunquam poterit fieri malus: et si natura malus, nunquam fiet bonus.
+      </p>
+      
+      <p xml:id="L_c1_p20" n="20">
+        Mali quies principium est motionis ad virtutem.
+      </p>
+      
+      <p xml:id="L_c1_p21" n="21">
+        Non sustinent tenebrae lucis praesentiam, non morbus valetudine recuperata consistit, nihil agunt perturbationes si adsit tranquillitas et perturbationum vacuitas.
+      </p>
+      
+      <p xml:id="L_c1_p22" n="22">Liberam esse convenit ab omni metu virtutem et dominatu.</p>
+      
+      
+      <p xml:id="L_c1_p23" n="23">Virtus enim et voluntaria est et ab omni metu et necessitate libera.</p>
+      
+      
+      <p xml:id="L_c1_p24" n="24">Non licet aliam vitii procreationem cogitare, quam virtutis absentiam.</p>
+      
+      
+      <p xml:id="L_c1_p25" n="25">
+        
+        
+        <ref type="source">Philonis.</ref>
+        
+        Improbi aliae sunt cogitationes, et alii sermones, et aliae actiones: omnia autem differentia, et pugnantia.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p26" n="26">Vitii exitus virtutis introitum facit: ut contra, migrante bono, insidians malum intrat.</p>
+      
+      
+      <p xml:id="L_c1_p27" n="27">
+        
+        
+        <ref type="source">Clementis.</ref>
+        
+        A malis liberari, salutis est initium consequi.
+        
+        </p>
+        <p xml:id="L_c1_p28" n="28"> Iustitia ut videtur quadrata est, par et similis in verbo
+          et opere, in malorum abstinentia, in beneficentia, in perfectione erudita, nusquam ulla ex
+          parte claudicans, ut ne iniusta et inaequalis videatur. </p>
+      
+      
+      <p xml:id="L_c1_p29" n="29">
+        
+        
+        <ref type="source">Nili.</ref>
+        
+        Gaude cum aliquid cum virtute agis, sed ne extollaris, ne quando naufragium in portu fiat.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p30" n="30">
+        
+        
+        <ref type="source">Didymi.</ref>
+        
+        Virtutem simulato, non ut fallas, sed ut prosis.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p31" n="31">Regnum coelorum dicere licet statum et vivendi rationem, eorum qui ex divinis legibus moderate vivunt.</p>
+      
+      
+      <p xml:id="L_c1_p32" n="32">Omnis activa virtus in hoc consistit ut fiat, non ut facta sit.</p>
+      
+      
+      <p xml:id="L_c1_p33" n="33">Virtus altera ex parte claudicare non debet, sed verbo et opere rectam et integram esse oportet.</p>
+      
+      
+      <p xml:id="L_c1_p34" n="34">
+        
+        
+        <ref type="source">Ex patribus.</ref>
+        
+        Rebus quatuor animus polluitur: si per urbem ambules, nec oculos custodieris: et
+        si omnino consuetudinem aliquam cum mulieribus habeas: tertium est nobilium huius mundi amicitiam colere: quartum, congressionibus carnalibus et inanibus disputationibus delectari.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p35" n="35">
+        
+        
+        <ref type="source">Plutarchi.</ref>
+        
+        Ignotae virtutis veluti defossi auri splendor non apparet.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p36" n="36">Ut iis qui exercentur in gy<!-- i? Penso di no -->mnasiis cibus: sic eruditis virtus suavis videtur.</p>
+      
+      
+      <p xml:id="L_c1_p37" n="37">Etsi improbi homines probitatem et benignitatem pollicentur, tamen propter mores eis fides non habetur.</p>
+      
+      
+      <p xml:id="L_c1_p38" n="38">Statuam quidem figura, virum autem exornat actio.</p>
+      
+      
+      <p xml:id="L_c1_p39" n="39">Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius tamen cerneris.</p>
+      
+      
+      <p xml:id="L_c1_p40" n="40">Sic vitam institue, ut neque a potentioribus contemnare, neque inferioribus terribilis videare.</p>
+      
+      
+      <p xml:id="L_c1_p41" n="41">Omnia in futurum bene se habebunt, si quod praesens est recte fuerit compositum.</p>
+      
+      
+      <p xml:id="L_c1_p42" n="42">Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri
+          non auderet, aliquando tandem in fugientem incidit, ac ei, "Non oportet", inquit, "ut tu
+          me, sed ego te cum sis improbus fugiam".</p>
+      
+      
+      <p xml:id="L_c1_p43" n="43">Non est cum cane comparandus, immo ne cum asino quidem, timidus vir et imbellis,
+        divitiis et delit<!-- Modificare in c? -->iis diffluens.</p>
+      
+      
+      <p xml:id="L_c1_p44" n="44">
+        
+        
+        <ref type="source">Isocratis.</ref>
+        
+        Virtutis magis quam corporis imagines ac monimenta relinquenda putato.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p45" n="45">
+        
+        
+        <ref type="source">Demosthenis.</ref>
+        
+        Quemadmodum domus et navigii et ceterorum talium bases firmissimas esse convenit: sic et actionum primordia et fundamenta vera iustaque esse decet.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p46" n="46">
+          <ref type="source">Clitarchi.</ref> Non simpliciter habere virtutem honestum existimato, sed quemadmodum
+          decet et pro quibus decet. </p>
+      
+    
+      <!--pb n="181" xml:id="p181" facs="181.jpg"/-->
+      <p xml:id="L_c1_p47" n="47">Virtutem si habes, omnia habes: at si vitium, ne te<!-- Separare? -->ipsum quidem.</p>
+      
+      
+      <p xml:id="L_c1_p48" n="48">
+          <ref type="source">Socrates.</ref> Socrates cum quendam ex discipulis suis animadvertisset agri quidem
+          esse studiosum, sed actionis negli<!-- e? -->gentem, "Heus tu, vide", inquit, "ne dum agrum cicurare
+          vis, animum tuum efferari sinas". </p>
+      
+      
+      <p xml:id="L_c1_p49" n="49">Quum autem intellexisset quendam ex familiaribus suis studiose
+          curantem ut imago ipsi similis fieret, "Tu", inquit, "ut tibi similis lapis fieret
+          curasti: at ipse ne lapidi similis fias non curas".</p>
+      
+      
+      <p xml:id="L_c1_p50" n="50">
+        
+        
+        <ref type="source">Demonactis.</ref>
+        
+        Tantum virtuti appones, quantum de voluptatibus detraxeris.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p51" n="51">Turpe est in aliis virtutes approbare, et in se<!-- separare? -->ipsis vitia habere.</p>
+      
+      
+      <p xml:id="L_c1_p52" n="52">Corporis curatores, sui autem negli<!-- e? -->gentes, probrosos
+          existimabat, et similes iis qui domos quidem curant, sed domesticos negligunt.</p>
+      
+      
+      <p xml:id="L_c1_p53" n="53">     
+        
+        <ref type="source">Democriti.</ref>        
+        <note type="translation" resp="#CG"><w xml:lang="grc" corresp="#grcw1">γραμμάς</w>.</note>
+        <w xml:id="grcw1">Principia</w> certissima esse oportet, actiones autem praeclarissimas.      
+      </p>
+      
+      
+      <p xml:id="L_c1_p54" n="54">
+        
+        Illud te deo dignum efficiet, si nihil illo indignum feceris.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p55" n="55">
+        
+        
+        <ref type="source">Biantis.</ref>
+        
+        Lente res agendas aggreditor: ubi autem aggressus fueris, agito constanter.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p56" n="56">Sic institue vitam quasi et paulum et diu sis victurus.</p>
+      
+      
+      <p xml:id="L_c1_p57" n="57">Lacon interrogatus, cur Sparta munita non esset, "Noli", inquit,
+          "mentiri, munita est enim habitantium virtutibus".</p>
+      
+      
+      <p xml:id="L_c1_p58" n="58">
+          <ref type="source">Diogenes.</ref> Quum quidam ei ut probrum obiiceret, quod in loca impura intraret,
+          "Etiam sol", inquit, "intrat, nec contaminatur". </p>
+      
+      
+      <p xml:id="L_c1_p59" n="59">
+        
+        
+        <ref type="source">Euripidis ex Andromacha.</ref>
+        
+        Bonorum virorum reliquias tempus non abolet, sed etiam defunctis eis virtus relucet.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p60" n="60">Multi mali divites sunt, boni autem pauperes. <!--lb/-->Sed nos cum
+          istorum divitiis virtutem<!--lb/--> <choice><orig>N</orig><reg>n</reg>olimus mutare, quoniam haec semper firma est.
+          <!--lb/-->Pecunias autem bominum alias alius habet.</p>
+      
+      
+      <p xml:id="L_c1_p61" n="61">
+        
+        
+        <ref type="source">Lindi.</ref>
+        
+        Pietas colenda est, civibus optima consulenda, voluptas vincenda, nihil per vim gerendum, populi inimicus pro hoste habendus, servi dum ebrii sunt, non puniendi: secus enim tu ipse ebrius videberis.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p62" n="62">        
+        
+        <ref type="source">Lycurgus.</ref>
+        
+        Lycurgus legislator <note type="translation" resp="#CG">
+          <w xml:lang="grc" corresp="#grcw2">ἀξιόχρεον</w>.        
+        </note> <w xml:id="grcw2">assiduum</w>
+        esse dignumque cui debitum credas, in opibus: at
+        fide dignum, in moribus situm esse dicebat.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p63" n="63">
+          <ref type="source">Pythagorae.</ref> Ut idem voluptatem, corpus, pecuniam, et deum amet, fieri nullo modo
+          potest. Nam qui voluptates amat, idem et corpus amet necesse est. Iam qui corpus amat,
+          idem continuo et pecuniam. Qui autem pecuniam, idem necessario iniustus est. At iniustus,
+          in deum quidem impius, in homines iniquus est. </p>
+      
+      
+      <p xml:id="L_c1_p64" n="64">Omnia ista contemnito, quibus a corpore solutus non indigebis.
+          Quibus autem egebis tum temporis, ad ea tibi laboranti Deum auxiliari precator.</p>
+      
+      
+      <p xml:id="L_c1_p65" n="65">
+          <ref type="source">Diodori.</ref> Omnes homines imbecillitatis naturae vitio, exiguum quoddam universi
+          temporis momentum in vita durant, reliquum vero totum spacium occupati morte iacent. Et
+          illis sane, qui dum viverent praeclari nihil gesserunt, eodem cum corpore obitu omnia
+          pessum eunt: Qui vero per virtutem sibi gloriam conciliarunt, illorum actiones omnibus
+          saeculis divinissimo <!--lasciare maiuscolo?-->Historiae sermone commemorabuntur. </p>
+      
+      
+      <p xml:id="L_c1_p66" n="66">
+        
+        
+        <ref type="source">Hyperidis.</ref>
+        
+        Virum bonum quae sentit, verbis: quae facit, opere ostendere decet.
+      
+      </p>
+      
+      
+      <p xml:id="L_c1_p67" n="67">Boni cum officium non faciunt, exempla praebent peccare volentibus.</p>
+      
+      
+      <p xml:id="L_c1_p68" n="68">
+          <ref type="source">Hittaci philosophi.</ref> Bonos viros dei quandam partem habere Aristoteles dicit <!-- Discorso diretto o va bene così? -->. Dei enim est,
+          quae velit, agere. Hominis autem, quae opus sunt, providere. </p>
+      
+      
+      <p xml:id="L_c1_p69" n="69">
+          <ref type="source">Antiphanis.</ref> Si quis in rerum abundantia turpe aliquid admittit, quid expectandum
+          est ut committat in penuria?</p>
+      
+      </div>     
+      
+    </body>
+  </text>
+</TEI>
