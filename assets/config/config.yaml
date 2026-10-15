@@ -11,17 +11,22 @@ editionTextSourcesConfig:
   - type: main
     url: assets/data/greek.xml
     enable: true
-    friendlyName: Greco
+    friendlyName: Greek
 
   - type: translation
     url: assets/data/arabic.xml
     enable: true
-    friendlyName: Arabo
+    friendlyName: Arabic
 
   - type: translation
-    url: assets/data/latin.xml
+    url: assets/data/latinwithlinks.xml
     enable: true
     friendlyName: Editio princeps
+
+  - type: translation
+    url: assets/data/slavonic.xml
+    enable: true
+    friendlyName: Old Church Slavonic
 
     # A friendly name displayed instead of the url
     # friendlyName: Saba
@@ -81,13 +86,13 @@ edition:
       # Note that "label" the fallback value, EVT is going to look into the localization files (i18n folder) for the actual text
       label: diplomatic
       # Enable this edition level
-      enable: false
+      enable: true
       # Make it visible in the selector
       hidden: false
 
     - id: interpretative
       label: interpretative
-      enable: false
+      enable: true
       hidden: false
 
     - id: critical

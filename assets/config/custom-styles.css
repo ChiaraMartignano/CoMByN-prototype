@@ -82,3 +82,16 @@ evt-addition evt-note {
     text-decoration: underline;
     cursor: pointer;
 }
+
+[data-rend=align-right] {
+    text-align: right;
+}
+
+@font-face {
+  font-family: Bukyvede;
+  src: url(../fonts/BukyVede-Italic.ttf); /* url of the font */
+}
+
+[data-rend=slavonic]{
+    font-family: Bukyvede;
+}
