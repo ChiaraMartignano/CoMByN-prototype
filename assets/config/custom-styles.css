@@ -85,7 +85,6 @@ evt-addition evt-note {
 
 *[data-rend="rtl"] {
     direction: rtl;
-    unicode-bidi: bidi-override;
 }
 
 @font-face {
