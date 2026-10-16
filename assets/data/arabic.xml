@@ -38,7 +38,7 @@
     </teiHeader>
     <text>
         <body>
-            <div n="1" rend="align-right">
+            <div n="1" rend="rtl">
             <p n="title">
                 <app>
                     <lem wit="#V #R #B #S">الباب</lem>
