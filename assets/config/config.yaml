@@ -14,14 +14,14 @@ editionTextSourcesConfig:
     friendlyName: Greek
 
   - type: translation
-    url: assets/data/arabic.xml
-    enable: true
-    friendlyName: Arabic
-
-  - type: translation
     url: assets/data/latinwithlinks.xml
     enable: true
     friendlyName: Editio princeps
+
+  - type: translation
+    url: assets/data/arabic.xml
+    enable: true
+    friendlyName: Arabic
 
   - type: translation
     url: assets/data/slavonic.xml
@@ -286,9 +286,9 @@ edition:
   multiPageEngineForCriticalEdition: false
   # List of elements that should be used to identify the structure of the edition text and divide it in pages. For example "pb", "div", "seg"
   structureSeparators:
-    - pb
+    - div
   # Exponent number to be used to enumerate the pages of the edition text, for example "pb" or "cb". The exponents reset inside each parent element.
-  exponentEnumerateBy: seg
+  exponentEnumerateBy: div
 
   # How the elements of the edition text are linked to the bibliographic entries (<bibl>, <biblStruct>,
   # <listBibl>, <cit>) encoded elsewhere in the document. These values are used to resolve sources,

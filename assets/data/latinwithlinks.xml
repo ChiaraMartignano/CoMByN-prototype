@@ -22,7 +22,7 @@
         
         <head rend="align-center bold">De vitae virtute et vitio. Sermo I.</head>
         
-        <p xml:id="L_c1_p1" n="1" corresp="#G_c1_p1.1">
+        <p xml:id="L_c1_p1" n="1" corresp="#G_c1_p1">
           <ref type="source"><choice><abbr>
             <choice>
               <abbr>Matth.</abbr>
@@ -32,7 +32,7 @@
           ANGUSTA via et arcta quae ad vitam deducit.        
         </p>        
         
-        <p xml:id="L_c1_p2" n="2" corresp="#G_c1_p2.2">
+        <p xml:id="L_c1_p2" n="2" corresp="#G_c1_p2">
           <ref type="source"><choice><abbr>
             <choice>
               <abbr>Rom.</abbr>
@@ -42,7 +42,7 @@
           Noli vinci a malo, sed per bonum vince malum.
         </p>        
         
-        <p xml:id="L_c1_p3" n="3" corresp="#G_c1_p3.3">
+        <p xml:id="L_c1_p3" n="3" corresp="#G_c1_p3">
           <ref type="source">
             <choice>
               <abbr>Solomonis.</abbr>
@@ -53,7 +53,7 @@
         </p>
         
         
-        <p xml:id="L_c1_p4" n="4" corresp="#G_c1_p4.4">
+        <p xml:id="L_c1_p4" n="4" corresp="#G_c1_p4">
           <ref type="source">
             <choice>
               <abbr>Eiusdem.<!-- Da Salomone --></abbr>
@@ -62,7 +62,7 @@
           </ref> Vide ne te seducant impii, nec per viam cum illis gradiaris: sed retrahe pedem
           tuum a semitis illorum, quod pedes ipsorum ad vitia currant. </p>        
         
-        <p xml:id="L_c1_p5" n="5" corresp="#G_c1_p5.5">
+        <p xml:id="L_c1_p5" n="5" corresp="#G_c1_p5">
           <!--ref type="source">
             <choice>
               <abbr>Eiusdem.Da Salomone</abbr>
@@ -72,7 +72,7 @@
           Qui rem aliquam contemnit, contemnetur ab ipsa.
         </p>        
         
-        <p xml:id="L_c1_p6" n="6" corresp="#G_c1_p6.6">
+        <p xml:id="L_c1_p6" n="6" corresp="#G_c1_p6">
           <!--ref type="source">
             <choice>
               <abbr>Eiusdem.Da Salomone</abbr>
@@ -82,7 +82,7 @@
           Quemadmodum uva acerba nocet dentibus, et fumus oculis: sic iniquitas et legis violatio violatoribus.
         </p>        
         
-        <p xml:id="L_c1_p7" n="7" corresp="#G_c1_p7.7">
+        <p xml:id="L_c1_p7" n="7" corresp="#G_c1_p7">
           <ref type="source">
             <choice>
               <abbr>Sirach.</abbr>
@@ -92,7 +92,7 @@
           Noli mala facere, et te mala non apprehendent.        
         </p>        
         
-        <p xml:id="L_c1_p8" n="8" corresp="#G_c1_p8.8">
+        <p xml:id="L_c1_p8" n="8" corresp="#G_c1_p8">
           <!--ref type="source">
             <choice>
               <abbr>Sirach.</abbr>
@@ -102,7 +102,7 @@
           Qui prava scelera admittit, in ipsa includetur, nec intelliget unde ipsi accidant.
         </p>        
         
-        <p xml:id="L_c1_p9" n="9" corresp="#G_c1_p9.9">
+        <p xml:id="L_c1_p9" n="9" corresp="#G_c1_p9">
           <ref type="source">
             <choice>
               <abbr>Basilii.</abbr>
@@ -112,11 +112,11 @@
           Ut ignis sua natura illuminat, et unguentum odorem emittit: sic etiam bonas actiones necessario sequitur aliquod emolumentum.
         </p>
         
-        <p xml:id="L_c1_p10" n="10" corresp="#G_c1_p10.10">
+        <p xml:id="L_c1_p10" n="10" corresp="#G_c1_p10">
           Virtutis exercitatio pretiosa est habenti possessio, et iucundissimum congredientibus spectaculum.
         </p>
         
-        <p xml:id="L_c1_p11" n="11" corresp="#G_c1_p11.11">
+        <p xml:id="L_c1_p11" n="11" corresp="#G_c1_p11">
           <ref type="source">
             <choice>
               <abbr>Theologi.</abbr>
@@ -126,21 +126,21 @@
           Non solum praeclara actio nobiles efficit, sed etiam vitium improborum gloriam superans.
         </p>        
         
-        <p xml:id="L_c1_p12" n="12" corresp="#G_c1_p-.12">
+        <p xml:id="L_c1_p12" n="12" corresp="#G_c1_p12">
           Rara est boni possessio atque difficilis, etiamsi in eo sit quod multum attrahat et invitet.
         </p>        
         
-        <p xml:id="L_c1_p13" n="13" corresp="#G_c1_p12.13">
+        <p xml:id="L_c1_p13" n="13" corresp="#G_c1_p13">
           Natura vitium promptum est, et magnus ad id quod pessimum est concursus fit,
           ut torrens per prona ruit, et stipulae ad scintillam et ventum facile accenduntur ac inflammantur, et a sua ipsa prole, videlicet flammis, consumuntur.
         </p>
         
-        <p xml:id="L_c1_p14" n="14" corresp="#G_c1_p13.14"> 
+        <p xml:id="L_c1_p14" n="14" corresp="#G_c1_p14"> 
           Non est admodum facile virtutum victricem invenire, atque huic dare munera honoraria et victoriae praemia: quemadmodum nec in prato variis florum generibus
           vaestito, pulcherrimum et odoratissimum florem reperias, cum alibi alius odoratumet aspectum ad se trahat, et ad se decerpendum primum invitet.
         </p>
         
-        <p xml:id="L_c1_p15" n="15" corresp="#G_c1_p16.17">
+        <p xml:id="L_c1_p15" n="15" corresp="#G_c1_p17">
           <ref type="source">
             <choice>
               <abbr>Chrisostomi</abbr>
@@ -150,43 +150,43 @@
           Non potest fieri quin virtutis studiosus multos habeat hostes.
         </p>
         
-        <p xml:id="L_c1_p16" n="16" corresp="#G_c1_p17.18">
+        <p xml:id="L_c1_p16" n="16" corresp="#G_c1_p18">
           Non locus virtutem, sed virtus locum augustiorem reddere solet.
         </p>
         
-        <p xml:id="L_c1_p17" n="17" corresp="#G_c1_p18.19">
+        <p xml:id="L_c1_p17" n="17" corresp="#G_c1_p19">
           Si qui leges hominum terrenorum violat, supplicium inevitabile sustinet: quanto
           magis cruciatibus dedetur intolerabilibus, qui coelestis domini praescripta reiecit?
         </p>
         
         
-        <p xml:id="L_c1_p18" n="18" corresp="#G_c1_p19.20">
+        <p xml:id="L_c1_p18" n="18" corresp="#G_c1_p20">
           Ut in cithara non satis est in uno tantum nervo concentum efficere, sed universi <!--pb n="180" xml:id="p180" facs="180.jpg"/-->percurrendi sunt numerose et decenter: sic et in animi virtute non satis est nobis ad
           salutem lex una, sed universae summa cum diligentia observandae sunt.
         </p>
       
-      <p xml:id="L_c1_p19" n="19">
+                 <p xml:id="L_c1_p19" n="19" corresp="#G_c1_p16">
         Ne igitur dicamus hunc natura bonum, et illum natura malum. Si enim natura bonus est, nunquam poterit fieri malus: et si natura malus, nunquam fiet bonus.
       </p>
       
-        <p xml:id="L_c1_p20" n="20" corresp="#G_c1_p20.21">
+        <p xml:id="L_c1_p20" n="20" corresp="#G_c1_p21">
         Mali quies principium est motionis ad virtutem.
       </p>
       
-        <p xml:id="L_c1_p21" n="21" corresp="#G_c1_p21.22 #G_c1_p22.22 #G_c1_p23.22">
+        <p xml:id="L_c1_p21" n="21" corresp="#G_c1_p22 #G_c1_p23 #G_c1_p24">
         Non sustinent tenebrae lucis praesentiam, non morbus valetudine recuperata consistit, nihil agunt perturbationes si adsit tranquillitas et perturbationum vacuitas.
       </p>
       
-        <p xml:id="L_c1_p22" n="22" corresp="#G_c1_p24.23">Liberam esse convenit ab omni metu virtutem et dominatu.</p>
+        <p xml:id="L_c1_p22" n="22" corresp="#G_c1_p25">Liberam esse convenit ab omni metu virtutem et dominatu.</p>
       
       
-        <p xml:id="L_c1_p23" n="23" corresp="#G_c1_p25.23">Virtus enim et voluntaria est et ab omni metu et necessitate libera.</p>
+        <p xml:id="L_c1_p23" n="23" corresp="#G_c1_p26">Virtus enim et voluntaria est et ab omni metu et necessitate libera.</p>
       
       
-        <p xml:id="L_c1_p24" n="24" corresp="#G_c1_p26.24">Non licet aliam vitii procreationem cogitare, quam virtutis absentiam.</p>
+        <p xml:id="L_c1_p24" n="24" corresp="#G_c1_p27">Non licet aliam vitii procreationem cogitare, quam virtutis absentiam.</p>
       
       
-        <p xml:id="L_c1_p25" n="25" corresp="#G_c1_p29.26">
+        <p xml:id="L_c1_p25" n="25" corresp="#G_c1_p30">
         
         
         <ref type="source"><choice><abbr>Philonis.</abbr><expan/></choice></ref>
@@ -196,10 +196,10 @@
       </p>
       
       
-        <p xml:id="L_c1_p26" n="26" corresp="#G_c1_p30.27">Vitii exitus virtutis introitum facit: ut contra, migrante bono, insidians malum intrat.</p>
+        <p xml:id="L_c1_p26" n="26" corresp="#G_c1_p31">Vitii exitus virtutis introitum facit: ut contra, migrante bono, insidians malum intrat.</p>
       
       
-        <p xml:id="L_c1_p27" n="27" corresp="#G_c1_p31.28">
+        <p xml:id="L_c1_p27" n="27" corresp="#G_c1_p32">
         
         
         <ref type="source"><choice><abbr>Clementis.</abbr><expan/></choice></ref>
@@ -207,12 +207,12 @@
         A malis liberari, salutis est initium consequi.
         
         </p>
-        <p xml:id="L_c1_p28" n="28" corresp="#G_c1_p-.29*"> Iustitia ut videtur quadrata est, par et similis in verbo
+        <p xml:id="L_c1_p28" n="28" corresp="#G_c1_p33"> Iustitia ut videtur quadrata est, par et similis in verbo
           et opere, in malorum abstinentia, in beneficentia, in perfectione erudita, nusquam ulla ex
           parte claudicans, ut ne iniusta et inaequalis videatur. </p>
       
       
-        <p xml:id="L_c1_p29" n="29" corresp="#G_c1_p32.30">
+        <p xml:id="L_c1_p29" n="29" corresp="#G_c1_p34">
         
         
         <ref type="source"><choice><abbr>Nili.</abbr><expan/></choice></ref>
@@ -222,7 +222,7 @@
       </p>
       
       
-        <p xml:id="L_c1_p30" n="30" corresp="#G_c1_p33.-.30a">
+        <p xml:id="L_c1_p30" n="30" corresp="#G_c1_p35">
         
         
         <ref type="source"><choice><abbr>Didymi.<!-- Nel greco figura come di Nilo --></abbr><expan/></choice></ref>
@@ -232,13 +232,13 @@
       </p>
       
       
-        <p xml:id="L_c1_p31" n="31" corresp="#G_c1_p-.-.30b">Regnum coelorum dicere licet statum et vivendi rationem, eorum qui ex divinis legibus moderate vivunt.</p>
+        <p xml:id="L_c1_p31" n="31" corresp="#G_c1_p36">Regnum coelorum dicere licet statum et vivendi rationem, eorum qui ex divinis legibus moderate vivunt.</p>
       
       
-        <p xml:id="L_c1_p32" n="32" corresp="#G_c1_p34.31">Omnis activa virtus in hoc consistit ut fiat, non ut facta sit.</p>
+        <p xml:id="L_c1_p32" n="32" corresp="#G_c1_p37">Omnis activa virtus in hoc consistit ut fiat, non ut facta sit.</p>
       
       
-        <p xml:id="L_c1_p33" n="33" corresp="#G_c1_p35.32">Virtus altera ex parte claudicare non debet, sed verbo et opere rectam et integram esse oportet.</p>
+        <p xml:id="L_c1_p33" n="33" corresp="#G_c1_p38">Virtus altera ex parte claudicare non debet, sed verbo et opere rectam et integram esse oportet.</p>
       
       
         <p xml:id="L_c1_p34" n="34" corresp="#G_c1_p37.34">
@@ -252,7 +252,7 @@
       </p>
       
       
-        <p xml:id="L_c1_p35" n="35" corresp="#G_c1_p38.35">
+        <p xml:id="L_c1_p35" n="35" corresp="#G_c1_p41">
         
         
         <ref type="source"><choice><abbr>Plutarchi.</abbr><expan/></choice></ref>
@@ -262,30 +262,30 @@
       </p>
       
       
-        <p xml:id="L_c1_p36" n="36" corresp="#G_c1_p39.36">Ut iis qui exercentur in gy<!-- i? Penso di no -->mnasiis cibus: sic eruditis virtus suavis videtur.</p>
+        <p xml:id="L_c1_p36" n="36" corresp="#G_c1_p43">Ut iis qui exercentur in gy<!-- i? Penso di no -->mnasiis cibus: sic eruditis virtus suavis videtur.</p>
       
       
-        <p xml:id="L_c1_p37" n="37" corresp="#G_c1_p44.41">Etsi improbi homines probitatem et benignitatem pollicentur, tamen propter mores eis fides non habetur.</p>
+        <p xml:id="L_c1_p37" n="37" corresp="#G_c1_p48">Etsi improbi homines probitatem et benignitatem pollicentur, tamen propter mores eis fides non habetur.</p>
       
       
-        <p xml:id="L_c1_p38" n="38" corresp="#G_c1_p45.42">Statuam quidem figura, virum autem exornat actio.</p>
+        <p xml:id="L_c1_p38" n="38" corresp="#G_c1_p49">Statuam quidem figura, virum autem exornat actio.</p>
       
       
-        <p xml:id="L_c1_p39" n="39" corresp="#G_c1_p47.44">Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius tamen cerneris.</p>
+        <p xml:id="L_c1_p39" n="39" corresp="#G_c1_p51">Omnia facito quasi neminem caelaturus: nam etsi in praesens caelaris, posterius tamen cerneris.</p>
       
       
-        <p xml:id="L_c1_p40" n="40" corresp="#G_c1_p48.45">Sic vitam institue, ut neque a potentioribus contemnare, neque inferioribus terribilis videare.</p>
+        <p xml:id="L_c1_p40" n="40" corresp="#G_c1_p52">Sic vitam institue, ut neque a potentioribus contemnare, neque inferioribus terribilis videare.</p>
       
       
-        <p xml:id="L_c1_p41" n="41" corresp="#G_c1_p49.46">Omnia in futurum bene se habebunt, si quod praesens est recte fuerit compositum.</p>
+        <p xml:id="L_c1_p41" n="41" corresp="#G_c1_p53">Omnia in futurum bene se habebunt, si quod praesens est recte fuerit compositum.</p>
       
       
-        <p xml:id="L_c1_p42" n="42" corresp="#G_c1_p50.47*">Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri
+        <p xml:id="L_c1_p42" n="42" corresp="#G_c1_p54">Cum quidam iniuria illum affecisset, et fugeret, obviamque fieri
           non auderet, aliquando tandem in fugientem incidit, ac ei, "Non oportet", inquit, "ut tu
           me, sed ego te cum sis improbus fugiam".</p>
       
       
-        <p xml:id="L_c1_p43" n="43" corresp="#G_c1_p52.49">Non est cum cane comparandus, immo ne cum asino quidem, timidus vir et imbellis,
+        <p xml:id="L_c1_p43" n="43" corresp="#G_c1_p56">Non est cum cane comparandus, immo ne cum asino quidem, timidus vir et imbellis,
         divitiis et delit<!-- Modificare in c? -->iis diffluens.</p>
       
       
@@ -299,7 +299,7 @@
       </p>
       
       
-        <p xml:id="L_c1_p45" n="45" corresp="#G_c1_p55.52">
+        <p xml:id="L_c1_p45" n="45" corresp="#G_c1_p59">
         
         
         <ref type="source"><choice><abbr>Demosthenis.</abbr><expan/></choice></ref>
@@ -309,7 +309,7 @@
       </p>
       
       
-        <p xml:id="L_c1_p46" n="46" corresp="#G_c1_p56.53">
+        <p xml:id="L_c1_p46" n="46" corresp="#G_c1_p60">
           <ref type="source"><choice>
               <abbr>Clitarchi.</abbr>
               <expan/>
@@ -444,7 +444,7 @@
           Quibus autem egebis tum temporis, ad ea tibi laboranti Deum auxiliari precator.</p>
       
       
-      <p xml:id="L_c1_p65" n="65">
+       <p xml:id="L_c1_p65" n="65" corresp="#G_c1_p82.79">
           <ref type="source"><choice>
               <abbr>Diodori.</abbr>
               <expan/>
@@ -465,10 +465,10 @@
       </p>
       
       
-      <p xml:id="L_c1_p67" n="67">Boni cum officium non faciunt, exempla praebent peccare volentibus.</p>
+      <p xml:id="L_c1_p67" n="67" corresp="#G_c1_p84.81">Boni cum officium non faciunt, exempla praebent peccare volentibus.</p>
       
       
-        <p xml:id="L_c1_p68" n="68" corresp="#G_c1_p88.76 #G_c1_p-.77">
+        <p xml:id="L_c1_p68" n="68" corresp="#G_c1_p80.76 #G_c1_p-.77">
           <ref type="source"><choice>
               <abbr>Hittaci philosophi.</abbr>
               <expan/>
